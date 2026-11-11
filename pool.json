@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:56:22Z",
+  "updatedAt": "2026-11-11T19:36:43Z",
   "items": [
     {
       "id": "japan-censorship",
@@ -54,6 +54,17 @@
       "added": "2026-11-11T18:43:33Z",
       "orig": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records",
       "news": 6,
+      "humor": 5
+    },
+    {
+      "id": "wrap-excitement-sixth-week",
+      "title": "Leonida tops audience excitement list a sixth straight week, rivals wait their turn",
+      "source": "TheWrap",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxONTNTYWRhSkFHcFZwcF9NZWw5WDB3ZjROemM1eFViZWtSN2ttYlFDMTVKXzFUVWpBNXZjTHd3NGthNll3SE5GakUzMzZOV1d4Z2FKTXo3LU95ZERZZUxxeTY5cFNIeGtFbmxkbXRRUGFRMy05aFFicWgycDFHajBiOGFMQUVELWh4dGJYaXRDbWlqWGp6djhTcmV0NnpxOEpNSVhjT1c5TkEyc1RGMWt6clJaWjc0U0FqWFBuTGNoTlVHR0k2bWo3ZzN3dUNUUDFIYXc?oc=5",
+      "published": "2026-11-11T17:45:38Z",
+      "added": "2026-11-11T19:36:43Z",
+      "orig": "Grand Theft Auto VI Tops Audience Excitement List for 6th-Straight Week",
+      "news": 4,
       "humor": 5
     },
     {
@@ -123,6 +134,28 @@
       "humor": 6
     },
     {
+      "id": "metacritic-guess-contest",
+      "title": "Contest offers $500 to whoever best guesses the Metacritic score, critics sharpen pencils",
+      "source": "GAMINGbible",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2ZzMHU5S0FJSnh5azgzLU5haFlwNzN1R3BkNTNnbVRRWV9IOGNCUW12SVpVc0FlT1FJYnJWOUN1UHJqcFFTYnNneWo0R3V1NEVtbVVielJFcUpMUFNielZ5R0dLTDRXTXo1U3RBRzJiWDdaNDlkbVpWMUFNTjJ0akY1am8zMEswSnFtZTRFd1RadHcwVE5lcQ?oc=5",
+      "published": "2026-11-11T16:00:00Z",
+      "added": "2026-11-11T19:36:43Z",
+      "orig": "GTA 6 contest could see you net $500 just for guessing the game's Metacritic score",
+      "news": 3,
+      "humor": 6
+    },
+    {
+      "id": "travis-scott-plans",
+      "title": "Travis Scott's launch plan: beats, pizza, bring your own controller",
+      "source": "Complex",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHpCU2hSRW1NLVlRcEVxYmhGRWZySldrWkNaYXkyUmloalBsWHNpV3Zxem5hMkgtc0VuY0hOQUpGalBwdm1yRHY4anNLRm9yWHNFVkF3VHJGNWNsTXgxN3RHVHBOeXVETUNZSzhaVkJjWmhKYlIyMnBZNUxVTkt0LUFFMWtjUEJIaGc?oc=5",
+      "published": "2026-11-11T15:43:47Z",
+      "added": "2026-11-11T19:36:43Z",
+      "orig": "Travis Scott Has His 'Grand Theft Auto VI' Plans Set: 'Beats, Pizza, Bring Ya Own Controller'",
+      "news": 3,
+      "humor": 5
+    },
+    {
       "id": "guardian-gameplay",
       "title": "Guardian interview coughs up fresh GTA VI gameplay details, sources feign calm",
       "source": "VICE",
@@ -131,6 +164,17 @@
       "added": "2026-11-11T18:56:22Z",
       "orig": "GTA 6 Guardian Interview Reveals New Gameplay Details",
       "news": 5,
+      "humor": 4
+    },
+    {
+      "id": "datamined-series-s",
+      "title": "Datamined files may hint at sharper visuals on Series S, Leonida watchers squint at code",
+      "source": "Windows Central",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Bdm8tOVB3NzBYZ1lNYXpTeFJ0NWRZbTF1emsxWGg4bVlRVUFLeF9xeXRvakJvNFFLRkRET3dzc2dhR1R3UEIxcml6bGV4akQ3Y2NadGdiSDJXSjUxNkF2QlBkTkRaSDJ1SzNPN0lIRW1rU0NCWGl3RTR4aGE?oc=5",
+      "published": "2026-11-11T14:37:07Z",
+      "added": "2026-11-11T19:36:43Z",
+      "orig": "GTA 6 is days away on Xbox, and I’m watching two datamined files that could mean sharper visuals, especially on Series S",
+      "news": 4,
       "humor": 4
     },
     {
@@ -143,6 +187,17 @@
       "orig": "Photos: GTA VI’s six cars hit Miami streets as fictional rides become real machines",
       "news": 4,
       "humor": 3
+    },
+    {
+      "id": "hollywood-braces",
+      "title": "Hollywood braces for 'biggest entertainment launch in history', checks calendars",
+      "source": "The Hollywood Reporter",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDBjbzQ5Q3MyYW03SmZpWUVCeXgtZnBCSUtFT0NTdUR1NGtrUVVYM3RsX3k0dHdIem1qUzNtWGE0ZVB3WjZ6a2tjeWRKLWxjMkVNdm5rY2JzX0JnNWRSVXVWX0c3ck9SS1UzRWUwRER6WmhNSEo2a0pxQ2pwVkJ6bzZhXzRGVEJpU2c4dDJjVTlsdHMtNVNDMVRLUGlBVExKYVlURjBHOGFEY0E?oc=5",
+      "published": "2026-11-11T14:16:46Z",
+      "added": "2026-11-11T19:36:43Z",
+      "orig": "‘GTA 6’ vs. Hollywood: Industry Braces for “Biggest Entertainment Launch in History”",
+      "news": 4,
+      "humor": 6
     },
     {
       "id": "thirty-fps",
@@ -165,6 +220,17 @@
       "orig": "Travis Scott and Cardi B Join GTA VI Festival Lineup in Miami - 24Hip-Hop",
       "news": 6,
       "humor": 3
+    },
+    {
+      "id": "take-two-what-comes-next",
+      "title": "Take-Two boss: Rockstar's eyes already on 'what comes next' after Leonida launch",
+      "source": "GamingBolt",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONy1xdHpzel8xdl9zaERXZkhSMWlTTG1ZUGNadU56TlNIN2J1cVQxb0JTUkpyX1N0cjdkTzduRU5FblFOLTNSVWF3bExpVGp2R2lKN3NVRUI1UUxTLU1RR1VTX0Yzc2R6VGRYNW8tU25FR2k2aXQ1blNSNXdIeTJyZ2tKcU5LTDRueThqRUFrWjg1dkJ3YnZLbkxXOUY?oc=5",
+      "published": "2026-11-11T13:17:51Z",
+      "added": "2026-11-11T19:36:43Z",
+      "orig": "GTA 6 Studio Will Focus on “What Comes Next” After Launch, Says Take-Two CEO",
+      "news": 5,
+      "humor": 4
     },
     {
       "id": "12m-off-work",
