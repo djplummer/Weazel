@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T18:43:33Z",
+  "updatedAt": "2026-11-11T18:56:22Z",
   "items": [
     {
       "id": "japan-censorship",
@@ -8,7 +8,9 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSLUU4WDUwNGpGNUVFOE1lOVRNbkYtb29QSjUtU2d2b0NRdHNVNU02RlZYQ2tXV042ZS1QdHZtWldNS3lMcE1qRHRZeGxfUm8zU2dUMXhaSjhBbUZyZkxQMEZSRC1RSEJNOGFNMWtJMUROS1dDamw2a3FQWUE0dE0?oc=5",
       "published": "2026-11-11T18:26:44Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6’s smaller Japanese file size and rating fuel speculation about content cuts"
+      "orig": "GTA 6’s smaller Japanese file size and rating fuel speculation about content cuts",
+      "news": 5,
+      "humor": 6
     },
     {
       "id": "ps5-100m",
@@ -17,7 +19,9 @@
       "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGQ4eGhUdnF2VW9rQXRlUGVremxBaTRHTEc4bk4yR254RXZ4WG9BUnBOSWRmV29iSEFMa3p1bERwcTFrUGRhZ3NiZzJ5MTVZNG4yOXlEMjdHTHZDTkdFNUlLRnVpZFZXYzE5YWdzS2R6MGt0anBkSE11UmdVTHVxaW1vWjlUZThSSGFGanZmeUZYdUhYNXBBSQ?oc=5",
       "published": "2026-11-11T18:21:31Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "PS5 Passes 100 Million Shipments as GTA VI Prepares to Launch"
+      "orig": "PS5 Passes 100 Million Shipments as GTA VI Prepares to Launch",
+      "news": 7,
+      "humor": 6
     },
     {
       "id": "wapo-1b-presales",
@@ -26,7 +30,9 @@
       "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGpKbTJwaHF3VnRPMzh2SWx4dm1jNk1tckF0bUo1RF9RTGtsdkdNUE12M2J4Wjh3eEdvekwwamNSYlU5T3N3RS0tb2t3clFoYXA3eTlFSk1kcXYwX25QWkZkaloxMWdaaExKYk51WkhVR1FQTEdjOEFwT0pWN2ctYzMtNUdra1d5X3VjT3RUdlRzdTlJSUUydFQyM0RGV0d0Q3I3NTJnN2dxMXZnczNzTzRmLVNsTE9hUHhObXdmRmdIVjhGalBqTHgteWZSVzlF?oc=5",
       "published": "2026-11-11T18:12:50Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "‘Grand Theft Auto VI′ reportedly passes $1B in sales a week before release"
+      "orig": "‘Grand Theft Auto VI′ reportedly passes $1B in sales a week before release",
+      "news": 8,
+      "humor": 6
     },
     {
       "id": "preload-forbes",
@@ -35,7 +41,9 @@
       "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5",
       "published": "2026-11-11T18:07:58Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP"
+      "orig": "‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP",
+      "news": 6,
+      "humor": 7
     },
     {
       "id": "vmo2-records",
@@ -44,7 +52,9 @@
       "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSWN2N09ycWE1TXJZQms1Q1o0VXJBV1M3eWFFQTBnSlAxNGRONVpJd2pHQUFZNHktNTI3V1c1cjl6VFE1UVJKRGtCOUhBSFZwRWhscjRsbFRFaHpYQlJEaVV6dEo1eUhKQjNBT3R6UUtqelRNUzFmTDVJRFh1bjQ?oc=5",
       "published": "2026-11-11T17:48:23Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records"
+      "orig": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records",
+      "news": 6,
+      "humor": 5
     },
     {
       "id": "212gb-nodisc",
@@ -53,7 +63,9 @@
       "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmptWkhWdzhEcFhJd3M4eC1wX3AxOVV2NmtvVEZld1lHdnIyZ200ZDBmQ1Z1RC1nMWM3V0pXWHFqY1BOTzBDYUwyQXVTQVpHN3FOd3FjVG9pR0VRWXpDQlBpNHVaQUw4QlV3bFhaRWgxSjV0MERpWEVDU1dIYXFvdVRzOTY2TVM0UTVKTg?oc=5",
       "published": "2026-11-11T17:34:48Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA VI will reportedly require up to 212 GB, ship without a disc, and unlock worldwide on November 19, 2026"
+      "orig": "GTA VI will reportedly require up to 212 GB, ship without a disc, and unlock worldwide on November 19, 2026",
+      "news": 5,
+      "humor": 5
     },
     {
       "id": "festival-tickets",
@@ -62,7 +74,9 @@
       "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTnp3d09QR0NBN0lXYTFXLUFaMF82dzF3d293djFWaGw1al9Hb0t4MXVGajFhUk8tbUdCMUJ3UEtqRjBkRmdyLUtBeWVyOEIxaVJhd2ZORmRxRFJXS2o1Tm1uSlRSanFxM254NkpDWHhhS1lNQ3c5NVkyeUNONzBjSlBtVThBZXVlSUVZcXZ4SldTc1RJOGlpc2VIS0JLOEpfZm5IcU04MzNONU9XdzQ4UGFwelkzN2lYSEpKdk41SWN0MHFLZWFENE5TdGl6UHprQ2hiV01TUi13aG0yS19tRnVvaHpfQ0ZVNnNLRW4tUVk1UQ?oc=5",
       "published": "2026-11-11T17:08:00Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA VI Festival tickets go on sale today, celebrate in Miami starting at $214"
+      "orig": "GTA VI Festival tickets go on sale today, celebrate in Miami starting at $214",
+      "news": 6,
+      "humor": 5
     },
     {
       "id": "selfridges-cheetah",
@@ -71,7 +85,9 @@
       "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzJZQ2ttaXF6aExsZ2dhcXlhbUdRcGtiZWF0VlR3NUxOOGtzZktFYUxKMHJKSUFxN1Z4WWYzRllSM2d6NWhYNVpPLTRNdzFNTjJ2ZlhiREM4ZGt4VlpxOEZiQVFnR2Y2QTdodE9VWDRWS1ZHMFlLa09DbmIyc2tDYVEwckVodGpDdVdwbHl5bkFRSW9BYkRFWm1pWnZlV2kxTUJ6eXlHa0Q1X3QxaGRBdmVvdF9TWC1xc0ZEV0RIRjV1cnc?oc=5",
       "published": "2026-11-11T17:00:00Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "Selfridges goes GTA 6 merch mad – even selling a real-life Grotti Cheetah supercar for £1 million"
+      "orig": "Selfridges goes GTA 6 merch mad – even selling a real-life Grotti Cheetah supercar for £1 million",
+      "news": 6,
+      "humor": 6
     },
     {
       "id": "ai-piracy",
@@ -80,7 +96,9 @@
       "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2FveF9NMWNxNXpacVRTOHlCNXhWY3Z6OVAyTVF0RWJvam16emJ0RndrUVVmNHpnd3dlUEVyajRqX3dkUE4tWWk2eTBNMHl5bS1Pamh4UnduaXRQdWgtaHhtTWlEcDltZjQ4RkZVUVNtdDRTMWdSYWxVdV92QWkxZDlEelB1ZTE2NllQUk1HTFNobEJDOHA0aTl3cm03Z20wenZPdmJyUTlTbjg?oc=5",
       "published": "2026-11-11T16:31:16Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "Rockstar’s Parent Company Warns of AI-Assisted GTA 6 Piracy Ahead of PC Release"
+      "orig": "Rockstar’s Parent Company Warns of AI-Assisted GTA 6 Piracy Ahead of PC Release",
+      "news": 5,
+      "humor": 5
     },
     {
       "id": "most-preordered",
@@ -89,7 +107,9 @@
       "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SkZESUdGS2Nnbm1mZFMzZUpLMUxGSG5iMXo4VUJ3RnFIMDdaeHppUElkQUtfNlo2YXUyN2NOZWFJODg1aWpQclJ2QnpjUld6V2RBdWN0TjNwODBlbXRFeW8wOXhTUXM?oc=5",
       "published": "2026-11-11T16:00:36Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "‘Grand Theft Auto VI’ becomes most pre-ordered game in PlayStation and Microsoft Store history"
+      "orig": "‘Grand Theft Auto VI’ becomes most pre-ordered game in PlayStation and Microsoft Store history",
+      "news": 8,
+      "humor": 5
     },
     {
       "id": "zelnick-demand",
@@ -98,7 +118,31 @@
       "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3JKTVc5UXpVY0gzMHk0bW9POVRXV1lyOFdPcHhhWF8zUkJkc2FNMDU2Q2RUd3RWdUd1QXBueHc5Vm5yWU9IeW85WDZieFRpdVcwOFZseV9MaTZYTXl6YXRYZkhBaUxicF8ycDdzV0ZUZXlWbnlYQ29ucU5JRzZNc0lKUHdIdTMtZDRXVW5HZlBPV1dfNFNFQkhhbw?oc=5",
       "published": "2026-11-11T16:00:06Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6 Demand Is 'Extraordinary,' but Take-Two CEO Isn't Ready to Declare Victory"
+      "orig": "GTA 6 Demand Is 'Extraordinary,' but Take-Two CEO Isn't Ready to Declare Victory",
+      "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "guardian-gameplay",
+      "title": "Guardian interview coughs up fresh GTA VI gameplay details, sources feign calm",
+      "source": "VICE",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUTRiQ0lGM2pyN09yNjJxOFpyR2tMWHV3dGhLbHlHZkc5elplMXN3WElNTGRUWUxlaG5SMmJ3c3M3Q2RnQ1owOE9VX05sTzZHak1ZdlpUdnc4YVJSdkcwbktHYkNkV3pEMEg2bzN6Q1JQNE9OaHZKWmFkOXZPanlYRzVUbU84VUNIcU5V?oc=5",
+      "published": "2026-11-11T15:08:47Z",
+      "added": "2026-11-11T18:56:22Z",
+      "orig": "GTA 6 Guardian Interview Reveals New Gameplay Details",
+      "news": 5,
+      "humor": 4
+    },
+    {
+      "id": "six-cars-miami",
+      "title": "Six GTA VI cars hit Miami streets as fictional rides turn real",
+      "source": "Interesting Engineering",
+      "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNUlRxT3FjM2ZvVlFmMy10bm42OGdqQjBEYnRnbXJEbzRMNEhDLTI2Rm05RW1PM2pqVUZiSkozU3hLeThTWmVTUkVNVncxekx0WUhnQnVYYjNTWlladERjYy1lRmdRbVBsYWQ1dkdDVmVJNUhPNGRFYjdjcTU1cGNWb3NUcld0UkJfRHJEN2kwcGE?oc=5",
+      "published": "2026-11-11T14:23:00Z",
+      "added": "2026-11-11T18:56:22Z",
+      "orig": "Photos: GTA VI’s six cars hit Miami streets as fictional rides become real machines",
+      "news": 4,
+      "humor": 3
     },
     {
       "id": "thirty-fps",
@@ -107,7 +151,9 @@
       "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGptdDBYbXpJQ1FMd0ZrLXNiZWVFdFhINDdhdThjWWp2Q3RHNW5sVmlxTjVHdU13cnhNaFNwQjdzM1Z4MmM0MTI0OHF3WVdESndxVThuMHhGekltQ2hQQ1ZRX0JZVFBtNjBXb1lDT3JqYnNnWm9yWklkcThwc09md0Y1YXNNbkZrWVE?oc=5",
       "published": "2026-11-11T13:37:57Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6's 30 FPS Console Limit Officially Confirmed Alongside PS5 Pro Features"
+      "orig": "GTA 6's 30 FPS Console Limit Officially Confirmed Alongside PS5 Pro Features",
+      "news": 9,
+      "humor": 4
     },
     {
       "id": "festival-lineup",
@@ -116,7 +162,9 @@
       "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1mWEpwOTNGREU4N1BoREl3YzN1OGxaUDZLSFhRNmhjNzg1Wmoyc0ZRd1F5V05qRFdHckN2R01YdEIxSndXZUE4VW9NbHloc0ZNTVVwQVI0bkxsTkJlUzI2aW5aNzhBdmFxa2p4ZW90SHhxYnM?oc=5",
       "published": "2026-11-11T13:34:52Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "Travis Scott and Cardi B Join GTA VI Festival Lineup in Miami - 24Hip-Hop"
+      "orig": "Travis Scott and Cardi B Join GTA VI Festival Lineup in Miami - 24Hip-Hop",
+      "news": 6,
+      "humor": 3
     },
     {
       "id": "12m-off-work",
@@ -125,7 +173,9 @@
       "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtZllhRlh4UVVkTmpHYkxjMlJKLUF5aXlBbWFmMFY0cHd4ZWZlUnN6d1ZreVpBX3B6bjN3VVBWbmZIOWlTRjBsY0JhWXJSYnhkVEUtdUNUQkE0b3RYQ2ZuRg?oc=5",
       "published": "2026-11-11T13:00:27Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People"
+      "orig": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
+      "news": 5,
+      "humor": 6
     },
     {
       "id": "discless-unboxing",
@@ -134,7 +184,9 @@
       "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHR1ZUxlVGw1eWN1Qm9JdW9IWWFndmNiLVVBQnNKYVhpWGRmak85bzdPNnFZWV9FVHp4Q2ZkWGR6aXhyNENIZ0g3WXEtaUFnNFhlUVo1MGc3cWJ6aUZLN2JKY3BtMWQ2TGQxa2JRN0o0MzV1emR0cjAwLThmOGhMWkpXd3Rma04zWFpVeGk1OWc1dTVXX0RGNWFrZ2pmYVp2VXc?oc=5",
       "published": "2026-11-11T12:04:29Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6 Physical Edition Unboxing Videos Show Off Poster And Discless Case"
+      "orig": "GTA 6 Physical Edition Unboxing Videos Show Off Poster And Discless Case",
+      "news": 5,
+      "humor": 4
     },
     {
       "id": "review-scores",
@@ -143,7 +195,9 @@
       "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjMDlMRDJ3bFVOSnR1aVJhYTl6MDdYc2hqdDlTVWFRb1MzWlhrMi1QNHZ2aFptd1ZNSncyT2YtV0NSXzdyUGFMWURFQV9VYkhBcmIwZ29LSzY5Sy1nSVNnckpYSGpiTGFoOWNCYWsySmhFdHk0cU5uRg?oc=5",
       "published": "2026-11-11T10:38:29Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6 First Review Scores Appear To Have Surfaced"
+      "orig": "GTA 6 First Review Scores Appear To Have Surfaced",
+      "news": 5,
+      "humor": 6
     },
     {
       "id": "xbox-one-cloud",
@@ -152,7 +206,9 @@
       "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHNkQ3h6dFZOTXM1Wk04SzN6dUtuTEZWZ3VRc1AzaHhWcUgybUR4TmZ0a2Q3TktGajhoSUZLZm9nVUwxQjQyeXQ1SGVDQ3hqaXB4Q1FaaFVBanpYTXZPSWFLNFRRR25fVmhFU3JOYWRVUzVBQlZxRE9kSGtQR2ZRSzVZb1NDN0pneUEzWEh3OEdjMkUweTdVRFlIUFBqQdIBowFBVV95cUxPcEoyQ19NMjF5Mkpra0NRVWg5SUUwWDE1QXh0Tllfbm8tU2RoeklfaE9jOFhOeU13VUNVcHJfckVpSVpfUzR2SUdJMWlGaGdlUEVXakNlUDVjMUtHT1FZMlA2T1NDYWt5QWJDVlZhTHhzd3E5VXNnV3dzUnNMcDVjYjE0WW1WNlY3bHdkSVVZWG5wQlBZSEVtWU83SVNhTFltbFhZ?oc=5",
       "published": "2026-11-10T23:42:12Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19"
+      "orig": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
+      "news": 9,
+      "humor": 5
     },
     {
       "id": "logitech-day-off",
@@ -161,7 +217,9 @@
       "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnl3U19VVF9tRFpkLVZTZDRCTFF2VW5GbG1UX1llNkc0R3laXzU5UnlTUnNucDljdzVfTGY4RDhsc0xPRkxnWWlsLTZUN1lxNUhKX0JDeG1XU0lUZ1UyZFQyM2U1RVpkZ3BMaXk3ZUt6dkNDUDVuMU91d3hXSDNJQ0F1aGxYcnROLS1sTGV3WURtbG1BUFN0ZGtzODhYdHpwVnVEdU5mUU5DcElNTXVJWjRUQU5aM0xES1pWSUNaUEF2bjFxX1dPeE13?oc=5",
       "published": "2026-11-10T15:21:00Z",
       "added": "2026-11-11T18:43:33Z",
-      "orig": "Ahead of GTA VI’s release, Logitech is giving 7,000 employees the day off to play video games"
+      "orig": "Ahead of GTA VI’s release, Logitech is giving 7,000 employees the day off to play video games",
+      "news": 5,
+      "humor": 7
     }
   ]
 }
