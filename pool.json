@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-11T20:43:37Z",
+  "updatedAt": "2026-11-11T21:43:42Z",
   "items": [
+    {
+      "id": "fsr-xbox-launch",
+      "title": "Xbox build packs sharper upscaler, but Leonida keeps it switched off on day one",
+      "source": "TechPowerUp",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeW9hRVRrMkdYS01uZU90VlY0Y3lHdTY2RFN4Vlh6LVUwYXIxUXp0MTRjYnJWWkRSVmJQM2M2MDBkRnlIZGR4UHBuNDR1aUNOYl9oZWRHV1ZkVXVmWjUya3dYb3dXMmZfTkZveG1IbEZleFk2UDdqTE5iSUlpTU5oOWVvaWtTcEFCa2R3QTl4SmNNLVdtbVlkOGY5WjhDd1ZtTWlyb3hQOTPSAa4BQVVfeXFMUEJpcUVsMFp4UjVpckJrMFN0b2g4RGNXcm4zd2k3NG80RkEzY0xkQVhhNzctUDI5NlZvYmVocG5oVy1YajRJd1NDY21WMWlSaGI2dldhbTZSYnlQUjNleVIzS0xUUG1KU284RHFOZ3NLRnNQVDExWjRhOVNCbEJOdC1qVnZGYjdRNkJnR3J0Q3l5ZmROZ3k5Vi1zOWV1c2FLWlk1VkZUYVRQUFNfdUtB?oc=5",
+      "published": "2026-11-11T20:38:57Z",
+      "added": "2026-11-11T21:43:42Z",
+      "orig": "Grand Theft Auto VI for Xbox Packs FSR 4.1.2, But Not Enabled at Launch",
+      "news": 4,
+      "humor": 5
+    },
     {
       "id": "gta7-international-question",
       "title": "Leonida not even open yet, and Rockstar is already fielding questions on GTA 7 abroad",
@@ -77,6 +88,17 @@
       "orig": "Grand Theft Auto VI Tops Audience Excitement List for 6th-Straight Week",
       "news": 4,
       "humor": 5
+    },
+    {
+      "id": "early-play-timezone",
+      "title": "Leonida's front door opens a day early if you move your console to New Zealand",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XZmFiZG1mdkpSc0xWNmxSdXZGUDZ0SG5HQm9iM0ZBbzRhWlFxUFU4OHhwRjlSZF9hLVh6QWt2MkZNVjNhNjhOT2dkR0N6U0laS3ZHWlAyNHMtM3FERWJSWkZVR0NNdlJ2N3BVel9ZajRjV1BY?oc=5",
+      "published": "2026-11-11T17:35:03Z",
+      "added": "2026-11-11T21:43:42Z",
+      "orig": "How to play 'GTA 6' a day before everyone else in the U.S.",
+      "news": 4,
+      "humor": 6
     },
     {
       "id": "212gb-nodisc",
