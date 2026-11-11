@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-11T21:43:42Z",
+  "updatedAt": "2026-11-11T22:47:15Z",
   "items": [
+    {
+      "id": "rockstar-instagram-first-person-clip",
+      "title": "Rockstar posts first-person Leonida clip on Instagram; viewers advised to blink",
+      "source": "Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPaF9oNS11Q3BXbmxFTVAzWlIwVnJubGoxTlVlY05QSzJ6YUdTQXV2dnpZRk9ndnNRaHlKMUlkcnByNVpfRWJpWWctQmJydEFXNER5NmNnMFEtNDh6cmF4Ukk5b2I4SnphS1lqMHFpeGtVN3U2RnA5WjBfdlQzTFZjZTBnYzNpRVVJdTg1TlZGbw?oc=5",
+      "published": "2026-11-11T20:43:00Z",
+      "added": "2026-11-11T22:47:15Z",
+      "orig": "Unreal GTA 6 First-Person Clip Posted by Rockstar Games on Instagram",
+      "news": 6,
+      "humor": 4
+    },
     {
       "id": "fsr-xbox-launch",
       "title": "Xbox build packs sharper upscaler, but Leonida keeps it switched off on day one",
@@ -20,6 +31,17 @@
       "published": "2026-11-11T19:25:00Z",
       "added": "2026-11-11T20:43:37Z",
       "orig": "With GTA 6 map again set in U.S., Rockstar addresses whether GTA 7 will go international",
+      "news": 3,
+      "humor": 5
+    },
+    {
+      "id": "gta6-download-years-slow-connections",
+      "title": "Some players face years-long GTA VI download; Vice City will be there when they arrive",
+      "source": "Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNzc0UzFmUzEtUlduN2NVV0ZDSWxVc2ozZGpJRzcyQVo3THhlemFLYWphdFhucFNDSjVuRVBLVHNZWnVpeVplU2NDc201Zm81NUpaaEw0VGM4ek9JR1U5SzR4M0hneHByVGVKcFFNY2d0MU9TVWJNdUJHN0hxcklqdVZsQjVBZ0N0eW5lVHNxUWJ6VXg3WmFVMGdpSDJ2aW96OHFGREEyVHNlV044ZmR3NmgzQkZTVW5hZ0VuY0tpdmp3NGFMLWFER1JYN25zal9RM05EaDFVSmo?oc=5",
+      "published": "2026-11-11T18:59:00Z",
+      "added": "2026-11-11T22:47:15Z",
+      "orig": "Downloading GTA 6? Apparently, it will take some players years – and the community is having a blast!",
       "news": 3,
       "humor": 5
     },
