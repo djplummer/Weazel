@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-12T10:44:17Z",
+  "updatedAt": "2026-11-12T11:44:09Z",
   "items": [
+    {
+      "id": "rockstar-union-vote",
+      "title": "Rockstar staff vote on union recognition as Leonida launch looms",
+      "source": "The Register",
+      "link": "https://www.gamedeveloper.com/business/rockstar-workers-to-vote-on-unionization-ahead-of-grand-theft-auto-vi-release",
+      "published": "2026-11-12T11:01:00Z",
+      "added": "2026-11-12T11:44:09Z",
+      "orig": "Rockstar workers vote on union recognition as GTA VI launch looms",
+      "news": 7,
+      "humor": 4
+    },
+    {
+      "id": "wallen-del-rey-radio",
+      "title": "Wallen and Del Rey preview their Leonida radio station, crime declared 'poetic'",
+      "source": "Holler Country",
+      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONTFJbU9TMC0zN0ItYm1uanB2NkY5RERrYlRrZFI1VGxRSzVKSktWdWNTUy1pQUpnaWdXWUI5YTJoX2lBQXk2em9Od2NabUlDTTRnVlA0UklJMUNhLUNMa0pPRDVSUUd1VHlyXzVhU1lnRmhsZUhUVDNwWEtpOGZFY2FXMm0zOU5DUkxEYkRwZGptNV9nbWVTRDhsR1N5MmUtYlJfVl9xWWFQazNQcGV3Ukw0MGdWOXpQZGNUbk14VU9IdjJqOUFRZ0VMTml1ZURxekxRRWpxUHdxbFdpeW5WMkQ5TW1yZUtV?oc=5",
+      "published": "2026-11-12T10:27:00Z",
+      "added": "2026-11-12T11:44:09Z",
+      "orig": "“Nothing’s More Poetic Than Singing About Crime”: Hear a Preview of Morgan Wallen and Lana Del Rey’s GTA VI Radio Station",
+      "news": 5,
+      "humor": 5
+    },
     {
       "id": "ziggo-traffic-gta6",
       "title": "Dutch ISP Ziggo reports a traffic jump as Leonida downloads roll in",
