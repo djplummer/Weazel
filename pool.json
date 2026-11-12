@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-12T12:44:02Z",
+  "updatedAt": "2026-11-12T13:44:05Z",
   "items": [
+    {
+      "id": "forbes-unlock-times-us",
+      "title": "Store listings reportedly let West Coast Leonida fans in the night before",
+      "source": "Forbes",
+      "link": "https://www.forbes.com/sites/brianmazique/2026/11/12/gta-6-unlocks-at-midnight-on-november-19-but-millions-of-americans-can-start-playing-the-night-before/",
+      "published": "2026-11-12T12:45:00Z",
+      "added": "2026-11-12T13:44:05Z",
+      "orig": "Here’s the GTA 6 Release Time in Every US Time Zone",
+      "news": 6,
+      "humor": 4
+    },
+    {
+      "id": "selfridges-collectors-map-places",
+      "title": "Manchester shop display spoils Leonida geography homework: new place names spotted",
+      "source": "Insider Gaming",
+      "link": "https://insider-gaming.com/new-gta-6-map-locations-spotted-through-collectors-box-store-display/",
+      "published": "2026-11-12T12:42:00Z",
+      "added": "2026-11-12T13:44:05Z",
+      "orig": "New GTA 6 Map Locations Spotted Through Collector's Box Store Display",
+      "news": 5,
+      "humor": 5
+    },
     {
       "id": "kalshi-leonida-job",
       "title": "Kalshi wants a full-time Leonida player: $10k a month, 70-plus-hour weeks",
