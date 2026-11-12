@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-12T18:43:28Z",
+  "updatedAt": "2026-11-12T19:43:33Z",
   "items": [
+    {
+      "id": "youtube-40b-views",
+      "title": "YouTube logs 40 billion GTA VI video views before anyone has even played it",
+      "source": "PPC Land",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlBRa0liSzVDckF6VnpmOFZPOUJ2TE9OamZaUWxsV0JuQjdyZFVVOHhwdTNXX0Myajg0NWxoLXd3VUdjc1VzMkhudUNxY25LVUplOHVmR2F3RlFYWjRKdy1ZdTV2VFQwVjBTVGV2N1drc3BTS1UweGZDOXVoREN6RlpfU2JvU3o2dllxOTlobw?oc=5",
+      "published": "2026-11-12T19:36:44Z",
+      "added": "2026-11-12T19:43:33Z",
+      "orig": "GTA VI videos gain 40 billion YouTube views before the game launches",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "twitch-ceo-biggest-moment",
+      "title": "Twitch CEO says GTA VI could be its biggest moment; the chat is already typing",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnVQVk1IODY3SU5udXN5cnkxQkw1TUZMVXdCS0pEdmhJaE5xdE9lc21nMElEQ3pXT1N6cF9TSV90dDliWWtCWWxId0RTcVd1SkFJaGhwTjQxaWYwRTNwaUYyb0tuR1JwcmFoRjFCTG50a1dYdmxuTjhfazFCZm1zMDNNUVFlNjJkczBlczRXekk0ZGJFREYzMlp4RDVFdm5MZVE?oc=5",
+      "published": "2026-11-12T19:10:14Z",
+      "added": "2026-11-12T19:43:33Z",
+      "orig": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
+      "news": 3,
+      "humor": 5
+    },
     {
       "id": "bofa-1-9b",
       "title": "BofA: Leonida must clear $1.9B in sales to satisfy investors; analyst eyes 33% upside",
@@ -13,37 +35,15 @@
       "humor": 5
     },
     {
-      "id": "scam-alerts",
-      "title": "Consumer desk flags GTA VI scams, because con artists pre-ordered too",
-      "source": "KY3",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3lmZHNCNVozSTR6SktubGRfZFBtR1lMZUp5SVVYc2tpT25DdDBjZVRHT1BkYnpGaVdFTHVPVnJCYVp0dWhsZUtwSHJ1T1czRFJOcFFUVTN1Q25XeXFvTk14TUU0WW92WG9ZXzZlUUo2NnVIMkV5cEVQRjM0aTRnSXk3SUM2UUYtVmtRcXp0R3U2bHZsSUpUWXBwdmpSZWFpblpPYkR6a0Y1YkdadUViRkNn?oc=5",
-      "published": "2026-11-12T17:36:00Z",
-      "added": "2026-11-12T18:43:28Z",
-      "orig": "On Your Side: Rising costs for Christmas shopping season; “Grand Theft Auto VI” scam alerts",
-      "news": 3,
-      "humor": 5
-    },
-    {
-      "id": "bolt-trip",
-      "title": "Brand stunt offers one gamer's partner a real-life getaway over launch weekend",
-      "source": "Roastbrief US",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU3FYTGsyWDVqMUZhZmo2Z0J0N1hlQnBrTGlDdTRzSElEYnJWQ0RoWWttdXlCOWRadHlSbHFzcGdYSDJnLXZTRHVIQVI0V0o0VDdxeDFmdVZQQk9GYUNFSHl2aEdMZnd3RGRRbzZRMzkwSUtIM1dybGNZYWRGZ19xdVBUWHpNcHZQaDVCbk5fZDgyX3ZDUVZJV3pVUEhkV0Itck93VDlhSXRSZUcwMXR5S1l2X0p0ZVRLZ0M1RXZlcHlyalR6VXZ0TzNaWQ?oc=5",
-      "published": "2026-11-12T16:47:51Z",
-      "added": "2026-11-12T18:43:28Z",
-      "orig": "Bolt’s “Grand Trip Away” gives one overlooked gamer’s partner a real-life adventure on the GTA VI launch weekend",
-      "news": 3,
-      "humor": 5
-    },
-    {
-      "id": "asda-deal",
-      "title": "Asda touts best UK GTA VI PS5 deal, per IGN; Leonida goes discount aisle",
-      "source": "IGN",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE10ZnUzYUFqSHZTMFNZZDJSQnh1bHI0ZnRkM2tVdlJrSXFKNmlhaG5KeWhiX0J0dnRnRVh0ZjZCeFp4UWVzOEJFeUpwdjMyWmd5X3B2aG9laG4yWHY2cDRSejRhMWF5QUU3TXh1N280bGVGSWpsUllpRHJlWmI1bjQ?oc=5",
-      "published": "2026-11-12T16:12:51Z",
-      "added": "2026-11-12T18:43:28Z",
-      "orig": "Asda Is Now Offering The Best Deal on Grand Theft Auto for PS5 in the UK",
-      "news": 3,
-      "humor": 5
+      "id": "kick-free-copies",
+      "title": "Kick promo gives away thousands of free GTA VI copies; nobody checked for strings",
+      "source": "Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNcDZDRmVuck15LWxZWnRCWHBCbzNHZTZxLVJHR3E3NkpJZFhaSEc3elhJNE5KSmlTYmFpYVoxa3RvaHMwX3dQN0VsUU9oQ1drZC1vVkxoZTZMZmlNWXhhX1dvbFlzQ2M4a1B2THRKa3pGdWFVTmEzZ1A5Z3NFZndrSmkzanhhSzhoVVB0aC1OdnVwR3M?oc=5",
+      "published": "2026-11-12T17:46:38Z",
+      "added": "2026-11-12T19:43:33Z",
+      "orig": "Kick’s GTA 6 Promotion is Giving Away ‘Thousands of Free Copies’",
+      "news": 4,
+      "humor": 4
     },
     {
       "id": "heat-vice-city-jerseys",
@@ -79,6 +79,17 @@
       "humor": 5
     },
     {
+      "id": "game-share-ps5",
+      "title": "PlayStation answers whether GTA VI can be game-shared on PS5; sharing is caring, mostly",
+      "source": "VICE",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BRnNZWGRJM2dwY3B1cFZCNU5ZRTl4alBkUTkzNWhuSjhUVU14dFV0dC0yVWpiZUVDanl3aEZVVzRLMVBJRXlNeGhFVmFmbnVSMlo5VDVKcTJrTDV2QTh4d1gtWHRkZw?oc=5",
+      "published": "2026-11-12T14:40:17Z",
+      "added": "2026-11-12T19:43:33Z",
+      "orig": "Can You Game Share GTA 6 on PS5? PlayStation Has an Answer",
+      "news": 4,
+      "humor": 4
+    },
+    {
       "id": "jason-beer-donut",
       "title": "Jason can reportedly drink a beer and eat a donut at once, priorities intact",
       "source": "GameSpot",
@@ -97,17 +108,6 @@
       "published": "2026-11-12T14:16:54Z",
       "orig": "GTA 6 PS5 Controllers Have A Color-Changing Effect",
       "news": 4,
-      "humor": 5,
-      "added": "2026-11-12T14:43:47Z"
-    },
-    {
-      "id": "popeyes-spice-city",
-      "title": "Popeyes rolls out \"Spice City\" chicken sandwich as GTA VI fever hits the fryer",
-      "source": "IGN Nordic",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeGJSLUhLWV81S2ljOFRva2JlTFh5VGZsbWE5aGVHS09lOXJFSGtjTkJGT3FaNmFUS3Zvd0pYWWc1Nk01X3h5ZGZEbWdKQ3p1bDFjOG5OaFdnOXFkbHNTU1o5UGtfRVRHS0d5cHpIVlppcTFSMldaam5oNEJ2akctcUZ5OWpDNTJhMnRjU2NSbU9UdmdLS0Q2dlNXTElHcVNxVno1Z0NzSGZ1d0FKNFlmM3psRERNRzVmd016cHZB?oc=5",
-      "published": "2026-11-12T14:16:20Z",
-      "orig": "Popeyes Is Riding the GTA 6 Hype With a New 'Spice City' Chicken Sandwich",
-      "news": 3,
       "humor": 5,
       "added": "2026-11-12T14:43:47Z"
     },
