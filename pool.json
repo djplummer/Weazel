@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T20:43:47Z",
+  "updatedAt": "2026-11-12T21:43:53Z",
   "items": [
     {
       "id": "youtube-40b-views",
@@ -11,6 +11,17 @@
       "orig": "GTA VI videos gain 40 billion YouTube views before the game launches",
       "news": 5,
       "humor": 6
+    },
+    {
+      "id": "twitch-ceo-biggest-moment",
+      "title": "Twitch CEO says Leonida could be 'our biggest moment'; no pressure, chat",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnVQVk1IODY3SU5udXN5cnkxQkw1TUZMVXdCS0pEdmhJaE5xdE9lc21nMElEQ3pXT1N6cF9TSV90dDliWWtCWWxId0RTcVd1SkFJaGhwTjQxaWYwRTNwaUYyb0tuR1JwcmFoRjFCTG50a1dYdmxuTjhfazFCZm1zMDNNUVFlNjJkczBlczRXekk0ZGJFREYzMlp4RDVFdm5MZVE?oc=5",
+      "published": "2026-11-12T19:10:14Z",
+      "added": "2026-11-12T21:43:53Z",
+      "orig": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
+      "news": 4,
+      "humor": 4
     },
     {
       "id": "bofa-1-9b",
@@ -517,17 +528,6 @@
       "orig": "GTA 6 contest could see you net $500 just for guessing the game's Metacritic score",
       "news": 3,
       "humor": 6
-    },
-    {
-      "id": "travis-scott-plans",
-      "title": "Travis Scott's launch plan: beats, pizza, bring your own controller",
-      "source": "Complex",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSHpCU2hSRW1NLVlRcEVxYmhGRWZySldrWkNaYXkyUmloalBsWHNpV3Zxem5hMkgtc0VuY0hOQUpGalBwdm1yRHY4anNLRm9yWHNFVkF3VHJGNWNsTXgxN3RHVHBOeXVETUNZSzhaVkJjWmhKYlIyMnBZNUxVTkt0LUFFMWtjUEJIaGc?oc=5",
-      "published": "2026-11-11T15:43:47Z",
-      "added": "2026-11-11T19:36:43Z",
-      "orig": "Travis Scott Has His 'Grand Theft Auto VI' Plans Set: 'Beats, Pizza, Bring Ya Own Controller'",
-      "news": 3,
-      "humor": 5
     },
     {
       "id": "guardian-gameplay",
