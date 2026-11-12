@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-11T23:44:01Z",
+  "updatedAt": "2026-11-12T00:44:14Z",
   "items": [
     {
       "id": "gta-online-last-event-week",
@@ -11,6 +11,17 @@
       "orig": "GTA Online Event Week: Last One Before GTA 6 (November 12th-18th)",
       "news": 4,
       "humor": 5
+    },
+    {
+      "id": "cable-free-gig",
+      "title": "Cable giants hand out free speed boosts so Leonida downloads before the weekend",
+      "source": "Cablefax",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGktRmF6OWw3YlB2QmFXRHp2cFlKS2o5dVl1S19lMDluaWtNVVJEblJfSkdhbEpzc1dmdVFaTGkyaDBkZU8xY3RBSHNzQTZQT01zWjZ2b3ZONlM1UVpEYkprZHVQdjZJRnhYYURoVVlKV1BTRS1GRk8xQ2FmUEthaGx5WFRBUQ?oc=5",
+      "published": "2026-11-11T22:37:10Z",
+      "added": "2026-11-12T00:44:14Z",
+      "orig": "CFX Download: Cable Preps for ‘GTA VI’ Fever",
+      "news": 5,
+      "humor": 6
     },
     {
       "id": "gta6-mystery-players",
