@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-12T02:43:32Z",
+  "updatedAt": "2026-11-12T03:44:39Z",
   "items": [
     {
       "id": "siek-launch-campaign",
@@ -396,6 +396,17 @@
       "orig": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
       "news": 9,
       "humor": 5
+    },
+    {
+      "id": "playstation-preload-live",
+      "title": "PlayStation opens the Leonida loading dock: GTA VI pre-load live on PS5 nine days early",
+      "source": "PlayStation.Blog",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSVpYWUxLUDBmRTBDeG45bmxpZFV2RUV4ekZVWkh6TlZiWHRYaEh2dFo2WDg2OFdwQlROWmFzaC0tYTRfRDYyUDNheDBCWS1fcUc2MUlwMlRGVDFBeHNvdlZBcHdyS1k0eWJmTzNDS2I1YXJ6eWlhZ2tPN3hLVVlyUzg5X0pBcFMyM1pwZXg3dndoZTZIVlE?oc=5",
+      "published": "2026-11-10T15:41:00Z",
+      "added": "2026-11-12T03:44:39Z",
+      "orig": "Pre-load Grand Theft Auto VI on PS5 starting today",
+      "news": 6,
+      "humor": 4
     },
     {
       "id": "logitech-day-off",
