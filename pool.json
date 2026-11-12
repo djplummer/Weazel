@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-12T08:43:25Z",
+  "updatedAt": "2026-11-12T10:44:17Z",
   "items": [
+    {
+      "id": "ziggo-traffic-gta6",
+      "title": "Dutch ISP Ziggo reports a traffic jump as Leonida downloads roll in",
+      "source": "Telecompaper",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDRCRGNLSmlsWWNrdTR0ck56MlZlQWo0MnEzN2k1S205VE1pOGZabjlMV1lBczNOdnJFMl8wUFkyRTJiSUxqc3BadkpYOVpJSWdPWFhrZ3hhYVVmVlhIRXZhbkhlVWRpSzd4VHVYS3NaRjZ3eTVhUEtTYUpDX1dUS3FjcjVGVDBUTnRIQXlHVUtmT3U0ZVN0WEdndk1jNExHQlpON3NBUkVjUQ?oc=5",
+      "published": "2026-11-12T09:56:26Z",
+      "added": "2026-11-12T10:44:17Z",
+      "orig": "Ziggo reports jump in internet traffic following GTA VI release",
+      "news": 4,
+      "humor": 5
+    },
+    {
+      "id": "eb-games-preorders",
+      "title": "EB Games finds more GTA VI controller and Collector's Edition pre-orders",
+      "source": "Press Start Australia",
+      "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPUzl0RFBDajZzbHpLcEZaVFJBNXJNNnVkTk02d0NIbkduVFZ6aFRxS2JScm9DYzNSSkU4eTY4ei1jTVRBcGVlcEQ0azByM0pmQU0xLU9mVlNsR0d0Vjh4aTdnVjVlRk4xVGM4a2VXTjZPZnZXT2ZSREhkU3lkT09HRFZTR2xId25oRTl6R2o0Qm9NRi05czVsUGoyS2hCQlJucTRVV1NSRmkzUjNvc1hHMmdFejE1OGE1ZUtHRS10c3NyNVl3VG5XeGE3VVFQZWvSAdQBQVVfeXFMTU9ySU5NX2M1R2J6RU4wMk5ZNmFzYXFHUkxuTlJwSmVzcXUyWlk1TzhhcGcwVEttdW1FYk1DZFZBNnR1LUo2V1lKalJTQUJMSVZUOVM4NUxGNTQzaFlpcW8xSTlFOFg3S2tvenlTX0JlTmE4SExRUThsdWo5cWE3Z0x3Y3d0QTlyUU1XaEZGb01zZDlXVm15dmR4Y3dHNjE4OXBQT0NQS0FsTm4yUjJpT2E0TlFYWDBVdzdjbVpPMlViNS02aTBUVWk4MFVEZGxaY0dYWXk?oc=5",
+      "published": "2026-11-12T09:26:06Z",
+      "added": "2026-11-12T10:44:17Z",
+      "orig": "EB Games Has More GTA 6 DualSense Controller And Collector’s Edition Pre-Orders",
+      "news": 3,
+      "humor": 4
+    },
+    {
+      "id": "take-two-q2-miss",
+      "title": "Take-Two misses its own Q2 forecast, leaves Leonida to carry the year",
+      "source": "The Escapist",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUFUUEEtSlkxbld3S05aNXFIYXFWT1BSOHJYVEtoTE5haVJfMVUtRVJRYzlaWUcyWGdWUklHaEhCWjRod0QyS01BanFTSVA5TmlhR1dHNkRjN29FRUo2MHZwN2lZMkF6Z1NXZURObUpkMDFlWUh5aktPRzRlZlBDZHNoXzJFbzFoQWxRd1BSUGpqNXV0OG5OQmlSZ1ZZRVg2UHBzN3ZUbw?oc=5",
+      "published": "2026-11-12T08:33:00Z",
+      "added": "2026-11-12T10:44:17Z",
+      "orig": "Take-Two misses its own Q2 forecast and leaves GTA 6 to carry the year",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "ndtv-before-gta6-meme",
       "title": "Thirteen-year wait ends as 'before GTA 6' retires from meme duty",
