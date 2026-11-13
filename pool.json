@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-13T02:43:53Z",
+  "updatedAt": "2026-11-13T03:43:47Z",
   "items": [
+    {
+      "id": "burger-shot-florida",
+      "title": "Burger Shot heads for real Florida menus; wanted level not required",
+      "source": "IGN",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlp2Ul9mRkdMY1BWRlhxWDJja3pLbTBlUDNnRXZ4UEVwZ0FVY2VWN3VNZmZQc29uVXpIUFJqYzFKLTgtLUR2c09kVURSNnBZZVM3TXVucWVYc0ViOGVESVpoaXM0d2YxZnlUNUp2R2VHZ1V3SUhrcEFrSW9zenJ4eXNpR1V5MzJoN0xnR1RiRFJiRHpIb241MXBvdnNYN3FKUHZXSlpiMFBabVVFbEFWTXhqLXdUWXdZRmJIXzZLekg?oc=5",
+      "published": "2026-11-13T00:44:00Z",
+      "added": "2026-11-13T03:43:47Z",
+      "orig": "GTA 6's Burger Shot Fast Food Chain Is Coming to Life Across Florida With a Menu Inspired by the Game",
+      "news": 5,
+      "humor": 6
+    },
     {
       "id": "desks-survey",
       "title": "Survey warns of GTA 6 flu: millions of desks may sit empty on launch day",
@@ -68,6 +79,17 @@
       "humor": 6
     },
     {
+      "id": "collectible-3000",
+      "title": "$3,000 GTA 6 collectible unveiled; Leonida's price tag gets a pedestal",
+      "source": "IMDb",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9IY2pab3h5RmVFSW9JQXZWajJCZ0l6d3ZZVlBSZ2ltWTJFbDNGUWJQT3VfOWI0NmV0UTJRR0xFTUZGTThqRk1WeUFTdnB6X2Q4NkMyS1g1STR5ZmJDZUFhU3lCcTh0WFk?oc=5",
+      "published": "2026-11-12T19:24:02Z",
+      "added": "2026-11-13T03:43:47Z",
+      "orig": "$3,000 GTA 6 Collectible Officially Unveiled",
+      "news": 4,
+      "humor": 5
+    },
+    {
       "id": "twitch-ceo-biggest-moment",
       "title": "Twitch CEO calls GTA VI a big moment; streamers cancel their weekend plans, presumably",
       "source": "Bloomberg",
@@ -99,17 +121,6 @@
       "orig": "GTA 6 Review Embargo: Verdicts Reportedly Due Nov. 18",
       "news": 5,
       "humor": 4
-    },
-    {
-      "id": "kick-sweepstakes",
-      "title": "Kick sweepstakes dangles free GTA VI copies; Californians told to read the fine print",
-      "source": "KTLA",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRVFSd281UEdSQ0NiMHptMExuZDlaM3o3VUtVMk51Y0tqY3l6T1cyS2k2OU5IWEx5bExXd1NiZFRpeHNoQnEybEhZcURTYnQzM2U2TlVCc1lPTHAtVTNLUzFFdDhVWEsxRGFTdDBzNDdjcGtZVE1XRm9ReUhQQWFmV0lsM3g0WS1WMDZWWHVsWGNnNExseXh4a2Z3WExNcHpaWlRSNW1iS0FRVnFVLXRvMzZDZmJxWlhGeXNZ0gHAAUFVX3lxTE5DSG9DcVg4aE43U2liaHBKSDRGRXJHVjJVeGpOamhmbEFBZ2lLdE55TDZ2YVMxSHBGbnl0ckU2QWRYamg5VTVFSElpb28yM0EycGRzZHZScjFPVDJ3bm5SOFc1VFZFZHNiUkdzWndwMks1NHVSQ1EzUmpqSEVHcnIzMEZTajExSDlVYVRUbU5fcTg1bGlXNWtKQ1ROSTU5RnY4a3U4WXBWdjJWbGhJZE1SR1hKOXhzUjdZbzVrR1BodA?oc=5",
-      "published": "2026-11-12T16:21:20Z",
-      "added": "2026-11-13T02:43:53Z",
-      "orig": "Free copies of Grand Theft Auto VI for Californians? What to know about Kick sweepstakes",
-      "news": 3,
-      "humor": 5
     },
     {
       "id": "heat-vice-city-jerseys",
@@ -538,17 +549,6 @@
       "added": "2026-11-11T18:56:22Z",
       "orig": "GTA 6 Guardian Interview Reveals New Gameplay Details",
       "news": 5,
-      "humor": 4
-    },
-    {
-      "id": "datamined-series-s",
-      "title": "Datamined files may hint at sharper visuals on Series S, Leonida watchers squint at code",
-      "source": "Windows Central",
-      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5Bdm8tOVB3NzBYZ1lNYXpTeFJ0NWRZbTF1emsxWGg4bVlRVUFLeF9xeXRvakJvNFFLRkRET3dzc2dhR1R3UEIxcml6bGV4akQ3Y2NadGdiSDJXSjUxNkF2QlBkTkRaSDJ1SzNPN0lIRW1rU0NCWGl3RTR4aGE?oc=5",
-      "published": "2026-11-11T14:37:07Z",
-      "added": "2026-11-11T19:36:43Z",
-      "orig": "GTA 6 is days away on Xbox, and I’m watching two datamined files that could mean sharper visuals, especially on Series S",
-      "news": 4,
       "humor": 4
     },
     {
