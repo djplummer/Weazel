@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-13T19:43:23Z",
+  "updatedAt": "2026-11-13T21:43:30Z",
   "items": [
+    {
+      "id": "take-two-not-for-sale",
+      "title": "Take-Two says Leonida's landlord is not for sale, even with EA gone private",
+      "source": "GameSpot",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSkFVb2RJVTQ2QzdqVEZTc3E2U1cxMGQ5VExwWnZWb21qdFJUWktmOWtPTWJsQkFPYlJvaEtDZEZYS1FpeEx6TVRsRDQwZHJVYjFfTEN0eG5NZlNEbzJBTnBUT1VFNjBRRHJHRUhtMmdMVTRwZzdId2VkUDVSQTFGeWRaMkFzajhldFV1V1NWamxQb3Q3bzFhdGVUUjFMRmNxSXBjUkdFSFBzelFBSGFJY2xhbXdMY2tYbUJZWG1UTkVfOVJkcjQ4?oc=5",
+      "published": "2026-11-13T21:03:53Z",
+      "orig": "GTA 6 Owner Take-Two Is Not Interested In Selling Itself After EA Goes Private For $55 Billion",
+      "news": 6,
+      "humor": 6,
+      "added": "2026-11-13T21:43:30Z"
+    },
     {
       "id": "gamespot-55m-copies",
       "title": "Analysts see 55 million copies by spring, $90 average price; Leonida prints money",
@@ -66,17 +77,6 @@
       "orig": "Grand Theft Auto VI: Here is a list of official events in Miami",
       "news": 4,
       "humor": 6
-    },
-    {
-      "id": "gamespot-80-price-analyst",
-      "title": "Analyst: GTA VI and a few others can justify an $80 sticker; wallets file objection",
-      "source": "GameSpot",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3EyNUlfYkVCUEd5NndWa0dCcDF1VUZzNjR5YlAtUUpVbVhYRHZpZEJHdl8zeTFOSU1QWjc2UmJDRm5FRVNCMFpwQmNvdU56X2VvTlRWSkx6bkZnSlEtTm1hN3BHQ19pamJFNXFHRHhWMjExdUxrX2hfc1hwaDE0US1fdlNKdkZOY0NubnFZY0ZMS0xQaS1RejMxbDh0TDg?oc=5",
-      "published": "2026-11-13T16:39:37Z",
-      "added": "2026-11-13T19:43:23Z",
-      "orig": "GTA 6 And These Other Games Can Justify An $80 Price, Expert Says",
-      "news": 4,
-      "humor": 5
     },
     {
       "id": "push-square-no-online",
