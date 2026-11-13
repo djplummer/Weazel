@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T11:43:54Z",
+  "updatedAt": "2026-11-13T12:44:07Z",
   "items": [
     {
       "id": "online-window-leak",
@@ -11,6 +11,17 @@
       "orig": "GTA 6 Online release window has apparently leaked",
       "news": 4,
       "humor": 6
+    },
+    {
+      "id": "swiss-networks-slowed",
+      "title": "Leonida invades Switzerland: GTA VI pre-downloads slow national data networks",
+      "source": "SWI swissinfo.ch",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUFRRQVlzRGRIV1cxclRHNnZHVWtyU2hJU1QwRnJCc2xxRkhDRElRZWwyYlJ4ZkZ6d3ppS0tfakpmRzYxMjB6S2VPZXdSNldJX0hBMEt6WVlNb09VT1NSdzMwYThmOTdBWUQ2clF6ZlZuTGs3MWVKcXQ0aXdkdF9PUkVRbnY4ck1zRWh5cVY4dktEcjFEdmJEdVFiZm1EdmZvR1pJTHQyWGo0QQ?oc=5",
+      "published": "2026-11-13T09:03:00Z",
+      "added": "2026-11-13T12:44:07Z",
+      "orig": "Grand Theft Auto VI slows down Swiss data networks",
+      "news": 4,
+      "humor": 5
     },
     {
       "id": "kalshi-gta-economist",
@@ -175,17 +186,6 @@
       "added": "2026-11-13T01:43:31Z",
       "orig": "Palworld Developer Pocketpair Gives Employees 5 Days Off to Play GTA 6",
       "news": 4,
-      "humor": 6
-    },
-    {
-      "id": "popeyes-gta-sandwich",
-      "title": "Popeyes unveils GTA VI-inspired sandwich; Leonida finally gets a signature chicken",
-      "source": "RockstarINTEL",
-      "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE41ckNCeHNJSkVxVFlXN0ZOUWE3bC05VE01REh3TjJmaEtaTGs2Tm9JeVR5MEpQRFNlQnhrYnVOQlhpYTVyQU5iVU9jZTFpY2JMWlpnN3JyeFBoM3RHOXlKSkQ5YkRhM0t2ejFmeGRKdVlJZzNUV014bGJxd1lQdw?oc=5",
-      "published": "2026-11-12T15:24:30Z",
-      "added": "2026-11-13T01:43:31Z",
-      "orig": "New GTA VI Inspired Popeyes Sandwich Announced",
-      "news": 3,
       "humor": 6
     },
     {
