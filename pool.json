@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-13T10:43:59Z",
+  "updatedAt": "2026-11-13T11:43:54Z",
   "items": [
+    {
+      "id": "online-window-leak",
+      "title": "GTA 6 Online window apparently leaks; Weazel neither confirms nor denies",
+      "source": "Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNN2MyZ3ZmRk1PMndPdktPWVFKaFY4U3VjWUZETDFhemRrbGMzNEsyVGR6RGJ6SWF5QUFmcEFGS3ItMnZIMUZrTGdTc0JieHNHTktUZjdOcnM2MC1idVcyV1cyblhEX3hkWEpEWE1MMm5CVHdfZnNRdnpXNUhUTXVKVHlLSjdLZ0Y3QUw1a3BzbXVORHFGT2pCSVpR?oc=5",
+      "published": "2026-11-13T11:38:00Z",
+      "added": "2026-11-13T11:43:54Z",
+      "orig": "GTA 6 Online release window has apparently leaked",
+      "news": 4,
+      "humor": 6
+    },
     {
       "id": "kalshi-gta-economist",
       "title": "Kalshi wants a GTA 6 economist; Leonida's black market gets its first auditor",
@@ -143,17 +154,6 @@
       "orig": "GTA 6 Review Embargo: Verdicts Reportedly Due Nov. 18",
       "news": 5,
       "humor": 4
-    },
-    {
-      "id": "heat-vice-city-jerseys",
-      "title": "Miami Heat unveil Vice City jerseys; Leonida now fields a uniform",
-      "source": "Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSzBOTndQc1FGTzRoZHNTNHNSYkZsTFpqbWFPcFZWVWh6XzktN1NXNnZ0SG1DZGdDazJPZ1BwellqNlpyYnNKaF8wMVlFanhlOEhQMnhBRU1UX1UwRGJudjRsRkIwNTl0cVVvZ0NpOXpBd0tZa2dSdEp1SVRxdHdocWNZMA?oc=5",
-      "published": "2026-11-12T16:01:31Z",
-      "added": "2026-11-12T16:44:01Z",
-      "orig": "Miami Heat’s Vice City Jerseys Are The Ultimate GTA VI Flex",
-      "news": 3,
-      "humor": 6
     },
     {
       "id": "best-buy-early-access",
