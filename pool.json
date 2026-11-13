@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-13T12:44:07Z",
+  "updatedAt": "2026-11-13T13:52:43Z",
   "items": [
+    {
+      "id": "popeyes-gta-vi-sandwich",
+      "title": "Popeyes serves a GTA 6 sandwich, wanted level sold separately",
+      "source": "Sporked",
+      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFA5VjRnYTBRWU1aMUtzNVlyRFZXX0hCbEtkVWFTVHg3MWNvNE56eGRwcXI2aGg5YkE0N1pEdl9WckM1MHVVTjMxMzVMaVBuXzFvUFdrZ2FDa29wc0tGUnFxUWUzUlhTVFk?oc=5",
+      "published": "2026-11-13T13:12:10Z",
+      "added": "2026-11-13T13:52:43Z",
+      "orig": "GTA 6 Fans Will Love Popeyes’ New Sandwich",
+      "news": 3,
+      "humor": 6
+    },
+    {
+      "id": "gta-vi-employers-cost",
+      "title": "Leonida launch to cost UK employers GBP 12.4m, accountants report",
+      "source": "Business & Accountancy Daily",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNMUt2WXBGd3JqM1JiWjA4QW4yVzFYZnQzZXk2Y3V0MjhnQW9zeEhmVFdad2FGcjlTLWM1bFVlMEdoVkR5OXZrSHJUNkNIa3NKR25zV0VZSW5aeGJJMTVzcUFKSThuV1ZMVmpBakpnOGNqRk01bUEtdnd3MzhWN2gzVGRfNGwxRnZZ?oc=5",
+      "published": "2026-11-13T12:59:10Z",
+      "added": "2026-11-13T13:52:43Z",
+      "orig": "Grand Theft Auto VI release to cost employers £12.4m",
+      "news": 4,
+      "humor": 5
+    },
+    {
+      "id": "gta-vi-day-one-patch",
+      "title": "Day-one patch already rolling out on PS5; Leonida gets a fix before it gets a visitor",
+      "source": "VICE",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1FcTA1cnQyaVphNno0Tm5PSDl5ZUgtSVZJMkhycWtDdElrcnFmZkVscllER3BzcTcwa1pnaEg3Zml5a1NjYkFOeGc4LXh5RDdqUHd3RGVydDZseW5qV3Rkd2pTc0o1QlItTG1vdFVjNkJLaVlvemNQVw?oc=5",
+      "published": "2026-11-13T12:58:27Z",
+      "added": "2026-11-13T13:52:43Z",
+      "orig": "GTA 6 Day One Patch Is Already Rolling Out on PS5",
+      "news": 7,
+      "humor": 6
+    },
     {
       "id": "online-window-leak",
       "title": "GTA 6 Online window apparently leaks; Weazel neither confirms nor denies",
@@ -33,6 +66,17 @@
       "orig": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
       "news": 4,
       "humor": 6
+    },
+    {
+      "id": "miami-vice-city-jerseys",
+      "title": "Miami drops Vice City jerseys with Travis Scott; real Florida goes fully in-universe",
+      "source": "Yahoo Sports",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLThKVmZPYWtieEtqUHo3TDBaak9UNlR2OWhJTlZYNTZLNE5wWXZyYTFkZDZ2WHNtVWRmc0NRcEJ5WHJNa1dTYUo3anZ4OUxJZzg4R2w3WXBqZ0d4M1MwbF9qc1Y5SVN4c1loQ0VFS1FTYUFWeW9BZVJoOGZpRksxbFY3MWpYSWc?oc=5",
+      "published": "2026-11-13T03:22:00Z",
+      "added": "2026-11-13T13:52:43Z",
+      "orig": "Miami releases new Grand Theft Auto VI Vice City jerseys in collab with Travis Scott",
+      "news": 4,
+      "humor": 5
     },
     {
       "id": "ps5-pro-60fps-compromises",
@@ -200,17 +244,6 @@
       "humor": 5
     },
     {
-      "id": "jason-beer-donut",
-      "title": "Jason can reportedly drink a beer and eat a donut at once, priorities intact",
-      "source": "GameSpot",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUmUtQTRrYVVXSkk1STg1amUtZ2cwZ01vNFZtVVRiZ2N3OGlqMWs5WVd3bjJXcFpGdnppMEhEOHBDSkdnbUc1WndybTJkV3hhX01WMW84MkFQUDVKd1QyQnNYVXhyeGwySHgtczhRaVJNNE5CdGE5a00zRHlFaVF6YjhsWUhhUnI5Y1dTeDM0SFJVWGlrLXhIYzZsaTVOZ1R0NUttZnI1TVBiQXZfTHFOQUtnX2VlVXBybVlDYWR0WHE?oc=5",
-      "published": "2026-11-12T14:22:28Z",
-      "orig": "GTA 6's Jason Can Live His Best Life By Drinking A Beer And Eating A Donut Simultaneously",
-      "news": 3,
-      "humor": 6,
-      "added": "2026-11-12T14:43:47Z"
-    },
-    {
       "id": "ps5-controller-color-change",
       "title": "GTA VI PS5 controllers change color, because plain plastic wasn't dramatic enough",
       "source": "IGN",
@@ -242,17 +275,6 @@
       "orig": "New GTA 6 Map Locations Spotted Through Collector's Box Store Display",
       "news": 5,
       "humor": 5
-    },
-    {
-      "id": "kalshi-leonida-job",
-      "title": "Kalshi wants a full-time Leonida player: $10k a month, 70-plus-hour weeks",
-      "source": "eFinancialCareers",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOEJNb1JqY01SSHhwTFMwMXdyZkpqSU1rd0RMdUMzOVdlcXc3Q3hlOGJRTG1xQk5ZYVFQeTFUdTNlXy1TbEV6eU1HNVJEMjI4bVc4ZWtLQ1c3VGtJZS1UTEhZZ2tHQ2tEQ2dtQVlmLWhfNDVnb29naFFCLVhyQXdNOXk0SjFlX2plTS1Ib1ZNRnROR0hxeWt2cDdXcGdpOUVPNlFJSg?oc=5",
-      "published": "2026-11-12T12:22:00Z",
-      "added": "2026-11-12T12:44:02Z",
-      "orig": "Kalshi is offering $10k a month for 70+ hour weeks... playing GTA VI",
-      "news": 3,
-      "humor": 6
     },
     {
       "id": "rockstar-union-vote",
@@ -297,17 +319,6 @@
       "orig": "Take-Two misses its own Q2 forecast and leaves GTA 6 to carry the year",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "ndtv-before-gta6-meme",
-      "title": "Thirteen-year wait ends as 'before GTA 6' retires from meme duty",
-      "source": "NDTV",
-      "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNR0x1NFNRNUNDQTYwQzFReGE5bzFvNkd1UG1hR18tRllSang2VFBLOTJ2V0FSZTE4a0xmbFhYSVFjSWJXTmQya1otYnJIWVdvOXIycTZpUEdiajJnMFJ4VHZHQnNoZExjN3dlbFFxaUdKaXJoQ1RRSVFESkxVTmhZNm1fWWF0U1lnZnBERmxkaU9ROGRweXpoeGNjRG50dnBLc1FyaThFdjFmNkx0ZGRF0gG3AUFVX3lxTFBWbEZwdGM1eUVqcVhuRXFzay1hWFppeXVvUUxOdFE3MGZtUnoxV2xMTUZBR0VKZG5vUWlFb01xX0hVdlBKUDAwSno5MTdFYWkwUDdaVVhTcnk5bXJ4MzdDa1U2NG1MeWlsTlBTSms3N2l0OFdxaDBUSWxIU29uMVBmN1dJYUJEeVNxNFF4c0JjVTV1M0pSTkFUQ3RTRHZNcFFvSmlxVzhNT3AwQmxjRy03cTBXb1QyVQ?oc=5",
-      "published": "2026-11-12T08:04:52Z",
-      "added": "2026-11-12T08:43:25Z",
-      "orig": "Everything 'Before GTA 6': How 13-Year Wait Became Internet's Favourite Meme",
-      "news": 3,
-      "humor": 6
     },
     {
       "id": "korea-rating-close-call",
@@ -527,17 +538,6 @@
       "added": "2026-11-11T18:43:33Z",
       "orig": "GTA 6 Demand Is 'Extraordinary,' but Take-Two CEO Isn't Ready to Declare Victory",
       "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "metacritic-guess-contest",
-      "title": "Contest offers $500 to whoever best guesses the Metacritic score, critics sharpen pencils",
-      "source": "GAMINGbible",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQT2ZzMHU5S0FJSnh5azgzLU5haFlwNzN1R3BkNTNnbVRRWV9IOGNCUW12SVpVc0FlT1FJYnJWOUN1UHJqcFFTYnNneWo0R3V1NEVtbVVielJFcUpMUFNielZ5R0dLTDRXTXo1U3RBRzJiWDdaNDlkbVpWMUFNTjJ0akY1am8zMEswSnFtZTRFd1RadHcwVE5lcQ?oc=5",
-      "published": "2026-11-11T16:00:00Z",
-      "added": "2026-11-11T19:36:43Z",
-      "orig": "GTA 6 contest could see you net $500 just for guessing the game's Metacritic score",
-      "news": 3,
       "humor": 6
     },
     {
