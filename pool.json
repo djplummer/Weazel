@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T05:44:03Z",
+  "updatedAt": "2026-11-13T06:44:17Z",
   "items": [
     {
       "id": "kalshi-gta-economist",
@@ -57,17 +57,6 @@
       "humor": 5
     },
     {
-      "id": "heat-vice-city-statue",
-      "title": "Miami arena erects GTA VI logo statue; Vice City zoning board not consulted",
-      "source": "WSVN",
-      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyazVtcm1GTGQ2V3FzemhnZHlhSTdORFFLcFE3SzVTME9FWjd2a19NOTJZN3RxNTZQWUFlR3pySHk4bnlzTi1nQzl4bWtoUkg4VU4wb2ZSWjlYM0w3MVlPNXhjeXN1LUsxd0lZ?oc=5",
-      "published": "2026-11-12T22:09:47Z",
-      "added": "2026-11-13T05:44:03Z",
-      "orig": "Kaseya Center unveils new 'GTA VI' logo statue ahead of Miami Heat's 'Night in Vice City'",
-      "news": 3,
-      "humor": 6
-    },
-    {
       "id": "yt-24h-livestream",
       "title": "YouTube clears 24 hours for a GTA VI launch livestream; viewers advised to blink in shifts",
       "source": "Notebookcheck",
@@ -76,6 +65,17 @@
       "added": "2026-11-13T00:43:47Z",
       "orig": "YouTube to host 24-hour GTA 6 release date livestream with launch day gameplay",
       "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "miami-beach-ocean-drive-clip",
+      "title": "Viral Ocean Drive clip appears to be GTA VI; Miami Beach checks its mirror",
+      "source": "NBC 6 South Florida",
+      "link": "https://www.nbcmiami.com/news/local/this-viral-miami-beach-video-looks-straight-out-of-gta-6-and-it-might-be/",
+      "published": "2026-11-12T21:30:01Z",
+      "added": "2026-11-13T06:44:17Z",
+      "orig": "This viral Miami Beach video looks straight out of GTA 6, and it might be",
+      "news": 4,
       "humor": 6
     },
     {
