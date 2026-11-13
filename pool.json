@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-13T04:43:31Z",
+  "updatedAt": "2026-11-13T05:44:03Z",
   "items": [
+    {
+      "id": "kalshi-gta-economist",
+      "title": "Kalshi wants a GTA 6 economist; Leonida's black market gets its first auditor",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFA1RmFTR0VxS3RUWFFHOENGTWQxeUVLZW9nWnJNRF9KMFVkT3YzTnUxa2FEVkdtQ1NtMDhucktOR2VhaXVSZkc5TDFocTNnRnRLZlRVd0ItQ3I1OEVzMnhQYU1yMmgtbndtNWNfR0lpcERUaEZLSHh4LUZn?oc=5",
+      "published": "2026-11-13T04:25:11Z",
+      "added": "2026-11-13T05:44:03Z",
+      "orig": "Kalshi says it's hiring a 'GTA 6' researcher to study the game's economy",
+      "news": 4,
+      "humor": 6
+    },
     {
       "id": "ps5-pro-60fps-compromises",
       "title": "Rockstar: PS5 Pro build hit 60 fps, with major compromises attached",
@@ -46,6 +57,17 @@
       "humor": 5
     },
     {
+      "id": "heat-vice-city-statue",
+      "title": "Miami arena erects GTA VI logo statue; Vice City zoning board not consulted",
+      "source": "WSVN",
+      "link": "https://news.google.com/rss/articles/CBMia0FVX3lxTFAyazVtcm1GTGQ2V3FzemhnZHlhSTdORFFLcFE3SzVTME9FWjd2a19NOTJZN3RxNTZQWUFlR3pySHk4bnlzTi1nQzl4bWtoUkg4VU4wb2ZSWjlYM0w3MVlPNXhjeXN1LUsxd0lZ?oc=5",
+      "published": "2026-11-12T22:09:47Z",
+      "added": "2026-11-13T05:44:03Z",
+      "orig": "Kaseya Center unveils new 'GTA VI' logo statue ahead of Miami Heat's 'Night in Vice City'",
+      "news": 3,
+      "humor": 6
+    },
+    {
       "id": "yt-24h-livestream",
       "title": "YouTube clears 24 hours for a GTA VI launch livestream; viewers advised to blink in shifts",
       "source": "Notebookcheck",
@@ -54,17 +76,6 @@
       "added": "2026-11-13T00:43:47Z",
       "orig": "YouTube to host 24-hour GTA 6 release date livestream with launch day gameplay",
       "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "miami-beach-video",
-      "title": "Ocean Drive clip looks like GTA 6, and it might be; Miami can't tell either",
-      "source": "NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNZ2lHb2FTa0Vra1NKVlFEbVZQb0NvOW5UWEZYb2dtMzNtSUxXSFp0ems1SXdRWGtuV0JnNk1aWlNmRVdOS3FUdlU0V0pmVFJyVkJMenNWb29HM1ZYdG5IQVlRd1hObWsweHgzQXNKQWEzUDlLVHBmUjBSeGRQUkc2b2c3WWo4VTI1aFp3OURyRzk5WVdoSVpxZmRjZDdac2hyUlBpWHJTRVNxQldCWDdVVXF1TEVYUDJ60gHAAUFVX3lxTE1NSHBTR2lWOEdwTDFsUWRLZk9vaUNEaDJkQ2NwdnF1MDEtQnNtU3RCYW9fWXBORE01NVhyUEs5YkVrYnZKd2xscnM4VnhXalp2Zy05S0VsRnJ1dTJJNVNBRHpwaWxjeklhLXlfN2U1MFdDQVdOU3dlbU5QZE5vRVA0QXhTdXlSbm5FcURnYUVET1pBeXNnTmlaclVGb3NVc1RLY3pDWlFqN0w3RUFBbW96MWMxN1N2ZGZpa0FlclNxYQ?oc=5",
-      "published": "2026-11-12T21:30:01Z",
-      "added": "2026-11-13T02:43:53Z",
-      "orig": "This viral Miami Beach video looks straight out of GTA 6, and it might be",
-      "news": 3,
       "humor": 6
     },
     {
@@ -308,17 +319,6 @@
       "orig": "'GTA 6' Came Close to Being Denied Rating Classification in South Korea",
       "news": 5,
       "humor": 5
-    },
-    {
-      "id": "rockstar-douyin",
-      "title": "Rockstar opens a Douyin account, because Leonida's front door has a Chinese doorbell too",
-      "source": "TechNode",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMHBHVmlMTkU0a281cjRwQk9VdUhQR09rXy14SkZlRDYwaTZIaEN5QXhacEt6M09ET3R5OTZZdWZVVEswSDFBZnowUVdBSF9xNkozdlNMT3p0djRXMWExbmFQWnpWYlhRZW83VzNfbF94VWRzeVhGN3lBYl9mYVI5NzlPZFBJdlpBM2c?oc=5",
-      "published": "2026-11-12T07:10:15Z",
-      "added": "2026-11-12T07:43:16Z",
-      "orig": "Rockstar Games joins Douyin ahead of GTA 6 launch",
-      "news": 4,
-      "humor": 4
     },
     {
       "id": "gta6-mapping-project-discord",
