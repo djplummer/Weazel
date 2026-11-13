@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-12T23:43:46Z",
+  "updatedAt": "2026-11-13T00:43:47Z",
   "items": [
+    {
+      "id": "desks-survey",
+      "title": "Survey warns of GTA 6 flu: millions of desks may sit empty on launch day",
+      "source": "DualShockers",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQdkZJRzlzQlZJMzBSS0RGUnBULXIyN0tlaVkzcWVGckdFbC12azBDS05ONmozSVlEaFdOajExMEpaRUFMUlYxak55MTBneDBSN1hRQ1hCRkJnSTg3dTItOFhDb3JaTG5Dbm5PV2hZSW5jcG9xbGZFUW1ZdkRwMnJuZkVmMm8yaDc0ZVhoYWwyNFdGamV1YzBQNlVjR0dnMmZBbUhz?oc=5",
+      "published": "2026-11-12T23:34:07Z",
+      "added": "2026-11-13T00:43:47Z",
+      "orig": "GTA 6 Could Leave Millions of Desks Empty on Launch Day, Survey Suggests",
+      "news": 4,
+      "humor": 6
+    },
     {
       "id": "xbox-deal-beyond-cloud",
       "title": "Xbox's Rockstar deal reportedly runs 'beyond just the cloud'; details pending",
@@ -10,6 +21,28 @@
       "added": "2026-11-12T22:43:24Z",
       "orig": "Xbox’s GTA 6 Deal With Rockstar Games Extends “Beyond Just the Cloud” – Rumor",
       "news": 4,
+      "humor": 5
+    },
+    {
+      "id": "yt-24h-livestream",
+      "title": "YouTube clears 24 hours for a GTA VI launch livestream; viewers advised to blink in shifts",
+      "source": "Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPU2ozMkswS2JsTVRfY3JxalhvRW4yYnM2UHNBMDNtX29RR0dTRUpmUHpRUm1YRWkzZ3MtcU5KV1lLRVB1N2gtelg2MFVBRkk3dEtGeTFScWdLLUhSMHhSNXo1bWNIeEE2eFgwaEpydnE4NTdqNmNNUm9MVVpuS2xCRTBueFNpYjRodXcwZV9ZdVcySzlqY2Nra3E5b05jd1lveEloQ3kwRmpkZ1lONFNLZ0ZCQWFqV1E5V1k4Q0o1VkI?oc=5",
+      "published": "2026-11-12T21:56:00Z",
+      "added": "2026-11-13T00:43:47Z",
+      "orig": "YouTube to host 24-hour GTA 6 release date livestream with launch day gameplay",
+      "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "ocean-drive-clip",
+      "title": "GTA 6 clip recreates real Ocean Drive footage; Vice City looks suspiciously like home",
+      "source": "GamingBolt",
+      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONHh1RW9zYnNDbHlfZjdhMkZCNW1vODRZZmRuQUJsVFFrU2FYWlhYSURiRDhPTEpBRF9ObHlzRHhURlphOTdvRU5GTzF2YXdZYzZQQUJTMW5nUnFOYWoyVHV2akJ2ejBrek9RZUtFc3N6YVE4Z0RQUXZNX3JaZGs4OGxOY3d2MkgyYmh0MTBWaHRVNFJRd3FSVFdjdEs?oc=5",
+      "published": "2026-11-12T21:36:02Z",
+      "added": "2026-11-13T00:43:47Z",
+      "orig": "GTA 6 Gets New In-Game Video Recreating Real-World Footage in Ocean Drive",
+      "news": 3,
       "humor": 5
     },
     {
@@ -46,17 +79,6 @@
       "humor": 4
     },
     {
-      "id": "palworld-holiday",
-      "title": "Palworld devs give staff a GTA VI holiday; Leonida declared a public holiday",
-      "source": "Push Square",
-      "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcjFIWTBrM1U0NFl3cG81aDF5VXJYRERpTjV2bXZWa28zTG9JTXdISHJFQ1BOdGpUcy1jenhsekRKZU5xLXROaE80RjhJd1FBQTNJNWdOLWU0RnVlWHJYNlJfSlQyc0Z1ZW5kWFoxSW4wYjJ1VlJDeDJ4Wk8zemJkLTg4eVBfV2l3WXBkQ015Vmk0Qy1vMnIxVFZpN3dwNzJzQm14U21YREJleTRK?oc=5",
-      "published": "2026-11-12T18:30:00Z",
-      "added": "2026-11-12T22:43:24Z",
-      "orig": "GTA 6 Launch Leads to Special Holiday for All Palworld Dev Employees",
-      "news": 3,
-      "humor": 5
-    },
-    {
       "id": "bofa-1-9b",
       "title": "BofA: Leonida must clear $1.9B in sales to satisfy investors; analyst eyes 33% upside",
       "source": "TradingView",
@@ -77,17 +99,6 @@
       "orig": "Kick’s GTA 6 Promotion is Giving Away ‘Thousands of Free Copies’",
       "news": 4,
       "humor": 4
-    },
-    {
-      "id": "ky3-gta-vi-scam-alerts",
-      "title": "Local TV warns shoppers of GTA VI scams; Vice City's crooks now work remotely",
-      "source": "KY3",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQV3lmZHNCNVozSTR6SktubGRfZFBtR1lMZUp5SVVYc2tpT25DdDBjZVRHT1BkYnpGaVdFTHVPVnJCYVp0dWhsZUtwSHJ1T1czRFJOcFFUVTN1Q25XeXFvTk14TUU0WW92WG9ZXzZlUUo2NnVIMkV5cEVQRjM0aTRnSXk3SUM2UUYtVmtRcXp0R3U2bHZsSUpUWXBwdmpSZWFpblpPYkR6a0Y1YkdadUViRkNn?oc=5",
-      "published": "2026-11-12T17:36:00Z",
-      "added": "2026-11-12T20:43:47Z",
-      "orig": "On Your Side: Rising costs for Christmas shopping season; “Grand Theft Auto VI” scam alerts",
-      "news": 3,
-      "humor": 5
     },
     {
       "id": "review-embargo-nov18",
@@ -120,17 +131,6 @@
       "added": "2026-11-12T16:44:01Z",
       "orig": "Best Buy Offering Early Access to ‘Grand Theft Auto VI’ Video Game",
       "news": 6,
-      "humor": 5
-    },
-    {
-      "id": "popeyes-gta-vi-sandwich",
-      "title": "Popeyes unveils a GTA VI sandwich; Leonida now has a drive-thru",
-      "source": "Nation's Restaurant News",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQc1NQbFJ1VWd5RkhOXzBDeUFiYWZMUGFyZVl3OV8taDdYWXAzT2JyMGdDWER4bHJmMUppMW9SaG42X2lQdkhaeWFBT3BkZjNLUGFtSW4ta0JaUzAwZFJrVU8yYXNRckZJb3l2ZmJOclZYZzFWRXgtUjE5ZTlmdWFtWURDQm4wR1ZPVVZhcWJGSXFLTU0?oc=5",
-      "published": "2026-11-12T15:51:35Z",
-      "added": "2026-11-12T20:43:47Z",
-      "orig": "Popeyes new sandwich pays homage to Grand Theft Auto VI",
-      "news": 3,
       "humor": 5
     },
     {
