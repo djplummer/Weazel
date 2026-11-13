@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-13T03:43:47Z",
+  "updatedAt": "2026-11-13T04:43:31Z",
   "items": [
+    {
+      "id": "ps5-pro-60fps-compromises",
+      "title": "Rockstar: PS5 Pro build hit 60 fps, with major compromises attached",
+      "source": "Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUERqNVh5MkdBTnp0enNfaTRCbEZTQWR1a0RwUm9NRVNmcmJka29MMlFQMUNrcEJHQjJlb0k0T0l6OFNIcUNmMFVtemdfUDREUUhEOXhpUXl6eDd1NEtQa19xMl93Y1ZHZmlxV1JFOHA0TG9EQlQ5NHRuWXY5X0VLUlRKUFdlSlRzaWJRTU0yU2VUSlN3SjlPdjk0a2VuNFBLQjlhZUZnRkQyNkhfUloyT1lBMG9hNGt6UlZwaUttUHpqNDV2UGc?oc=5",
+      "published": "2026-11-13T01:58:00Z",
+      "added": "2026-11-13T04:43:31Z",
+      "orig": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "burger-shot-florida",
       "title": "Burger Shot heads for real Florida menus; wanted level not required",
@@ -176,17 +187,6 @@
       "orig": "YouTube celebrates the launch and cultural impact of Grand Theft Auto VI",
       "news": 5,
       "humor": 5
-    },
-    {
-      "id": "game-share-ps5",
-      "title": "PlayStation answers whether GTA VI can be game-shared on PS5; sharing is caring, mostly",
-      "source": "VICE",
-      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE1BRnNZWGRJM2dwY3B1cFZCNU5ZRTl4alBkUTkzNWhuSjhUVU14dFV0dC0yVWpiZUVDanl3aEZVVzRLMVBJRXlNeGhFVmFmbnVSMlo5VDVKcTJrTDV2QTh4d1gtWHRkZw?oc=5",
-      "published": "2026-11-12T14:40:17Z",
-      "added": "2026-11-12T19:43:33Z",
-      "orig": "Can You Game Share GTA 6 on PS5? PlayStation Has an Answer",
-      "news": 4,
-      "humor": 4
     },
     {
       "id": "jason-beer-donut",
