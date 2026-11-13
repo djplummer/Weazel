@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-13T16:49:00Z",
+  "updatedAt": "2026-11-13T17:45:47Z",
   "items": [
+    {
+      "id": "cardi-travis-miami-club",
+      "title": "Cardi B and Travis Scott to take over a Miami strip club for launch; Vice City goes method",
+      "source": "96.5 KISS-FM",
+      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxObzBnRUJFbjM2Z1B5MS1EVGVsSkZpclA2c3JCdzY1MDJuYlpBSHVIT2FFVWUzYkZXS0lScVJWRWh0ZW1waHQ5MElKdTNyMkRkSEhESGtyQ0RiRnhYUmZjSExrYXViSU11MmRwcWhXN3JJcy1JejBrb1RFU3RMVkRLSnI4cXRITjk4em1Vay15d3NtQnBNem1abDFSN1cwX2R5bFFmSFlwRzVEVi0xMExwNVlWUVpmTTNFenBOWE9sRzctb0E?oc=5",
+      "published": "2026-11-13T17:33:00Z",
+      "added": "2026-11-13T17:45:47Z",
+      "orig": "Cardi B & Travis Scott Set For 'GTA VI' Takeover Of Popular Miami Strip Club",
+      "news": 4,
+      "humor": 6
+    },
     {
       "id": "push-square-no-online",
       "title": "Leonida opens Nov. 19 without an Online wing; visitors advised to behave alone",
@@ -13,14 +24,25 @@
       "humor": 6
     },
     {
-      "id": "mixmag-album-parties",
-      "title": "Record shops to host Leonida album listening parties; vinyl crowd fears no wanted level",
-      "source": "Mixmag",
-      "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNmdBdi0yZThfWmkyMkdtN1A1cXNjQ3RleUM0NVRCdklmQk1ZRkhTc3hXVkVMWU4zaVI5NFI5dTNGSTMzVVVOdllkMVdtTUJQZ1FIVWhzeDllXzhES2tKOGJFeW5HQXNuOUg1TkV0Z3NiX2g4QVhUNmZSM1pzVVFKVzBpYzYxQ1JpdzY3Y1N6bU81ZzdGeDZlRGtSampzUXBRV3FiZmV3?oc=5",
-      "published": "2026-11-13T15:54:06Z",
-      "added": "2026-11-13T16:49:00Z",
-      "orig": "Independent record stores to host GTA VI album listening parties next week",
-      "news": 4,
+      "id": "decix-record-traffic",
+      "title": "Europe's biggest internet exchange logs record traffic as Leonida pre-downloads pile in",
+      "source": "Telecompaper",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDM1VUFKUVJrSEswWkNmeGZIbjhqSlppRFZRUzVYMHJxTkZObXVHVnFLeDFnTk1paFZfNi1jdTU5eGI4bXpCVWNKSC1DVTVrYVN2NHozR1pCWmdhT3hjNDJLWVhxVVJfV0RGZ044bV96TDdNNnlVNU5oZHpOUDkwNzBudTRDSUNfQVZxTXRaZTc3MTNhMlFMcG9EOE12LWpsTGMxUndfdw?oc=5",
+      "published": "2026-11-13T15:59:31Z",
+      "added": "2026-11-13T17:45:47Z",
+      "orig": "DE-CIX sees record internet traffic with GTA VI pre-downloads",
+      "news": 5,
+      "humor": 5
+    },
+    {
+      "id": "uk-slow-internet-delays",
+      "title": "Thousands of UK gamers face a late arrival in Leonida; the broadband is the bottleneck",
+      "source": "IGN",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFVqUHZ0MXRfWEw1Q1dBMUs0T1dlM2gtRzBJbHNJdzBLVkZJQnpGaUg5MS0ydTl1LUVYUTU4QW9SVjJVcngxajNYWmtLbU04WGZyNlk0U1RwVWhlQmF4QUJZOEVWVENCZmhySFlNRVNlYWV1Y2RaVVF1aEhHeGkxYWYzRDluc2ZhZ2c?oc=5",
+      "published": "2026-11-13T15:12:38Z",
+      "added": "2026-11-13T17:45:47Z",
+      "orig": "Thousands of UK Gamers Face Delays to Play GTA 6 Because of Poor Internet Speeds",
+      "news": 5,
       "humor": 5
     },
     {
@@ -79,17 +101,6 @@
       "humor": 6
     },
     {
-      "id": "miami-vice-city-jerseys",
-      "title": "Miami drops Vice City jerseys with Travis Scott; real Florida goes fully in-universe",
-      "source": "Yahoo Sports",
-      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQLThKVmZPYWtieEtqUHo3TDBaak9UNlR2OWhJTlZYNTZLNE5wWXZyYTFkZDZ2WHNtVWRmc0NRcEJ5WHJNa1dTYUo3anZ4OUxJZzg4R2w3WXBqZ0d4M1MwbF9qc1Y5SVN4c1loQ0VFS1FTYUFWeW9BZVJoOGZpRksxbFY3MWpYSWc?oc=5",
-      "published": "2026-11-13T03:22:00Z",
-      "added": "2026-11-13T13:52:43Z",
-      "orig": "Miami releases new Grand Theft Auto VI Vice City jerseys in collab with Travis Scott",
-      "news": 4,
-      "humor": 5
-    },
-    {
       "id": "ps5-pro-60fps-compromises",
       "title": "Rockstar: PS5 Pro build hit 60 fps, with major compromises attached",
       "source": "Notebookcheck",
@@ -121,17 +132,6 @@
       "orig": "GTA 6 Could Leave Millions of Desks Empty on Launch Day, Survey Suggests",
       "news": 4,
       "humor": 6
-    },
-    {
-      "id": "xbox-deal-beyond-cloud",
-      "title": "Xbox's Rockstar deal reportedly runs 'beyond just the cloud'; details pending",
-      "source": "GamingBolt",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQU9fMVl6aFY2WGM0bGJWTFd6RG5EeWd2RWhCQ0VMTDlObGJVUkk3Slo1V2lVSVUxVjUwRmx4OFVBQUNZSmVDUE50R2NEemRhMDhyckFZazVQQXg5VFE4MlQycnFKaXdHVzFVbDVpeUFTdHFNQy02VlpLeDhybmRIZXRYOWFiNWxlRzhtWXBkM0pzRXlCdEtCblkwZw?oc=5",
-      "published": "2026-11-12T22:20:02Z",
-      "added": "2026-11-12T22:43:24Z",
-      "orig": "Xbox’s GTA 6 Deal With Rockstar Games Extends “Beyond Just the Cloud” – Rumor",
-      "news": 4,
-      "humor": 5
     },
     {
       "id": "yt-24h-livestream",
