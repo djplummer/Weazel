@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T04:44:08Z",
+  "updatedAt": "2026-11-14T05:44:20Z",
   "items": [
     {
       "id": "gta6-missing-box-codes",
@@ -22,17 +22,6 @@
       "orig": "Leaked GTA 6 Collector’s Box poster shows a map of “The Goodtime State”",
       "news": 4,
       "humor": 7
-    },
-    {
-      "id": "fox13-productivity-loss",
-      "title": "Leonida launch could cost U.S. $1 billion in lost productivity; 'local man' unbothered",
-      "source": "FOX 13 Seattle",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MaTZYbzFIVktXaEhwY3M3R1ZobjFrTlBRVWFsOV9tNWN2aURCbnpad3NnUk4tcjIxaFJJZUhEYmVERktWWmlKM0NIQlRSNExrSVQ2cDNvZGxsc1g2d3dmQ04zdXRKRmk4RXRFRWZwSzE2bG8?oc=5",
-      "published": "2026-11-14T02:48:23Z",
-      "added": "2026-11-14T03:43:23Z",
-      "orig": "GTA 6 release could trigger $1B U.S. productivity loss",
-      "news": 4,
-      "humor": 6
     },
     {
       "id": "bbc-original-creators-no-play",
@@ -209,6 +198,17 @@
       "orig": "Fake GTA 6 download goes after Steam logins and crypto wallet data",
       "news": 5,
       "humor": 5
+    },
+    {
+      "id": "mamdani-youth-jam",
+      "title": "Mayor Mamdani answers GTA VI with youth game-design contest, transit twist included",
+      "source": "Variety",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzNIOFk1Yks1TTFJZmJVVmFrbmJ3ZnZHVVhYX0tmOFpIVDFXeGdYdnpoc29YOHFsYWFpVEtxbjc1WXJCUUV4ZGdpRTkzbHdpWGxOWDVCMDB5UU9mNVFzcHVjY1NqZGN5bVdIbWZNYmhTVmVNRFpVMElhSW14YTBTWHZmeWJPejEwUDhRaFVrcXN5dG8?oc=5",
+      "published": "2026-11-13T15:00:00Z",
+      "added": "2026-11-14T05:44:20Z",
+      "orig": "Zohran Mamdani Launches Two-Day NYC Youth Video Game Design Competition With a Transit Twist Ahead of ‘GTA 6’ Launch (EXCLUSIVE)",
+      "news": 4,
+      "humor": 6
     },
     {
       "id": "macca-friends-teaser",
