@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-14T02:43:32Z",
+  "updatedAt": "2026-11-14T03:43:23Z",
   "items": [
+    {
+      "id": "fox13-productivity-loss",
+      "title": "Leonida launch could cost U.S. $1 billion in lost productivity; 'local man' unbothered",
+      "source": "FOX 13 Seattle",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MaTZYbzFIVktXaEhwY3M3R1ZobjFrTlBRVWFsOV9tNWN2aURCbnpad3NnUk4tcjIxaFJJZUhEYmVERktWWmlKM0NIQlRSNExrSVQ2cDNvZGxsc1g2d3dmQ04zdXRKRmk4RXRFRWZwSzE2bG8?oc=5",
+      "published": "2026-11-14T02:48:23Z",
+      "added": "2026-11-14T03:43:23Z",
+      "orig": "GTA 6 release could trigger $1B U.S. productivity loss",
+      "news": 4,
+      "humor": 6
+    },
     {
       "id": "bbc-original-creators-no-play",
       "title": "Even Grand Theft Auto's original creators can't get into Leonida yet; join the queue",
@@ -11,6 +22,17 @@
       "orig": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
       "news": 4,
       "humor": 6
+    },
+    {
+      "id": "twitch-drops-10k-codes",
+      "title": "Twitch to hand out 10,000-plus free Ultimate Edition codes; chat finally pays off",
+      "source": "Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVVlOVRDTHZzOTR6YXlDWl9YR1ZRUHZNM2xvR3I4a0NpcTQ2SmphNTlXa0Z5dHBhamlGZDVzSU1MOENGQnlaUE1RdTJkT0NJMWMyeWMydWJwNlJINWdINGhrSFdHS3E3MURyN1NGeVV1VTJ5RFJDc1hJMTE3QTI0cl93ZWVOVm1hUzhqZF9yVE5ncWhwTmk3MXNZbUpHbUQtZ1pONkxYTENGOWF5eGhhUVJPcGtlOHRsb3BROVRB?oc=5",
+      "published": "2026-11-14T00:21:00Z",
+      "added": "2026-11-14T03:43:23Z",
+      "orig": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
+      "news": 5,
+      "humor": 5
     },
     {
       "id": "gta5-sales-spike",
@@ -552,17 +574,6 @@
       "humor": 6
     },
     {
-      "id": "guardian-gameplay",
-      "title": "Guardian interview coughs up fresh GTA VI gameplay details, sources feign calm",
-      "source": "VICE",
-      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUTRiQ0lGM2pyN09yNjJxOFpyR2tMWHV3dGhLbHlHZkc5elplMXN3WElNTGRUWUxlaG5SMmJ3c3M3Q2RnQ1owOE9VX05sTzZHak1ZdlpUdnc4YVJSdkcwbktHYkNkV3pEMEg2bzN6Q1JQNE9OaHZKWmFkOXZPanlYRzVUbU84VUNIcU5V?oc=5",
-      "published": "2026-11-11T15:08:47Z",
-      "added": "2026-11-11T18:56:22Z",
-      "orig": "GTA 6 Guardian Interview Reveals New Gameplay Details",
-      "news": 5,
-      "humor": 4
-    },
-    {
       "id": "hollywood-braces",
       "title": "Hollywood braces for 'biggest entertainment launch in history', checks calendars",
       "source": "The Hollywood Reporter",
@@ -594,17 +605,6 @@
       "orig": "Travis Scott and Cardi B Join GTA VI Festival Lineup in Miami - 24Hip-Hop",
       "news": 6,
       "humor": 3
-    },
-    {
-      "id": "take-two-what-comes-next",
-      "title": "Take-Two boss: Rockstar's eyes already on 'what comes next' after Leonida launch",
-      "source": "GamingBolt",
-      "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxONy1xdHpzel8xdl9zaERXZkhSMWlTTG1ZUGNadU56TlNIN2J1cVQxb0JTUkpyX1N0cjdkTzduRU5FblFOLTNSVWF3bExpVGp2R2lKN3NVRUI1UUxTLU1RR1VTX0Yzc2R6VGRYNW8tU25FR2k2aXQ1blNSNXdIeTJyZ2tKcU5LTDRueThqRUFrWjg1dkJ3YnZLbkxXOUY?oc=5",
-      "published": "2026-11-11T13:17:51Z",
-      "added": "2026-11-11T19:36:43Z",
-      "orig": "GTA 6 Studio Will Focus on “What Comes Next” After Launch, Says Take-Two CEO",
-      "news": 5,
-      "humor": 4
     },
     {
       "id": "12m-off-work",
