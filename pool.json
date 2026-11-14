@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-14T03:43:23Z",
+  "updatedAt": "2026-11-14T04:44:08Z",
   "items": [
+    {
+      "id": "gta6-missing-box-codes",
+      "title": "Some GTA VI boxes arrive code-less, Rockstar reportedly won't help; Leonida shrugs",
+      "source": "Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeV9MU3ZNaXNVbFVWQjctLUdGX252U3dkUVpTSV9XZ2RGY2JvTjV0RjhRMWUwUWdUM2N3a04tMFJremZsd05xVHV5SmIxZk9oNjJ5SkU1UmRwOUtHbEdVQlF0SWRFX1JuUW5WRUpuYk1uNmh1eU1GZ0NjcV82SDdZVENzLVFpRkQ0ampMTFEzMlo4clFuUzVWU01jUHdqdzFCUVRqU1Z0VjBUZkRYN2pFZ1R1Q1BaQjFGVjhR?oc=5",
+      "published": "2026-11-14T04:11:00Z",
+      "added": "2026-11-14T04:44:08Z",
+      "orig": "Some physical GTA 6 boxes are missing codes, with Rockstar refusing to help",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "gta6-collector-box-poster",
+      "title": "Leaked collector's box poster maps 'The Goodtime State'; Weazel doesn't deny",
+      "source": "eGamers.io",
+      "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNNzg3eDBCYUdUTE9PVGNCaE9oU1JwTndMdW53eTAyUWJFWkl2THNhcXhpSlF1ZDd6WlBIaG16dVFWZENVODBaaXp0NUM3LVY5dlNSMDFlZnBtLUpiT3UzMUpZZmFJdlFoMzZkS3duY3ByMWdIWjdwZTQtRG1Ed1VIUDVXNkNhVDNIZmY1R2l1b1dxQQ?oc=5",
+      "published": "2026-11-14T04:09:46Z",
+      "added": "2026-11-14T04:44:08Z",
+      "orig": "Leaked GTA 6 Collector’s Box poster shows a map of “The Goodtime State”",
+      "news": 4,
+      "humor": 7
+    },
     {
       "id": "fox13-productivity-loss",
       "title": "Leonida launch could cost U.S. $1 billion in lost productivity; 'local man' unbothered",
@@ -55,6 +77,17 @@
       "orig": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
       "news": 6,
       "humor": 6
+    },
+    {
+      "id": "gta6-flashlight-codes",
+      "title": "Flashlight trick reportedly lifts GTA VI codes from sealed boxes; heist crew thrilled",
+      "source": "GameSpot",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPcnZ1Q2VVYkdPcm5sVXIyLWdJOW1IamNvNzNoLUs0SGdBUjliYnZ4ZVEyMmROOGtFdkxtREo3RGFlSGxyVUx4dkVwdV9ORExKd3lFNEh4NmpySnJqV25INUEtVjZObXhFZ2hKeUd2clFiQ2otMHhJeE5WTVpiLUF3ZlpzWTVPOFIyVWNJUEEtamljYTlBV3lUa3o5eGY1LXBsQ2hTX2poMnhSWmNsdm9OZw?oc=5",
+      "published": "2026-11-13T21:05:52Z",
+      "added": "2026-11-14T04:44:08Z",
+      "orig": "\"Physical\" GTA 6 Copies Might Be Vulnerable To A Very Stupid But Serious Trick",
+      "news": 5,
+      "humor": 7
     },
     {
       "id": "take-two-not-for-sale",
@@ -321,17 +354,6 @@
       "humor": 5
     },
     {
-      "id": "pocketpair-five-days",
-      "title": "Palworld studio hands staff five days off for GTA VI; creature-catching postponed",
-      "source": "IGN",
-      "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOaEJzLWtOOXp5YUtuci1TWTRqZWhIa2FHX3hzakR2SlczWXNnSnpZWXZ1Qml0Q0hpZUFGMXBCY1NGblpQeWZ6dTV4U1NJS19NRmRVeUlMbGtsSUMzODgyTldERFdmTWlMN19rNzhWU1NGR3B3Z25Jd2gtV1NfLU5RUnBadGw2c2xCZlJaZjZ3?oc=5",
-      "published": "2026-11-12T15:44:43Z",
-      "added": "2026-11-13T01:43:31Z",
-      "orig": "Palworld Developer Pocketpair Gives Employees 5 Days Off to Play GTA 6",
-      "news": 4,
-      "humor": 6
-    },
-    {
       "id": "youtube-gta-vi-launch",
       "title": "YouTube plans GTA VI launch celebration; the algorithm has cleared its schedule",
       "source": "YouTube Official Blog",
@@ -497,17 +519,6 @@
       "humor": 5
     },
     {
-      "id": "early-play-timezone",
-      "title": "Leonida's front door opens a day early if you move your console to New Zealand",
-      "source": "Mashable",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9XZmFiZG1mdkpSc0xWNmxSdXZGUDZ0SG5HQm9iM0ZBbzRhWlFxUFU4OHhwRjlSZF9hLVh6QWt2MkZNVjNhNjhOT2dkR0N6U0laS3ZHWlAyNHMtM3FERWJSWkZVR0NNdlJ2N3BVel9ZajRjV1BY?oc=5",
-      "published": "2026-11-11T17:35:03Z",
-      "added": "2026-11-11T21:43:42Z",
-      "orig": "How to play 'GTA 6' a day before everyone else in the U.S.",
-      "news": 4,
-      "humor": 6
-    },
-    {
       "id": "212gb-nodisc",
       "title": "Reports claim 212 GB install, no disc, worldwide unlock on November 19",
       "source": "Latin Times",
@@ -571,17 +582,6 @@
       "added": "2026-11-11T18:43:33Z",
       "orig": "GTA 6 Demand Is 'Extraordinary,' but Take-Two CEO Isn't Ready to Declare Victory",
       "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "hollywood-braces",
-      "title": "Hollywood braces for 'biggest entertainment launch in history', checks calendars",
-      "source": "The Hollywood Reporter",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdDBjbzQ5Q3MyYW03SmZpWUVCeXgtZnBCSUtFT0NTdUR1NGtrUVVYM3RsX3k0dHdIem1qUzNtWGE0ZVB3WjZ6a2tjeWRKLWxjMkVNdm5rY2JzX0JnNWRSVXVWX0c3ck9SS1UzRWUwRER6WmhNSEo2a0pxQ2pwVkJ6bzZhXzRGVEJpU2c4dDJjVTlsdHMtNVNDMVRLUGlBVExKYVlURjBHOGFEY0E?oc=5",
-      "published": "2026-11-11T14:16:46Z",
-      "added": "2026-11-11T19:36:43Z",
-      "orig": "‘GTA 6’ vs. Hollywood: Industry Braces for “Biggest Entertainment Launch in History”",
-      "news": 4,
       "humor": 6
     },
     {
