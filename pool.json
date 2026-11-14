@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T05:44:20Z",
+  "updatedAt": "2026-11-14T07:44:11Z",
   "items": [
     {
       "id": "gta6-missing-box-codes",
@@ -22,6 +22,17 @@
       "orig": "Leaked GTA 6 Collector’s Box poster shows a map of “The Goodtime State”",
       "news": 4,
       "humor": 7
+    },
+    {
+      "id": "fox13-1b-productivity",
+      "title": "Fox 13 puts GTA VI's productivity bill at $1 billion; accountants reach for the controller",
+      "source": "Fox 13 Seattle",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MaTZYbzFIVktXaEhwY3M3R1ZobjFrTlBRVWFsOV9tNWN2aURCbnpad3NnUk4tcjIxaFJJZUhEYmVERktWWmlKM0NIQlRSNExrSVQ2cDNvZGxsc1g2d3dmQ04zdXRKRmk4RXRFRWZwSzE2bG8?oc=5",
+      "published": "2026-11-14T02:48:23Z",
+      "added": "2026-11-14T07:44:11Z",
+      "orig": "GTA 6 release could trigger $1B U.S. productivity loss",
+      "news": 5,
+      "humor": 6
     },
     {
       "id": "bbc-original-creators-no-play",
@@ -88,6 +99,17 @@
       "news": 6,
       "humor": 6,
       "added": "2026-11-13T21:43:30Z"
+    },
+    {
+      "id": "mp1st-update-1002",
+      "title": "GTA VI gets update 1.002; Rockstar reportedly patching Leonida in waves",
+      "source": "MP1st",
+      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2JWT1N0TWx5TzRxVDdWQVRabTN1aEVkcXFwX3pqUXB0NjFXYWc2TEkzREViaUVTTUgxRXJIa1ExeEk4aGJrOVNpVWU5blFYQTVlY2ZZSlIyMG9UcVVzRmU0MmJIanF3d2d1bWQ2czVkRV80S1JVSU9HSmVQT1hlcDFwMC00aTRYNkNGTzZfUjJhTE5jWlNESENzWUZZamFFeHhsQ0VZQjE?oc=5",
+      "published": "2026-11-13T19:58:35Z",
+      "added": "2026-11-14T07:44:11Z",
+      "orig": "GTA 6 Receives Update 1.002 and It Looks Like Rockstar Might Be Rolling Out Patches in Waves",
+      "news": 5,
+      "humor": 5
     },
     {
       "id": "gamespot-55m-copies",
@@ -299,17 +321,6 @@
       "humor": 6
     },
     {
-      "id": "miami-beach-ocean-drive-clip",
-      "title": "Viral Ocean Drive clip appears to be GTA VI; Miami Beach checks its mirror",
-      "source": "NBC 6 South Florida",
-      "link": "https://www.nbcmiami.com/news/local/this-viral-miami-beach-video-looks-straight-out-of-gta-6-and-it-might-be/",
-      "published": "2026-11-12T21:30:01Z",
-      "added": "2026-11-13T06:44:17Z",
-      "orig": "This viral Miami Beach video looks straight out of GTA 6, and it might be",
-      "news": 4,
-      "humor": 6
-    },
-    {
       "id": "youtube-40b-views",
       "title": "YouTube logs 40 billion GTA VI video views before anyone has even played it",
       "source": "PPC Land",
@@ -318,17 +329,6 @@
       "added": "2026-11-12T19:43:33Z",
       "orig": "GTA VI videos gain 40 billion YouTube views before the game launches",
       "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "twitch-ceo-biggest-moment",
-      "title": "Twitch CEO calls GTA VI a big moment; streamers cancel their weekend plans, presumably",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNdnVQVk1IODY3SU5udXN5cnkxQkw1TUZMVXdCS0pEdmhJaE5xdE9lc21nMElEQ3pXT1N6cF9TSV90dDliWWtCWWxId0RTcVd1SkFJaGhwTjQxaWYwRTNwaUYyb0tuR1JwcmFoRjFCTG50a1dYdmxuTjhfazFCZm1zMDNNUVFlNjJkczBlczRXekk0ZGJFREYzMlp4RDVFdm5MZVE?oc=5",
-      "published": "2026-11-12T19:10:14Z",
-      "added": "2026-11-13T02:43:53Z",
-      "orig": "Watch Twitch CEO: GTA VI Could Be Our Biggest Moment",
-      "news": 4,
       "humor": 6
     },
     {
