@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-13T23:43:48Z",
+  "updatedAt": "2026-11-14T00:43:50Z",
   "items": [
     {
       "id": "gta5-sales-spike",
@@ -10,6 +10,17 @@
       "added": "2026-11-13T23:43:48Z",
       "orig": "GTA 5 Sees Sales Spike Ahead of GTA VI Launch",
       "news": 4,
+      "humor": 6
+    },
+    {
+      "id": "some-intl-physical-copies-redeem-unopened",
+      "title": "Some overseas GTA VI boxes reportedly redeem unopened; Leonida skips the seal",
+      "source": "Engadget",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQy0wTmVod1ZaQUZpSFNoZjhGc1BkRWVuVUNCYWNVUUVOU0NLSWxEZXAwMmFTR1hxQ015S0lKSEkxQmFnWDdicEZGVVJ3YmlnWFRBUmFzQmd3TVl6QmxZTTlDMllJT0VtU1ZyalozZHN5N1FoMkdXTklkS0VnMHQtRlRqVWMxd2k3LTRFNDNVVXNyOV9TNWN4REkycDc3YzBzeXMyYmdNU0ZuM3g3ZW1tMHdpZm0?oc=5",
+      "published": "2026-11-13T22:50:13Z",
+      "added": "2026-11-14T00:43:50Z",
+      "orig": "Some international physical copies of GTA VI can allegedly be redeemed without opening the box",
+      "news": 6,
       "humor": 6
     },
     {
@@ -264,17 +275,6 @@
       "orig": "GTA VI Needs To Hit $1.9B In Sales To Meet Investor Expectations, Says BofA – Analyst Sees 33% Potential Upside In TTWO Stock",
       "news": 5,
       "humor": 5
-    },
-    {
-      "id": "review-embargo-nov18",
-      "title": "GTA VI review verdicts reportedly due Nov. 18; critics enjoy one day's head start",
-      "source": "25YearsLaterSite.com",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNm5KR3FrSVFYRkNCc3FxdE85djFNNUxYVTQtMWZucmNjWWcya2ZFQmM2aXpXNG1EbG1RNHhJTFpUYmUtZ21mZm9GZWE1SURpNGs2Vnl1T2dvQXBKS3FvQXh6MFBLSmNlS1NPejRZd1A0VXhCbWdDQTJ3SmRlcndXOC0wbTZETzBmQUUxWlhMaFRHM1AzMHBRZ0drWTZXWjA?oc=5",
-      "published": "2026-11-12T16:31:09Z",
-      "added": "2026-11-12T22:43:24Z",
-      "orig": "GTA 6 Review Embargo: Verdicts Reportedly Due Nov. 18",
-      "news": 5,
-      "humor": 4
     },
     {
       "id": "best-buy-early-access",
