@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-14T13:43:25Z",
+  "updatedAt": "2026-11-14T14:43:33Z",
   "items": [
+    {
+      "id": "guardian-nelson-demo",
+      "title": "Rockstar demo: Jason eats donut, sips beer, robs jewelry store, all in one visit",
+      "source": "VICE",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zQmVONFE5cEdFM3Z0QWNhT283ZTh0cDJoQUdsWVpiUS1VMVBVYXNkREloa3VsXzJhaWFIcmRSZXQyUGJSbTlsMWQyUUM4eTZGNUNmSTRacWo5UlhCX3Q0LU9IdHM2MWJFSWxkUDBncXpHWFprU2NjQ1NydHlQcnM?oc=5",
+      "published": "2026-11-14T13:51:30Z",
+      "orig": "6 New GTA 6 Gameplay Details From The Guardian's Rockstar Interview",
+      "news": 5,
+      "humor": 6,
+      "added": "2026-11-14T14:43:33Z"
+    },
     {
       "id": "canada-109-99",
       "title": "Leonida costs $109.99 in Canada, and up to $1,500 once the extras arrive",
@@ -33,17 +44,6 @@
       "orig": "GTA 6’s Jason and Lucia Start The Story As Small-Time Criminals with Basic Abilities",
       "news": 5,
       "humor": 5
-    },
-    {
-      "id": "gta6-empathy",
-      "title": "Empathy arrives in the GTA franchise for the first time, brace for feelings in Leonida",
-      "source": "Insider Gaming",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaZk9UaDBFdlBiWWZjalRZdVJFYV9GZ1RoaWk2N0trZFNLVnd2c0xuWTlSTUtzN3NwVFU5R1lTb2FlMnZPMFRGWS0zNzBFcG9DUzJDWU1QbnNxM19wbmM1clF2MHl2TkFhR1Ewa0Jtb0pTMEV6UllNag?oc=5",
-      "published": "2026-11-14T08:51:35Z",
-      "added": "2026-11-14T13:43:25Z",
-      "orig": "GTA 6 Will ‘Encourage’ Empathy For The First Time in Franchise History",
-      "news": 4,
-      "humor": 6
     },
     {
       "id": "album-tracklist-leak",
