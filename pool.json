@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-14T17:43:43Z",
+  "updatedAt": "2026-11-14T18:44:10Z",
   "items": [
+    {
+      "id": "take-two-ai-cloning-no-threat",
+      "title": "Take-Two boss says AI Leonida knockoffs are no threat to the till",
+      "source": "Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xYXhFb1FIbXhNOEdsN0x6UEpYeTdqbk9ZaUExU2ZWR0YwV1ozUTZNVW00SlNtaXNZM0tieDNLc2dYV3E5UHVHWFJEei1ubTZidlJSdDdwWnZVV0xHcWxXdkhKb3RZSGpRMFduT0ktRnBVRTBpdlNrSQ?oc=5",
+      "published": "2026-11-14T18:22:00Z",
+      "added": "2026-11-14T18:44:10Z",
+      "orig": "GTA 6 AI Cloning Is Not a Financial Threat, Says Take-Two CEO",
+      "news": 5,
+      "humor": 5
+    },
     {
       "id": "guardian-nelson-demo",
       "title": "Rockstar demo: Jason eats donut, sips beer, robs jewelry store, all in one visit",
@@ -11,17 +22,6 @@
       "news": 5,
       "humor": 6,
       "added": "2026-11-14T14:43:33Z"
-    },
-    {
-      "id": "xbox-exec-ingame-ads",
-      "title": "Xbox exec floats in-game ads as the way to tame game prices post-Leonida",
-      "source": "GAMINGbible",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnJiZjZvMjRwOV9QX0FNVnk0aUNXMFZZQmY1bXJMdjB3b1BPYnlOdF83SFlBRnE3eEctdllBM0dGdFNJZDhta212c0dpazBYRmEteDM1YjNnZE4wSUE0T0VScFhnUUUwN2dRQjVpSXI2OFdTWUppWXpCTU9OaEFjZUFTSU9BRnlfTHM0aWI5OGNpdDFQTmVrZ1lOZVFabGxSZnN3?oc=5",
-      "published": "2026-11-14T12:13:14Z",
-      "added": "2026-11-14T17:43:43Z",
-      "orig": "Xbox executive hints at in-game ads as the only way to stop 'dramatic' game prices following GTA 6",
-      "news": 4,
-      "humor": 6
     },
     {
       "id": "canada-109-99",
