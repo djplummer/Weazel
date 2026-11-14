@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-14T00:43:50Z",
+  "updatedAt": "2026-11-14T02:43:32Z",
   "items": [
+    {
+      "id": "bbc-original-creators-no-play",
+      "title": "Even Grand Theft Auto's original creators can't get into Leonida yet; join the queue",
+      "source": "BBC",
+      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peXRGaTVTWHN0TTMwMGdISUQ3ODZlV3gxZS1GMWZnakRMdGRtcFpPUFExaDVfNDVHX1VOYUJ3NXRRSnZmcVZYdWtRNXVLRm9iR0pfMnB0VGJXYVJtR0E?oc=5",
+      "published": "2026-11-14T00:37:01Z",
+      "added": "2026-11-14T02:43:32Z",
+      "orig": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
+      "news": 4,
+      "humor": 6
+    },
     {
       "id": "gta5-sales-spike",
       "title": "GTA V sales spike ahead of GTA VI; Los Santos enjoys its farewell lap",
@@ -605,17 +616,6 @@
       "orig": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
       "news": 5,
       "humor": 6
-    },
-    {
-      "id": "discless-unboxing",
-      "title": "Unboxing videos show a discless case and a poster; paper map not included",
-      "source": "Insider Gaming",
-      "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTHR1ZUxlVGw1eWN1Qm9JdW9IWWFndmNiLVVBQnNKYVhpWGRmak85bzdPNnFZWV9FVHp4Q2ZkWGR6aXhyNENIZ0g3WXEtaUFnNFhlUVo1MGc3cWJ6aUZLN2JKY3BtMWQ2TGQxa2JRN0o0MzV1emR0cjAwLThmOGhMWkpXd3Rma04zWFpVeGk1OWc1dTVXX0RGNWFrZ2pmYVp2VXc?oc=5",
-      "published": "2026-11-11T12:04:29Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6 Physical Edition Unboxing Videos Show Off Poster And Discless Case",
-      "news": 5,
-      "humor": 4
     },
     {
       "id": "review-scores",
