@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-14T07:44:11Z",
+  "updatedAt": "2026-11-14T09:43:41Z",
   "items": [
+    {
+      "id": "album-tracklist-leak",
+      "title": "Full GTA VI album tracklist reportedly leaks, Rockstar still sitting on the receipts",
+      "source": "RockstarINTEL",
+      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTUpsSDRyTm5GaWVCMVRmTHQzckQ1OHdYNVN5XzJIaFlBbzdxRzV4X3hkdWY1cWdlWUJOenBKUmc5ejJfRFdJdmxScEZDM2JpcjY0MGpoVFpRRXBUb1hnTWQ1dzRJMVlYREpNdERVQVI0M2Rn?oc=5",
+      "published": "2026-11-14T08:49:43Z",
+      "added": "2026-11-14T09:43:41Z",
+      "orig": "Full GTA VI The Album Track List Leaked",
+      "news": 5,
+      "humor": 5
+    },
     {
       "id": "gta6-missing-box-codes",
       "title": "Some GTA VI boxes arrive code-less, Rockstar reportedly won't help; Leonida shrugs",
@@ -32,17 +43,6 @@
       "added": "2026-11-14T07:44:11Z",
       "orig": "GTA 6 release could trigger $1B U.S. productivity loss",
       "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "bbc-original-creators-no-play",
-      "title": "Even Grand Theft Auto's original creators can't get into Leonida yet; join the queue",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9peXRGaTVTWHN0TTMwMGdISUQ3ODZlV3gxZS1GMWZnakRMdGRtcFpPUFExaDVfNDVHX1VOYUJ3NXRRSnZmcVZYdWtRNXVLRm9iR0pfMnB0VGJXYVJtR0E?oc=5",
-      "published": "2026-11-14T00:37:01Z",
-      "added": "2026-11-14T02:43:32Z",
-      "orig": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-      "news": 4,
       "humor": 6
     },
     {
