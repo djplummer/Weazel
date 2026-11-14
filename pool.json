@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-14T15:43:16Z",
+  "updatedAt": "2026-11-14T17:43:43Z",
   "items": [
     {
       "id": "guardian-nelson-demo",
@@ -11,6 +11,17 @@
       "news": 5,
       "humor": 6,
       "added": "2026-11-14T14:43:33Z"
+    },
+    {
+      "id": "xbox-exec-ingame-ads",
+      "title": "Xbox exec floats in-game ads as the way to tame game prices post-Leonida",
+      "source": "GAMINGbible",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQcnJiZjZvMjRwOV9QX0FNVnk0aUNXMFZZQmY1bXJMdjB3b1BPYnlOdF83SFlBRnE3eEctdllBM0dGdFNJZDhta212c0dpazBYRmEteDM1YjNnZE4wSUE0T0VScFhnUUUwN2dRQjVpSXI2OFdTWUppWXpCTU9OaEFjZUFTSU9BRnlfTHM0aWI5OGNpdDFQTmVrZ1lOZVFabGxSZnN3?oc=5",
+      "published": "2026-11-14T12:13:14Z",
+      "added": "2026-11-14T17:43:43Z",
+      "orig": "Xbox executive hints at in-game ads as the only way to stop 'dramatic' game prices following GTA 6",
+      "news": 4,
+      "humor": 6
     },
     {
       "id": "canada-109-99",
@@ -164,17 +175,6 @@
       "added": "2026-11-13T19:43:23Z",
       "orig": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
       "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "comcast-speed-boost",
-      "title": "Comcast gives some Xfinity customers a GTA VI speed boost; download gods appeased",
-      "source": "TheDesk.net",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNeTRUZGJqSWNpLU43M2pQZ3hZSTE4bGNqc2VRZmdWQmc5TW90UTRhUkxqUVJQaGVnUjZBQUUyRlVST3dOc3pZRGdaaXl0bUZ5cDF0bjU1NGVLZWFFSTItSHZUbXBXMC1YQ0pMVDRzcGswektuc1pKRnlHRXRhX1FMcE5DXzdBNGl6bWtnM25zTG1BZjQ?oc=5",
-      "published": "2026-11-13T18:58:33Z",
-      "added": "2026-11-13T19:43:23Z",
-      "orig": "Comcast offering some Xfinity Internet customers speed boost for GTA VI",
-      "news": 4,
       "humor": 6
     },
     {
