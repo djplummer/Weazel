@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-15T22:43:19Z",
+  "updatedAt": "2026-11-15T23:43:32Z",
   "items": [
+    {
+      "id": "gta-plus-preorder-month",
+      "title": "Leonida pre-orders include a month of GTA+; GTA V gets a lifeline",
+      "source": "WellPlayed",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkp0bjFZNDRFZEFKN2YzeUFnSk1PaGY2Sm1kVnNiTEh1U3d0WnlkbDI5NklQVVhLNW1NbkVueXNUMjJBV0RvTXVKWmhtUW83cy13RXpWeHdhWDZ5dnlFc0JqbmUteWI4TkpyRTlfV2w4Q01mX0NTdUkyVHkybUc5NktubVV0QzZ6UzJIcll1c1F4cjRYSlBxbml5RQ?oc=5",
+      "published": "2026-11-15T21:55:11Z",
+      "added": "2026-11-15T23:43:32Z",
+      "orig": "GTA 6 pre-orders come with a month of GTA+, keeping GTA 5 in play",
+      "news": 5,
+      "humor": 6
+    },
     {
       "id": "svg-zelnick-faster-gta",
       "title": "Take-Two chief hints at faster GTA cycles; Leonida isn't even open yet",
@@ -88,17 +99,6 @@
       "orig": "GTA VI Narrowly Avoids Ban Over Explicit Nudity Concerns",
       "news": 5,
       "humor": 6
-    },
-    {
-      "id": "pocketpair-vice-city-trip",
-      "title": "Palworld studio sends staff on a five-day 'business trip' to Vice City",
-      "source": "TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjdCNXhkOGthTHBmNzFjREtZcWFaSHZGUHJlcmxiQzB1NzZoSVd3T0w0Sk1lWUF1VnZBRlZQbnJvaXZHVGUwbmx6TFZRY254cU9Dek5vb1UzSlRIRU1VS084Nmw0VlhLaEFMQk1CY1BzdkxPUTd0RGZGZnU0bUk2NWFlV0JZdEMzenZkeDlHS1NxRnRxQ21NbTBESEl0MXdoUlFiTzljUkJhYkxzTG91d1V5MEVJX2NEV21GUkpvNkVSc09fWVpyVVlnQ0Z5NUtWZzlrNzhqd2xhTm5rLW9VdVlWako?oc=5",
-      "published": "2026-11-15T13:15:11Z",
-      "added": "2026-11-15T20:43:16Z",
-      "orig": "Palworld developer Pocketpair gives employees a five-day 'business trip' to Vice City for GTA 6's launch",
-      "news": 4,
-      "humor": 7
     },
     {
       "id": "ms-series-s-panic",
