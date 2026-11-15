@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-15T14:43:34Z",
+  "updatedAt": "2026-11-15T18:43:55Z",
   "items": [
+    {
+      "id": "benzinga-analysts-boost-tt",
+      "title": "Analysts raise Take-Two forecasts as Leonida opens; the stock rides shotgun",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQXUtbE00NnNHM1E1QWVpUVFlbkpwbzFQYzIwckhjNkFyVjE1OU9ZM2hCTVBzb0QwMllGZTc2U3BrbzFFX20zNjJhSEd3OU5GU0RleG1pUTllcjl2U1BwcTAxYldiTzJfYW96WXlRd3pBbWRjcWwxRUo0OVlUaWdfcHEwZ3hVbTVwakIydUZ2M2lDZjdodWJpY3dIZTEtSmdSNm1Gb3lLaS1sbThFUVpRRktvd3ZqdTBDbnJjbUxzTFFMdzUzcTd1cGtKeEhVOHRudTg0NFRNakhPWmc?oc=5",
+      "published": "2026-11-15T18:15:05Z",
+      "added": "2026-11-15T18:43:55Z",
+      "orig": "Analysts Boost Take-Two Interactive Stock Forecasts Ahead of Grand Theft Auto VI Debut",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "story-50-hours-100-missions",
+      "title": "Leonida's story reportedly runs 50 hours over 100 missions; the platinum trophy, 200",
+      "source": "Men's Journal",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYlhPZ09OWEN3aG5YZE1CWFBjQnlFYVdCcnppWHlGTmhCZ0kzREhRanBIc01qVnZJMUpPRm5uMlhsOGFISTc0TmNNaWkxT0RudGxYSkpQc3RnUW9UcnNGcDBSOXM4eVZKeUhmVlpJRW1UazQtRjIwaXB5dThpRlZ6Y0ZsazNKMHM2Z0tFLTZINGZ4WEZtd1M5ZncyZ01sUQ?oc=5",
+      "published": "2026-11-15T16:44:15Z",
+      "added": "2026-11-15T18:43:55Z",
+      "orig": "‘GTA 6’ Game Length and Mission Count Officially Revealed",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "rockstar-tove-lo-teaser",
+      "title": "Rockstar drops a Tove Lo teaser as preloading begins; Leonida plays the hits early",
+      "source": "Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNbmwzNmFjbjhZNzhfbWhtVVRwREQ4bFZOckN4MzcwN3lJY3gzZHYyTS1uNG5WS3ZTVjh5bDhhNXpwT0VFbmhmdUl2RzNZLVBqazVpNUI0MmdDSjNsSE94WXRXZDZYd3ppeUtfM2lMVWZ5SGE5M2hGT3Z4c1lfVkZyejJvTUp6UQ?oc=5",
+      "published": "2026-11-15T15:13:17Z",
+      "added": "2026-11-15T18:43:55Z",
+      "orig": "'GTA VI' Pre-Loading Begins, Rockstar Drops New Teaser f/ Tove Lo Track",
+      "news": 6,
+      "humor": 6
+    },
     {
       "id": "ms-series-s-panic",
       "title": "Microsoft executives reportedly panicked over Series S performance as Leonida nears",
@@ -156,17 +189,6 @@
       "humor": 6
     },
     {
-      "id": "jason-lucia-small-time",
-      "title": "Jason and Lucia start small-time with basic abilities, Leonida's career ladder awaits",
-      "source": "Insider Gaming",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZcUZQS0F3UjFJNTZ6Wi15WlVNSlB2ZGx6cW40TUt5UVF5UmVDSGR6NkJIMHhZUEN4Z2IzcFJtOU9OeUk4U2RWYkdEUDlMRFg4THlRTVc4a2l3QjdzSm5uTFFUTEI2NHJBNU94YWJKSmczQ1p4ZVN1aWQyVQ?oc=5",
-      "published": "2026-11-14T09:05:24Z",
-      "added": "2026-11-14T13:43:25Z",
-      "orig": "GTA 6’s Jason and Lucia Start The Story As Small-Time Criminals with Basic Abilities",
-      "news": 5,
-      "humor": 5
-    },
-    {
       "id": "rockstar-empathy-franchise-first",
       "title": "Rockstar says Leonida will 'encourage' empathy, a franchise first; heist crew baffled",
       "source": "Insider Gaming",
@@ -176,17 +198,6 @@
       "orig": "GTA 6 Will 'Encourage' Empathy For The First Time in Franchise History",
       "news": 4,
       "humor": 7
-    },
-    {
-      "id": "album-tracklist-leak",
-      "title": "Full GTA VI album tracklist reportedly leaks, Rockstar still sitting on the receipts",
-      "source": "RockstarINTEL",
-      "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBoTUpsSDRyTm5GaWVCMVRmTHQzckQ1OHdYNVN5XzJIaFlBbzdxRzV4X3hkdWY1cWdlWUJOenBKUmc5ejJfRFdJdmxScEZDM2JpcjY0MGpoVFpRRXBUb1hnTWQ1dzRJMVlYREpNdERVQVI0M2Rn?oc=5",
-      "published": "2026-11-14T08:49:43Z",
-      "added": "2026-11-14T09:43:41Z",
-      "orig": "Full GTA VI The Album Track List Leaked",
-      "news": 5,
-      "humor": 5
     },
     {
       "id": "gta6-missing-box-codes",
@@ -220,17 +231,6 @@
       "orig": "GTA 6 release could trigger $1B U.S. productivity loss",
       "news": 5,
       "humor": 6
-    },
-    {
-      "id": "twitch-drops-10k-codes",
-      "title": "Twitch to hand out 10,000-plus free Ultimate Edition codes; chat finally pays off",
-      "source": "Notebookcheck",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPLVVlOVRDTHZzOTR6YXlDWl9YR1ZRUHZNM2xvR3I4a0NpcTQ2SmphNTlXa0Z5dHBhamlGZDVzSU1MOENGQnlaUE1RdTJkT0NJMWMyeWMydWJwNlJINWdINGhrSFdHS3E3MURyN1NGeVV1VTJ5RFJDc1hJMTE3QTI0cl93ZWVOVm1hUzhqZF9yVE5ncWhwTmk3MXNZbUpHbUQtZ1pONkxYTENGOWF5eGhhUVJPcGtlOHRsb3BROVRB?oc=5",
-      "published": "2026-11-14T00:21:00Z",
-      "added": "2026-11-14T03:43:23Z",
-      "orig": "Deal | 10K+ free GTA 6 Ultimate Edition game codes coming in livestream Twitch drops",
-      "news": 5,
-      "humor": 5
     },
     {
       "id": "some-intl-physical-copies-redeem-unopened",
