@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-15T21:43:24Z",
+  "updatedAt": "2026-11-15T22:43:19Z",
   "items": [
     {
       "id": "svg-zelnick-faster-gta",
@@ -76,6 +76,17 @@
       "added": "2026-11-15T18:43:55Z",
       "orig": "'GTA VI' Pre-Loading Begins, Rockstar Drops New Teaser f/ Tove Lo Track",
       "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "gta-vi-narrowly-avoids-ban",
+      "title": "Leonida nearly banned over nudity concerns; censors blinked, the Vice City lobby did not",
+      "source": "LevelUp",
+      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVluS0wyTWkxTE12dUlCZzFtYXhWVUFtcHN2alpaRjdDVGtLWHNsZXgzb0dfb2JKSW1zel9sYkVfUExNdGFxdUNPQmg5UjVJaFotbENYYlMyTnlDd2pWZU1YNkQyYy1KLWFld182c0tMeHpQQS1UTWszYlFtU3NhYmp3blE2WnV6d3k1N0xPNXdGanc?oc=5",
+      "published": "2026-11-15T14:40:00Z",
+      "added": "2026-11-15T22:43:19Z",
+      "orig": "GTA VI Narrowly Avoids Ban Over Explicit Nudity Concerns",
+      "news": 5,
       "humor": 6
     },
     {
@@ -319,17 +330,6 @@
       "news": 6,
       "humor": 6,
       "added": "2026-11-13T21:43:30Z"
-    },
-    {
-      "id": "mp1st-update-1002",
-      "title": "GTA VI gets update 1.002; Rockstar reportedly patching Leonida in waves",
-      "source": "MP1st",
-      "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQM2JWT1N0TWx5TzRxVDdWQVRabTN1aEVkcXFwX3pqUXB0NjFXYWc2TEkzREViaUVTTUgxRXJIa1ExeEk4aGJrOVNpVWU5blFYQTVlY2ZZSlIyMG9UcVVzRmU0MmJIanF3d2d1bWQ2czVkRV80S1JVSU9HSmVQT1hlcDFwMC00aTRYNkNGTzZfUjJhTE5jWlNESENzWUZZamFFeHhsQ0VZQjE?oc=5",
-      "published": "2026-11-13T19:58:35Z",
-      "added": "2026-11-14T07:44:11Z",
-      "orig": "GTA 6 Receives Update 1.002 and It Looks Like Rockstar Might Be Rolling Out Patches in Waves",
-      "news": 5,
-      "humor": 5
     },
     {
       "id": "gamespot-55m-copies",
