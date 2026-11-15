@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-15T09:43:55Z",
+  "updatedAt": "2026-11-15T12:44:11Z",
   "items": [
+    {
+      "id": "guardian-inside-story",
+      "title": "Guardian tours Leonida's building site: ten years, thousands of staff, $1 billion",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
+      "published": "2026-11-15T11:26:00Z",
+      "added": "2026-11-15T12:44:11Z",
+      "orig": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "leaked-soundtrack-confirmed-real",
       "title": "Leaked soundtrack declared genuine; Leonida radio now has Travis Scott and no alibi",
@@ -561,17 +572,6 @@
       "orig": "Selfridges goes GTA 6 merch mad – even selling a real-life Grotti Cheetah supercar for £1 million",
       "news": 6,
       "humor": 6
-    },
-    {
-      "id": "ai-piracy",
-      "title": "Take-Two warns pirates may recruit AI ahead of the PC release",
-      "source": "Gadget Review",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOc2FveF9NMWNxNXpacVRTOHlCNXhWY3Z6OVAyTVF0RWJvam16emJ0RndrUVVmNHpnd3dlUEVyajRqX3dkUE4tWWk2eTBNMHl5bS1Pamh4UnduaXRQdWgtaHhtTWlEcDltZjQ4RkZVUVNtdDRTMWdSYWxVdV92QWkxZDlEelB1ZTE2NllQUk1HTFNobEJDOHA0aTl3cm03Z20wenZPdmJyUTlTbjg?oc=5",
-      "published": "2026-11-11T16:31:16Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "Rockstar’s Parent Company Warns of AI-Assisted GTA 6 Piracy Ahead of PC Release",
-      "news": 5,
-      "humor": 5
     },
     {
       "id": "most-preordered",
