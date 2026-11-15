@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-15T12:44:11Z",
+  "updatedAt": "2026-11-15T13:43:29Z",
   "items": [
+    {
+      "id": "ms-series-s-panic",
+      "title": "Microsoft executives reportedly panicked over Series S performance as Leonida nears",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWJVNHh6N01KdEduUlZWU0M0WllSRHdFUGYwZm04bnk1Y2x2b2pGbHFlLVgzVW10Y2NIOWlpaUpCOWRQbnFyczFLVWh1S3ZoeW9QRHI3Yzg1OFlKYU5tT3hTb0RlMmV4MDBWM1hDcWtBZXNlakZLMVRrNEQzQ2NnYUNQWXVaTHhIMHVuUUhtRUhlWWV3T3NKckxrR0JySGItMDZjbXJQMFVOMGtzdlMwTktUMGNrSk5ZZ2l3dlYtRVZnRmJRNUpCYi1scjlaLVNhVlE?oc=5",
+      "published": "2026-11-15T11:59:54Z",
+      "added": "2026-11-15T13:43:29Z",
+      "orig": "Microsoft executives panicked over Grand Theft Auto VI's performance on Xbox Series S ahead of release.",
+      "news": 5,
+      "humor": 6
+    },
     {
       "id": "guardian-inside-story",
       "title": "Guardian tours Leonida's building site: ten years, thousands of staff, $1 billion",
@@ -13,6 +24,17 @@
       "humor": 5
     },
     {
+      "id": "game-awards-eligible",
+      "title": "Game Awards nominees due next week; Leonida eligible, rivals reportedly nervous",
+      "source": "Nintendo Life",
+      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWt6TXRuX3FKVW9mZXNCLXhZN2JJWG5hNkN2S2c3UjJCbVZOZnFPbV9tcmNjOXJPNWpzN3BSWl9lcmNIRDRSZERBUDNMNnQzVTQtYnhwX3ZHUmtVM3JLZkotSmpxNWpVTERlNUNySnZQOVlYc2MxN1VlY29hc3B5S3Rkc0ZQXzBWUGo4S09CeWtwWTZkYlA3WmxDYmRQdDFPSzRBdDBzREM5Qjd3SndnZWpSOUIzSHhzNWpTN3Y1UQ?oc=5",
+      "published": "2026-11-15T08:26:05Z",
+      "added": "2026-11-15T13:43:29Z",
+      "orig": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
+      "news": 5,
+      "humor": 6
+    },
+    {
       "id": "leaked-soundtrack-confirmed-real",
       "title": "Leaked soundtrack declared genuine; Leonida radio now has Travis Scott and no alibi",
       "source": "Complex",
@@ -22,6 +44,17 @@
       "orig": "'Grand Theft Auto VI' Leaked Soundtrack Confirmed Real, Feat. Travis Scott, Playboi Carti, and Mire",
       "news": 6,
       "humor": 6
+    },
+    {
+      "id": "wendys-gta-tease",
+      "title": "Wendy's teases a Leonida collab; the drive-thru speaker braces for chaos",
+      "source": "Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUk2SktFaWFFSThTeUMyWVpCUDdxTC1uUml2WF9waFpMQTd5RVZHNzJ5WHZ3ZlVCZG9OX1c4NHFNdWJMUlBuaG1TeVBSRXh1RU56bXNvRTNmY0xUNGpTQ2wtcXZMd0lSVGFIZE5zM3ZEOXZVcTE1OEx2YnZkUFdHbnB0aFh6SjBhWnVaOGVqM3BuTml6U0kxLWdR?oc=5",
+      "published": "2026-11-15T00:30:00Z",
+      "added": "2026-11-15T13:43:29Z",
+      "orig": "Wendy's Teases Exciting Collaboration with GTA 6 Ahead of Game Release",
+      "news": 4,
+      "humor": 7
     },
     {
       "id": "madden-212gb",
@@ -77,6 +110,17 @@
       "orig": "Kalshi is hiring a 'GTA VI' researcher to livestream their gameplay. The job pays six figures.",
       "news": 4,
       "humor": 7
+    },
+    {
+      "id": "ai-cloning-take-two",
+      "title": "Take-Two chief: AI cloning no financial threat to Leonida; clones decline to comment",
+      "source": "Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xYXhFb1FIbXhNOEdsN0x6UEpYeTdqbk9ZaUExU2ZWR0YwV1ozUTZNVW00SlNtaXNZM0tieDNLc2dYV3E5UHVHWFJEei1ubTZidlJSdDdwWnZVV0xHcWxXdkhKb3RZSGpRMFduT0ktRnBVRTBpdlNrSQ?oc=5",
+      "published": "2026-11-14T18:22:05Z",
+      "added": "2026-11-15T13:43:29Z",
+      "orig": "GTA 6 AI Cloning Is Not a Financial Threat, Says Take-Two CEO",
+      "news": 5,
+      "humor": 6
     },
     {
       "id": "guardian-nelson-demo",
@@ -398,17 +442,6 @@
       "humor": 4
     },
     {
-      "id": "selfridges-collectors-map-places",
-      "title": "Manchester shop display spoils Leonida geography homework: new place names spotted",
-      "source": "Insider Gaming",
-      "link": "https://insider-gaming.com/new-gta-6-map-locations-spotted-through-collectors-box-store-display/",
-      "published": "2026-11-12T12:42:00Z",
-      "added": "2026-11-12T13:44:05Z",
-      "orig": "New GTA 6 Map Locations Spotted Through Collector's Box Store Display",
-      "news": 5,
-      "humor": 5
-    },
-    {
       "id": "rockstar-union-vote",
       "title": "Rockstar staff vote on union recognition as Leonida launch looms",
       "source": "The Register",
@@ -420,17 +453,6 @@
       "humor": 4
     },
     {
-      "id": "wallen-del-rey-radio",
-      "title": "Wallen and Del Rey preview their Leonida radio station, crime declared 'poetic'",
-      "source": "Holler Country",
-      "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxONTFJbU9TMC0zN0ItYm1uanB2NkY5RERrYlRrZFI1VGxRSzVKSktWdWNTUy1pQUpnaWdXWUI5YTJoX2lBQXk2em9Od2NabUlDTTRnVlA0UklJMUNhLUNMa0pPRDVSUUd1VHlyXzVhU1lnRmhsZUhUVDNwWEtpOGZFY2FXMm0zOU5DUkxEYkRwZGptNV9nbWVTRDhsR1N5MmUtYlJfVl9xWWFQazNQcGV3Ukw0MGdWOXpQZGNUbk14VU9IdjJqOUFRZ0VMTml1ZURxekxRRWpxUHdxbFdpeW5WMkQ5TW1yZUtV?oc=5",
-      "published": "2026-11-12T10:27:00Z",
-      "added": "2026-11-12T11:44:09Z",
-      "orig": "“Nothing’s More Poetic Than Singing About Crime”: Hear a Preview of Morgan Wallen and Lana Del Rey’s GTA VI Radio Station",
-      "news": 5,
-      "humor": 5
-    },
-    {
       "id": "take-two-q2-miss",
       "title": "Take-Two misses its own Q2 forecast, leaves Leonida to carry the year",
       "source": "The Escapist",
@@ -439,17 +461,6 @@
       "added": "2026-11-12T10:44:17Z",
       "orig": "Take-Two misses its own Q2 forecast and leaves GTA 6 to carry the year",
       "news": 6,
-      "humor": 5
-    },
-    {
-      "id": "korea-rating-close-call",
-      "title": "Korean rating board reportedly came close to turning Leonida away at the border",
-      "source": "Inven Global",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPeW8zRVVFZ2JicXlmR29tV2pLX1ZVcXlnVDlNZGlJdFhoTXNCMXR3VHpIS2RIalc3WWV0R1JKR0JBaDUxZnM5d2c3ME9rZHFLcExpbVc5OURiaFU0X21zdVlseXJyZWE0bWc2a2JORWVUNHpGeWNZa1RFYnQzZXJ5QlRmZWx2eGNEcGVIenlPV3RGYmtDcENNT2ZBQWlyU0NzMUJWblZ4M2MwQkpiSlhLOGx3?oc=5",
-      "published": "2026-11-12T07:28:17Z",
-      "added": "2026-11-12T07:43:16Z",
-      "orig": "'GTA 6' Came Close to Being Denied Rating Classification in South Korea",
-      "news": 5,
       "humor": 5
     },
     {
@@ -538,17 +549,6 @@
       "added": "2026-11-11T18:43:33Z",
       "orig": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records",
       "news": 6,
-      "humor": 5
-    },
-    {
-      "id": "212gb-nodisc",
-      "title": "Reports claim 212 GB install, no disc, worldwide unlock on November 19",
-      "source": "Latin Times",
-      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNWmptWkhWdzhEcFhJd3M4eC1wX3AxOVV2NmtvVEZld1lHdnIyZ200ZDBmQ1Z1RC1nMWM3V0pXWHFqY1BOTzBDYUwyQXVTQVpHN3FOd3FjVG9pR0VRWXpDQlBpNHVaQUw4QlV3bFhaRWgxSjV0MERpWEVDU1dIYXFvdVRzOTY2TVM0UTVKTg?oc=5",
-      "published": "2026-11-11T17:34:48Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA VI will reportedly require up to 212 GB, ship without a disc, and unlock worldwide on November 19, 2026",
-      "news": 5,
       "humor": 5
     },
     {
