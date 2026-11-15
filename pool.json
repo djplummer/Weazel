@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-15T20:43:16Z",
+  "updatedAt": "2026-11-15T21:43:24Z",
   "items": [
+    {
+      "id": "svg-zelnick-faster-gta",
+      "title": "Take-Two chief hints at faster GTA cycles; Leonida isn't even open yet",
+      "source": "SVG",
+      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd01vNzhncnRZaE05S0UyWWo1dzgybzZUdkRYX1JoNkxubHlLZmFqX3B3Vk85WDZ2OUZ0QmNfVk9fUXVmUEpWeG8tTjI1ZDV4YXR6N0UyWW85WnJrSzN0QTR1SUVHQ2VoNGJqRnM5ZDRwZlI3SXJUYUd6ZUl0bzY4YUEwU3NnMllmZVpPc01JVQ?oc=5",
+      "published": "2026-11-15T21:00:00Z",
+      "added": "2026-11-15T21:43:24Z",
+      "orig": "GTA 6 Publisher Take-Two Makes Statement About GTA 7 And The Franchise's Future",
+      "news": 5,
+      "humor": 6
+    },
     {
       "id": "jason-lucia-small-time",
       "title": "Jason and Lucia start small-time and work up; even Leonida makes you earn the heist",
@@ -20,6 +31,17 @@
       "published": "2026-11-15T18:15:05Z",
       "added": "2026-11-15T18:43:55Z",
       "orig": "Analysts Boost Take-Two Interactive Stock Forecasts Ahead of Grand Theft Auto VI Debut",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "box-codes-stolen",
+      "title": "GTA VI codes reportedly lifted from sealed boxes; crime finds a way",
+      "source": "GAMINGbible",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBPakJwWThIVjN3d2pPU0ZSRS1MZXpCdURDMy03VmJ6eVRIZWFYbEpEWjVSSldlRjlHOTVycmV3blYweE9jZXhzYUZ4S1dOLWZiRWdVeUtlVjZFU2RNRUNDUHFCMjZ2dDg4SDMxZEdCcW1WUHZMbWc?oc=5",
+      "published": "2026-11-15T18:00:03Z",
+      "added": "2026-11-15T21:43:24Z",
+      "orig": "GTA 6 codes reportedly being stolen from boxed copies without being opened",
       "news": 5,
       "humor": 6
     },
@@ -330,28 +352,6 @@
       "orig": "PSA: GTA 6 Does Not Have Online Multiplayer at Launch",
       "news": 7,
       "humor": 6
-    },
-    {
-      "id": "decix-record-traffic",
-      "title": "Europe's biggest internet exchange logs record traffic as Leonida pre-downloads pile in",
-      "source": "Telecompaper",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSDM1VUFKUVJrSEswWkNmeGZIbjhqSlppRFZRUzVYMHJxTkZObXVHVnFLeDFnTk1paFZfNi1jdTU5eGI4bXpCVWNKSC1DVTVrYVN2NHozR1pCWmdhT3hjNDJLWVhxVVJfV0RGZ044bV96TDdNNnlVNU5oZHpOUDkwNzBudTRDSUNfQVZxTXRaZTc3MTNhMlFMcG9EOE12LWpsTGMxUndfdw?oc=5",
-      "published": "2026-11-13T15:59:31Z",
-      "added": "2026-11-13T17:45:47Z",
-      "orig": "DE-CIX sees record internet traffic with GTA VI pre-downloads",
-      "news": 5,
-      "humor": 5
-    },
-    {
-      "id": "uk-slow-internet-delays",
-      "title": "Thousands of UK gamers face a late arrival in Leonida; the broadband is the bottleneck",
-      "source": "IGN",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOTFVqUHZ0MXRfWEw1Q1dBMUs0T1dlM2gtRzBJbHNJdzBLVkZJQnpGaUg5MS0ydTl1LUVYUTU4QW9SVjJVcngxajNYWmtLbU04WGZyNlk0U1RwVWhlQmF4QUJZOEVWVENCZmhySFlNRVNlYWV1Y2RaVVF1aEhHeGkxYWYzRDluc2ZhZ2c?oc=5",
-      "published": "2026-11-13T15:12:38Z",
-      "added": "2026-11-13T17:45:47Z",
-      "orig": "Thousands of UK Gamers Face Delays to Play GTA 6 Because of Poor Internet Speeds",
-      "news": 5,
-      "humor": 5
     },
     {
       "id": "macca-friends-teaser",
