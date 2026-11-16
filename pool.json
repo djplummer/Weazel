@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-16T02:43:45Z",
+  "updatedAt": "2026-11-16T04:44:05Z",
   "items": [
     {
       "id": "nbc-biggest-launch",
@@ -88,6 +88,17 @@
       "orig": "GTA 6 physical copies have no discs, and some apparently have no download codes either",
       "news": 6,
       "humor": 7
+    },
+    {
+      "id": "rockstar-empathy",
+      "title": "Rockstar: Leonida built to encourage empathy, but chaos still pays no fine",
+      "source": "Notebookcheck",
+      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV0txeGZuV1JzSDJ0YWlocGJzZWxRZE1KaHBqVFgwWlR0NnkwNVYzTnlheVM1Y1dzaEZ3RXc1Q1dtYU1kWk42WUlvN2Zwdk0wZ1JPbUZ3aXM2VXNvUTBCSkJfZHpDVGxHMG51RHVPTmR3aU13V1hPRndsalkxRm5nemhrN29hWmVLbUotM3g3aW8tSjd0cld6RlhPelA1R0lpRjJCQ1pUM1ZpOXdHSWVPTDZwV2RFdlEtWHRYZ3FhaGN2cUVWWnJ3ZGY2QjdOR3BFTUlZZnBCeENEV0QwYmpFaHNzQUJBNGdHZVlBMFVjZ2t2cWlvX0x5Zg?oc=5",
+      "published": "2026-11-15T17:04:00Z",
+      "added": "2026-11-16T04:44:05Z",
+      "orig": "GTA VI is the first Grand Theft Auto built to encourage empathy, says Rockstar, but it won't punish chaotic players either",
+      "news": 5,
+      "humor": 6
     },
     {
       "id": "story-50-hours-100-missions",
@@ -286,17 +297,6 @@
       "orig": "GTA 6 release could trigger $1B U.S. productivity loss",
       "news": 5,
       "humor": 6
-    },
-    {
-      "id": "original-creators-not-played",
-      "title": "Even Grand Theft Auto's original creators haven't played Leonida; Weazel feels better",
-      "source": "BBC",
-      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0xa25uZ25Ya2hyRWFTd0dZRHItbGJmTjdKSld5VDNmQnRhd0Y2ZWNTYUN3bVZOZmxCSFpIX2loa25yRWxrTEVybnh1ZGVDbklmdVVBSy1CZzRJUk0?oc=5",
-      "published": "2026-11-14T00:37:01Z",
-      "added": "2026-11-16T01:43:30Z",
-      "orig": "Even Grand Theft Auto's original creators haven't been able to play GTA 6",
-      "news": 4,
-      "humor": 7
     },
     {
       "id": "some-intl-physical-copies-redeem-unopened",
