@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-15T23:43:32Z",
+  "updatedAt": "2026-11-16T00:43:50Z",
   "items": [
+    {
+      "id": "base-ps5-below-30",
+      "title": "Base PS5 reportedly dips under 30 fps in Leonida; the heist crew calls it 'cinematic'",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY0ZMeXhBYm5TRWE2Rm5nOXJCcURRN3hGY2JTUk15VVh0bHp6NFdtMVVzNnd5WVZWNld2U29uY0NXQTFkei1MZDQ5cnRIVE5vYmNDWDhaeUlYeHJjUTJvVHBXWHVKcU42bWtqaWRrZjJ5TVVQaVloaUJIWjNQa2VpeEFtSG9xTG9VRDJILU56TVotbl9SYlhyQldreF9TZjR5MEJMaHo3UGRoUXV3OExZOTMzRUtyUQ?oc=5",
+      "published": "2026-11-15T23:45:12Z",
+      "added": "2026-11-16T00:43:50Z",
+      "orig": "The base PlayStation 5 will experience drops below 30 FPS in Grand Theft Auto VI.",
+      "news": 5,
+      "humor": 7
+    },
     {
       "id": "gta-plus-preorder-month",
       "title": "Leonida pre-orders include a month of GTA+; GTA V gets a lifeline",
@@ -101,6 +112,17 @@
       "humor": 6
     },
     {
+      "id": "pocketpair-vice-city-trip",
+      "title": "Palworld studio books staff a five-day 'business trip' to Vice City",
+      "source": "TweakTown",
+      "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQMjdCNXhkOGthTHBmNzFjREtZcWFaSHZGUHJlcmxiQzB1NzZoSVd3T0w0Sk1lWUF1VnZBRlZQbnJvaXZHVGUwbmx6TFZRY254cU9Dek5vb1UzSlRIRU1VS084Nmw0VlhLaEFMQk1CY1BzdkxPUTd0RGZGZnU0bUk2NWFlV0JZdEMzenZkeDlHS1NxRnRxQ21NbTBESEl0MXdoUlFiTzljUkJhYkxzTG91d1V5MEVJX2NEV21GUkpvNkVSc09fWVpyVVlnQ0Z5NUtWZzlrNzhqd2xhTm5rLW9VdVlWako?oc=5",
+      "published": "2026-11-15T13:15:11Z",
+      "added": "2026-11-16T00:43:50Z",
+      "orig": "Palworld developer Pocketpair gives employees a five-day 'business trip' to Vice City for GTA 6's launch",
+      "news": 4,
+      "humor": 7
+    },
+    {
       "id": "ms-series-s-panic",
       "title": "Microsoft executives reportedly panicked over Series S performance as Leonida nears",
       "source": "GameGPU",
@@ -145,17 +167,6 @@
       "humor": 6
     },
     {
-      "id": "wendys-gta-tease",
-      "title": "Wendy's teases a Leonida collab; the drive-thru speaker braces for chaos",
-      "source": "Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPbUk2SktFaWFFSThTeUMyWVpCUDdxTC1uUml2WF9waFpMQTd5RVZHNzJ5WHZ3ZlVCZG9OX1c4NHFNdWJMUlBuaG1TeVBSRXh1RU56bXNvRTNmY0xUNGpTQ2wtcXZMd0lSVGFIZE5zM3ZEOXZVcTE1OEx2YnZkUFdHbnB0aFh6SjBhWnVaOGVqM3BuTml6U0kxLWdR?oc=5",
-      "published": "2026-11-15T00:30:00Z",
-      "added": "2026-11-15T13:43:29Z",
-      "orig": "Wendy's Teases Exciting Collaboration with GTA 6 Ahead of Game Release",
-      "news": 4,
-      "humor": 7
-    },
-    {
       "id": "madden-212gb",
       "title": "Madden begs players not to delete it as Leonida claims 212 GB of console",
       "source": "Push Square",
@@ -198,17 +209,6 @@
       "orig": "Lana Del Rey, Dua Lipa, Zara Larsson Contribute New Music to ‘GTA VI: The Album’",
       "news": 7,
       "humor": 6
-    },
-    {
-      "id": "kalshi-gta-researcher",
-      "title": "Betting site hires six-figure Leonida researcher; the job is to livestream the game",
-      "source": "Business Insider",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQZXVQYU1pSnFORTBHRnBPQmw3RXRRZ2ktZFJxSWd1LWtNUVRtWk9DeE9VXzZVcEM1emk2WXVBS1N5aXJmS2RtV0gtQmtqVWVDSXlzRzltVEpDazVmUTdpRjdiZmpKajhnMEVWSnR1RHk3Ylk5OWttNGJkX2hja2FiMjc1ZVp0OTkycWg4ZVY2Zw?oc=5",
-      "published": "2026-11-14T20:13:00Z",
-      "added": "2026-11-14T20:43:32Z",
-      "orig": "Kalshi is hiring a 'GTA VI' researcher to livestream their gameplay. The job pays six figures.",
-      "news": 4,
-      "humor": 7
     },
     {
       "id": "ai-cloning-take-two",
