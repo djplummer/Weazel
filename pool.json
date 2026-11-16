@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-16T09:43:55Z",
+  "updatedAt": "2026-11-16T10:43:29Z",
   "items": [
+    {
+      "id": "computer-weekly-traffic-high",
+      "title": "Internet exchange logs all-time traffic high as GTA VI downloads begin, web sweats",
+      "source": "Computer Weekly",
+      "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMTlzc0ZveGJtQ0ZkSHpfcWdBWUdiU1Rlb2JRbm1PaWNFSDB6cC1LcUZIcjM1bW9vSk9XbnluZkxTZVZwRnBHb2ZzSnh5RDJ1RlVOVXFyRWcyZExiTUI0X01wUnJWQVRHRmozTXlSVVpOM3RSdHAwTGhSdnczM0p3dUo3UkdkRFk1bXBsQlZMWjl3Y2dyQkFlVVBsbEdqMjluN2dTVXZKUm1LNTk0dzMzRUJrOEhLSEhydXdkdEU3eW41czlWMUhKV2xUaVBXckRyZXVZ?oc=5",
+      "published": "2026-11-16T10:03:51Z",
+      "added": "2026-11-16T10:43:29Z",
+      "orig": "Internet exchange sees all-time network traffic high as ‘Grand Theft Auto VI’ downloads begin",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "ps5-pro-120hz-files",
       "title": "120Hz mode reportedly spotted in PS5 Pro files; Leonida eyes a faster getaway",
@@ -625,17 +636,6 @@
       "published": "2026-11-11T13:00:27Z",
       "added": "2026-11-11T18:43:33Z",
       "orig": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "review-scores",
-      "title": "Possible first review scores surface, Weazel neither confirms nor denies",
-      "source": "ScreenRant",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBjMDlMRDJ3bFVOSnR1aVJhYTl6MDdYc2hqdDlTVWFRb1MzWlhrMi1QNHZ2aFptd1ZNSncyT2YtV0NSXzdyUGFMWURFQV9VYkhBcmIwZ29LSzY5Sy1nSVNnckpYSGpiTGFoOWNCYWsySmhFdHk0cU5uRg?oc=5",
-      "published": "2026-11-11T10:38:29Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6 First Review Scores Appear To Have Surfaced",
       "news": 5,
       "humor": 6
     },
