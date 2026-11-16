@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-16T14:43:40Z",
+  "updatedAt": "2026-11-16T15:44:07Z",
   "items": [
+    {
+      "id": "festival-lineup",
+      "title": "GTA VI Festival lineup lands: Travis Scott, Cardi B and Justice on the bill",
+      "source": "RouteNote",
+      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0YxMmdUalJ6UzlUOTNYTXlFbmJZQk1CT0FJOGhvRVJhY3I3c3JZYllIVEIxUUVPMmRHQlBzTGRnNzNPYTdRSFBzYVg2MHM5Sk1YTG5RdHhyTjVobVUzVzRKSGdWSzhWUEVUTUV2bFlaeVFraHVrSUFQZjJ3b3JyMVVlOHpuMFgzaTJ6Z05KT2NhTFYzaWdQNDB3?oc=5",
+      "published": "2026-11-16T14:54:00Z",
+      "added": "2026-11-16T15:44:07Z",
+      "orig": "GTA VI Festival 2026 Lineup: Travis Scott, Cardi B, Justice and More",
+      "news": 6,
+      "humor": 5
+    },
+    {
+      "id": "motor1-118b",
+      "title": "GTA 6 reportedly banks $1.18 billion before a single player sets foot in Leonida",
+      "source": "Motor1.com",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQbGdtNVp0RVA4Mkt6azBCc3l0MXhUbXRTVG9SZVFBUFNuaDJCYTdIQkpPUWJlRG9Ibk1CdGowRWtsOEROY1VuQjQxX0FkUUlLTng3YllPUXQ3VExWZllhSVEzQVVKSmc4UVN2cWdxT1NOekpPclFfcHVOcTd1cGtEdU5adlk?oc=5",
+      "published": "2026-11-16T14:48:00Z",
+      "added": "2026-11-16T15:44:07Z",
+      "orig": "GTA 6 Has Already Made $1.18 Billion. It's Not Even Out Yet",
+      "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "kurtaj-pleads-guilty",
+      "title": "Leaker out of the building: Rockstar hacker pleads guilty over 2022 breach",
+      "source": "Insider Gaming",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPOGlrVVpKRDl1dFdMN2VCdUcybkt4VTg1emxweWZoeE5Kb1BZQURuZmgyS082b0xmdm9CNk9uRTN2Q3VsbDhQTmxYRWtWazQzZWRSYk14eWdMSHlORUJHR1FHTkJpSms3eDV0eFlaLUM2TFNzTXI3QVktYWV1WVNjdXRmMGM?oc=5",
+      "published": "2026-11-16T14:42:22Z",
+      "added": "2026-11-16T15:44:07Z",
+      "orig": "Original GTA 6 Hacker Pleads Guilty to 2022 Breach",
+      "news": 7,
+      "humor": 6
+    },
     {
       "id": "fake-downloads-malware",
       "title": "Fake GTA VI downloads on the loose, hunting passwords and crypto wallets",
@@ -10,6 +43,17 @@
       "added": "2026-11-16T14:43:40Z",
       "orig": "Fake GTA 6 downloads spread malware targeting passwords and crypto wallets",
       "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "china-streaming-rules",
+      "title": "China's streaming rules could strip Leonida of its signature features, report says",
+      "source": "Kursiv Media",
+      "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLXA2V25CT2FISnZpc2hyQ1d6N2FLMTU4Z2x0X0ZmNFl4S2JFVklwSTFBVGk4aDlzaklsUGxJU0xIR3hnOUg3c2xWTmF6cGZFeU9tamswRUlzalZFb016QzJaV0R5bkl4a2lCWVJoMkh5QjBGb2JqMVFrMk9peURxZXZWYnA4UzNMX3BudTdmY2ZoYkdpYzFHQVZDelVtTnBZajE1WlVhNXZfNWNwV2ZjYUYzeklLRFFSaXp3OA?oc=5",
+      "published": "2026-11-16T13:46:59Z",
+      "added": "2026-11-16T15:44:07Z",
+      "orig": "China’s ‘GTA 6’ streaming rules could strip game of its signature features",
+      "news": 5,
       "humor": 6
     },
     {
@@ -79,28 +123,6 @@
       "humor": 5
     },
     {
-      "id": "ps5-pro-120hz-files",
-      "title": "120Hz mode reportedly spotted in PS5 Pro files; Leonida eyes a faster getaway",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWE1fa0UwS2hHN2FLT2o1bjBrX21XMC1KY2tYb0lTQ2FRcTFyUEl2c1lsenZfVUxZdDhzdThmbFE1U2lYUUZuQXVfUEZuOU5MSVNzMUVWNGYtX1dGb3htMEZYeWpJUUQxc1p6NUlTcXJGQ044MzYxZmRmMHhhMlNXQUl2amZvV0hMUDhkV3l1ckZPSm4yYUxEVVkyMF82MDAwclFudHl1UnZoa1k?oc=5",
-      "published": "2026-11-16T09:28:39.000Z",
-      "added": "2026-11-16T09:43:55Z",
-      "orig": "A mention of a 120Hz mode has been found in the files of the PS5 Pro version of GTA 6.",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "gta6-flashlight-trick-failed",
-      "title": "Flashlight trick fails on a US copy in testing; no stolen codes confirmed",
-      "source": "Nacionale",
-      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOMXczRjZWYnNpU21zblZCY1lYU09BYTEyMURhdjlUbVZBTlc3VHZyNnVqckhWSWxKRTRzOEFLeGF4LTJfSnBVWHpiazdNWlV4a1BwRFdwcGJrd050OEJRZG16YjRmdWdibTdxN3VwOFNkSnV5Z2dxalhTOVVOcml0U2dOWmwxelVJTGN6MkVPdWE0NThBYUpuc1NXTFZfVkE4ZmRISjdlWFNncGxxemt5dmkxUQ?oc=5",
-      "published": "2026-11-16T04:27:37Z",
-      "added": "2026-11-16T05:43:15Z",
-      "orig": "GTA 6 box code 'flashlight trick' failed on a US copy in testing, and no stolen codes have been confirmed",
-      "news": 5,
-      "humor": 6
-    },
-    {
       "id": "kfc-fake-funeral-alibi",
       "title": "KFC stages fake funeral so Leonida fans have an alibi; HR not invited",
       "source": "TweakTown",
@@ -112,17 +134,6 @@
       "added": "2026-11-16T07:43:39Z"
     },
     {
-      "id": "nbc-biggest-launch",
-      "title": "NBC says Leonida could be the biggest entertainment launch ever; sources: obviously",
-      "source": "NBC News",
-      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkczbk5VZFF0VmxxYnNJMGhjdDJwbmVFdXc3Q0lfREFOM0lBTVhCbUVWUjdDSFpUVE1SQjB3OGdZeFFFWXBzb1JRbVA0bmd0OTdyd1lmanlnclNjVXhTR29wNmliMlZiVTM2em9jRFpHdDFIT0Q2VUtDb3BiU2dkOVVuLWNJU3U4VC0ybGlacHVTSWFPY3NyOE9kNnlDM3BhUHpXckVuOWxnLVEzUEZBTWpzUERfZkFTU0hJ?oc=5",
-      "published": "2026-11-15T23:57:57Z",
-      "added": "2026-11-16T02:43:45Z",
-      "orig": "‘Grand Theft Auto VI’ could be biggest entertainment launch ever",
-      "news": 5,
-      "humor": 6
-    },
-    {
       "id": "base-ps5-below-30",
       "title": "Base PS5 reportedly dips under 30 fps in Leonida; the heist crew calls it 'cinematic'",
       "source": "GameGPU",
@@ -132,17 +143,6 @@
       "orig": "The base PlayStation 5 will experience drops below 30 FPS in Grand Theft Auto VI.",
       "news": 5,
       "humor": 7
-    },
-    {
-      "id": "gta-plus-preorder-month",
-      "title": "Leonida pre-orders include a month of GTA+; GTA V gets a lifeline",
-      "source": "WellPlayed",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQRkp0bjFZNDRFZEFKN2YzeUFnSk1PaGY2Sm1kVnNiTEh1U3d0WnlkbDI5NklQVVhLNW1NbkVueXNUMjJBV0RvTXVKWmhtUW83cy13RXpWeHdhWDZ5dnlFc0JqbmUteWI4TkpyRTlfV2w4Q01mX0NTdUkyVHkybUc5NktubVV0QzZ6UzJIcll1c1F4cjRYSlBxbml5RQ?oc=5",
-      "published": "2026-11-15T21:55:11Z",
-      "added": "2026-11-15T23:43:32Z",
-      "orig": "GTA 6 pre-orders come with a month of GTA+, keeping GTA 5 in play",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "svg-zelnick-faster-gta",
