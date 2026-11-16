@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-16T13:44:32Z",
+  "updatedAt": "2026-11-16T14:43:40Z",
   "items": [
+    {
+      "id": "fake-downloads-malware",
+      "title": "Fake GTA VI downloads on the loose, hunting passwords and crypto wallets",
+      "source": "Digital Watch Observatory",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBwd3FBU2lEOUtEUjByUE9kOHN3X0tTalpfcGRxMV8yU21uUk1wVF9vNVBoQi02anN1N1FBRWZYbFJJaGwxRldOVHhQOGZINkJlUGJOM19JZk5hUmdicTBTWnIxdFc1cWp2M2M5RlNuUTNkTUtEM2dpNg?oc=5",
+      "published": "2026-11-16T14:27:01Z",
+      "added": "2026-11-16T14:43:40Z",
+      "orig": "Fake GTA 6 downloads spread malware targeting passwords and crypto wallets",
+      "news": 6,
+      "humor": 6
+    },
     {
       "id": "eurogamer-2b-weekend",
       "title": "Analyst: Leonida could clear $2 billion in opening weekend; tills warming up",
@@ -484,17 +495,6 @@
       "orig": "Rockstar says GTA 6 PS5 Pro build ran at 60 fps with major performance compromises",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "burger-shot-florida",
-      "title": "Burger Shot heads for real Florida menus; wanted level not required",
-      "source": "IGN",
-      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOUlp2Ul9mRkdMY1BWRlhxWDJja3pLbTBlUDNnRXZ4UEVwZ0FVY2VWN3VNZmZQc29uVXpIUFJqYzFKLTgtLUR2c09kVURSNnBZZVM3TXVucWVYc0ViOGVESVpoaXM0d2YxZnlUNUp2R2VHZ1V3SUhrcEFrSW9zenJ4eXNpR1V5MzJoN0xnR1RiRFJiRHpIb241MXBvdnNYN3FKUHZXSlpiMFBabVVFbEFWTXhqLXdUWXdZRmJIXzZLekg?oc=5",
-      "published": "2026-11-13T00:44:00Z",
-      "added": "2026-11-13T03:43:47Z",
-      "orig": "GTA 6's Burger Shot Fast Food Chain Is Coming to Life Across Florida With a Menu Inspired by the Game",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "yt-24h-livestream",
