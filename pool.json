@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-16T01:43:30Z",
+  "updatedAt": "2026-11-16T02:43:45Z",
   "items": [
+    {
+      "id": "nbc-biggest-launch",
+      "title": "NBC says Leonida could be the biggest entertainment launch ever; sources: obviously",
+      "source": "NBC News",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZkczbk5VZFF0VmxxYnNJMGhjdDJwbmVFdXc3Q0lfREFOM0lBTVhCbUVWUjdDSFpUVE1SQjB3OGdZeFFFWXBzb1JRbVA0bmd0OTdyd1lmanlnclNjVXhTR29wNmliMlZiVTM2em9jRFpHdDFIT0Q2VUtDb3BiU2dkOVVuLWNJU3U4VC0ybGlacHVTSWFPY3NyOE9kNnlDM3BhUHpXckVuOWxnLVEzUEZBTWpzUERfZkFTU0hJ?oc=5",
+      "published": "2026-11-15T23:57:57Z",
+      "added": "2026-11-16T02:43:45Z",
+      "orig": "‘Grand Theft Auto VI’ could be biggest entertainment launch ever",
+      "news": 5,
+      "humor": 6
+    },
     {
       "id": "base-ps5-below-30",
       "title": "Base PS5 reportedly dips under 30 fps in Leonida; the heist crew calls it 'cinematic'",
@@ -242,17 +253,6 @@
       "orig": "GTA 6 Has Officially Gone Gold",
       "news": 7,
       "humor": 6
-    },
-    {
-      "id": "rockstar-empathy-franchise-first",
-      "title": "Rockstar says Leonida will 'encourage' empathy, a franchise first; heist crew baffled",
-      "source": "Insider Gaming",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBaZk9UaDBFdlBiWWZjalRZdVJFYV9GZ1RoaWk2N0trZFNLVnd2c0xuWTlSTUtzN3NwVFU5R1lTb2FlMnZPMFRGWS0zNzBFcG9DUzJDWU1QbnNxM19wbmM1clF2MHl2TkFhR1Ewa0Jtb0pTMEV6UllNag?oc=5",
-      "published": "2026-11-14T08:51:35Z",
-      "added": "2026-11-14T15:43:16Z",
-      "orig": "GTA 6 Will 'Encourage' Empathy For The First Time in Franchise History",
-      "news": 4,
-      "humor": 7
     },
     {
       "id": "gta6-missing-box-codes",
