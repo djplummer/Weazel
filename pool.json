@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-16T10:43:29Z",
+  "updatedAt": "2026-11-16T11:44:00Z",
   "items": [
+    {
+      "id": "second-day-one-patch",
+      "title": "Second day-one patch lands for GTA VI on PS5 and Xbox; the first one needed backup",
+      "source": "VICE",
+      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1BdlVuWUhFMEdrRDlpMU9ibnZJaUI5cExMQk9LYlNQQmZfYVdmUzhlcjBYQTQ0ZzE2VDJmMmJKWmZhVFYwTE9hWjY1NjNLZ25iVTBub1NTSkZRd0N1VFU2QmdZZkJ3b3VrZHBlZWZDLXNWUWFPaWR3?oc=5",
+      "published": "2026-11-16T11:08:42Z",
+      "added": "2026-11-16T11:44:00Z",
+      "orig": "GTA 6 Gets a Second Day One Patch on PS5 and Xbox Ahead of Launch",
+      "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "rockstar-free-code-giveaway",
+      "title": "Rockstar announces free GTA VI code giveaway; the only heist with a legal getaway",
+      "source": "ScreenRant",
+      "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE03bnVqWDd1blloSjJXREFiSjY5Rk1BdEZLQjB0bVRFb3BsU3RYTF8wajlNVDA5cDczTjNzY0lzT1YtaGE2WUFhTEV6Q2JLZTNTZEFRbjdqUmtRNTQ3bkZ1andkRjNxaWp6Z1o5ckVfRXg?oc=5",
+      "published": "2026-11-16T10:33:41Z",
+      "added": "2026-11-16T11:44:00Z",
+      "orig": "GTA 6 Free Code Giveaway Officially Announced By Rockstar Games",
+      "news": 7,
+      "humor": 6
+    },
     {
       "id": "computer-weekly-traffic-high",
       "title": "Internet exchange logs all-time traffic high as GTA VI downloads begin, web sweats",
@@ -519,17 +541,6 @@
       "humor": 6
     },
     {
-      "id": "japan-censorship",
-      "title": "Smaller Japanese file size sparks talk of regional cuts; Rockstar silent",
-      "source": "Mezha.net",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBSLUU4WDUwNGpGNUVFOE1lOVRNbkYtb29QSjUtU2d2b0NRdHNVNU02RlZYQ2tXV042ZS1QdHZtWldNS3lMcE1qRHRZeGxfUm8zU2dUMXhaSjhBbUZyZkxQMEZSRC1RSEJNOGFNMWtJMUROS1dDamw2a3FQWUE0dE0?oc=5",
-      "published": "2026-11-11T18:26:44Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6’s smaller Japanese file size and rating fuel speculation about content cuts",
-      "news": 5,
-      "humor": 6
-    },
-    {
       "id": "ps5-100m",
       "title": "PS5 clears 100 million shipments just as Leonida prepares to open",
       "source": "Yahoo Finance",
@@ -627,17 +638,6 @@
       "orig": "GTA 6's 30 FPS Console Limit Officially Confirmed Alongside PS5 Pro Features",
       "news": 9,
       "humor": 4
-    },
-    {
-      "id": "12m-off-work",
-      "title": "12.5 million people reportedly skipping work or school, 'local man' feels seen",
-      "source": "PCMag",
-      "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBtZllhRlh4UVVkTmpHYkxjMlJKLUF5aXlBbWFmMFY0cHd4ZWZlUnN6d1ZreVpBX3B6bjN3VVBWbmZIOWlTRjBsY0JhWXJSYnhkVEUtdUNUQkE0b3RYQ2ZuRg?oc=5",
-      "published": "2026-11-11T13:00:27Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "Taking Off Work or Skipping School to Play GTA 6? So Are 12.5 Million Other People",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "xbox-one-cloud",
