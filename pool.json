@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-16T20:44:01Z",
+  "updatedAt": "2026-11-16T23:43:31Z",
   "items": [
+    {
+      "id": "gta6-dynamic-weather-screens",
+      "title": "Leonida forecast: unpredictable microclimates, with new screenshots to prove it",
+      "source": "Push Square",
+      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc2NaWGFVQVAwZ0poWTZ6YUV1aUp4SVM5cVBvbEhteS1LNG9zUFJJQlE3Y2hGUmNFX0hBby1hS3JCWFg5XzFqS24xd09ZS1pPdldzb2w3MzRVanJVWUJyWFVqcE5NR19aX2ZCeXJfVkJrV2VLZUxuejBaMk85c0p6U0d2dW1VbzVDTW5KRkZ3OW9HSzFnRkd0cWxzNXAtV3FUWlBKX2M2Wld1OWd0bHpFSUw0S2xaRWxLdVVsN19Dc2dpVGhkTzg5dUZR?oc=5",
+      "published": "2026-11-16T23:14:33Z",
+      "added": "2026-11-16T23:43:31Z",
+      "orig": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
+      "news": 9,
+      "humor": 7
+    },
     {
       "id": "discord-vice-city-theme",
       "title": "Discord goes Vice City: free neon theme, icon and name style until Dec. 13",
@@ -10,6 +21,17 @@
       "added": "2026-11-16T20:44:01Z",
       "orig": "Discord adds a Vice City theme, app icon and name style ahead of Grand Theft Auto VI",
       "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "nba-2k27-vice-city",
+      "title": "Vice City moves into NBA 2K27; Leonida's tourism board expands to hardwood",
+      "source": "Polygon",
+      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jSC1DNVB5cUZuc0xYa3JtckdHZHpZSXh1VzktVjRoMTNCemdJRHZNTG8yazh1blZqNlV0QkZpOFgwMUZ3Y1NYcC1RVFo1TERvUHFWb2dwWl94QmdRbmlaY2FPeG03REtjenIwenZBU0k5ZlFMWTJfcg?oc=5",
+      "published": "2026-11-16T17:28:11Z",
+      "added": "2026-11-16T23:43:31Z",
+      "orig": "GTA 6 Comes to NBA 2K27 With Complete Vice City Makeover",
+      "news": 5,
       "humor": 6
     },
     {
@@ -398,17 +420,6 @@
       "humor": 6
     },
     {
-      "id": "fox13-1b-productivity",
-      "title": "Fox 13 puts GTA VI's productivity bill at $1 billion; accountants reach for the controller",
-      "source": "Fox 13 Seattle",
-      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5MaTZYbzFIVktXaEhwY3M3R1ZobjFrTlBRVWFsOV9tNWN2aURCbnpad3NnUk4tcjIxaFJJZUhEYmVERktWWmlKM0NIQlRSNExrSVQ2cDNvZGxsc1g2d3dmQ04zdXRKRmk4RXRFRWZwSzE2bG8?oc=5",
-      "published": "2026-11-14T02:48:23Z",
-      "added": "2026-11-14T07:44:11Z",
-      "orig": "GTA 6 release could trigger $1B U.S. productivity loss",
-      "news": 5,
-      "humor": 6
-    },
-    {
       "id": "some-intl-physical-copies-redeem-unopened",
       "title": "Some overseas GTA VI boxes reportedly redeem unopened; Leonida skips the seal",
       "source": "Engadget",
@@ -440,17 +451,6 @@
       "news": 6,
       "humor": 6,
       "added": "2026-11-13T21:43:30Z"
-    },
-    {
-      "id": "gamespot-55m-copies",
-      "title": "Analysts see 55 million copies by spring, $90 average price; Leonida prints money",
-      "source": "GameSpot",
-      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOZkFPbUxRUmVQbjdwY0hZbzlOdUpheUZ0d3pYRU82YUtDTm9URTZiWVU3UlFpT3NtaS03bFBMc0hkUGNia0VPX3g1ZEdGY0x0SWpPWXBwZTMyREI2bVYxekhraFN1NHJ5ZS01ejFvY0h4TnFOdVhxQ0hEZzRYeTJIaUYteHRCLWRlX3lTYTF3eHZsQUpxaW1ac0FtMGx2TjJhTWpkZUhBTExZVXFBZGhfQ2RzMzB0bWtCOXppQjhGNnJCVldIRnVnbWJEYmtzV2dEQzFzeg?oc=5",
-      "published": "2026-11-13T19:37:15Z",
-      "added": "2026-11-13T19:43:23Z",
-      "orig": "GTA 6 Could Sell 55 Million Copies By Early Next Year, Report Says, And Average Selling Price Could Be $90",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "push-square-no-online",
