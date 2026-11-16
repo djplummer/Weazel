@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-16T08:43:45Z",
+  "updatedAt": "2026-11-16T09:43:55Z",
   "items": [
+    {
+      "id": "ps5-pro-120hz-files",
+      "title": "120Hz mode reportedly spotted in PS5 Pro files; Leonida eyes a faster getaway",
+      "source": "GameGPU",
+      "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNWE1fa0UwS2hHN2FLT2o1bjBrX21XMC1KY2tYb0lTQ2FRcTFyUEl2c1lsenZfVUxZdDhzdThmbFE1U2lYUUZuQXVfUEZuOU5MSVNzMUVWNGYtX1dGb3htMEZYeWpJUUQxc1p6NUlTcXJGQ044MzYxZmRmMHhhMlNXQUl2amZvV0hMUDhkV3l1ckZPSm4yYUxEVVkyMF82MDAwclFudHl1UnZoa1k?oc=5",
+      "published": "2026-11-16T09:28:39.000Z",
+      "added": "2026-11-16T09:43:55Z",
+      "orig": "A mention of a 120Hz mode has been found in the files of the PS5 Pro version of GTA 6.",
+      "news": 5,
+      "humor": 6
+    },
     {
       "id": "gta6-flashlight-trick-failed",
       "title": "Flashlight trick fails on a US copy in testing; no stolen codes confirmed",
@@ -451,17 +462,6 @@
       "orig": "Best Buy Offering Early Access to ‘Grand Theft Auto VI’ Video Game",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "forbes-unlock-times-us",
-      "title": "Store listings reportedly let West Coast Leonida fans in the night before",
-      "source": "Forbes",
-      "link": "https://www.forbes.com/sites/brianmazique/2026/11/12/gta-6-unlocks-at-midnight-on-november-19-but-millions-of-americans-can-start-playing-the-night-before/",
-      "published": "2026-11-12T12:45:00Z",
-      "added": "2026-11-12T13:44:05Z",
-      "orig": "Here’s the GTA 6 Release Time in Every US Time Zone",
-      "news": 6,
-      "humor": 4
     },
     {
       "id": "rockstar-union-vote",
