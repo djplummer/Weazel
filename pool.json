@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-16T11:44:00Z",
+  "updatedAt": "2026-11-16T13:44:32Z",
   "items": [
+    {
+      "id": "eurogamer-2b-weekend",
+      "title": "Analyst: Leonida could clear $2 billion in opening weekend; tills warming up",
+      "source": "Eurogamer",
+      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNc3VoNVZSTk9qQlI0Qnk0NWsySzR3eDdHVHFoc29hemF5R29sbXRyenc2bmFJbkZDNUVEVDViTV9aSmFtWHR3eElNRG9Ea3BPMFpudkRNdVFrLVd1ckExblFCZXJqNlFaRDQtbjQ4YWYwcy02dW91NGxwRXk3d1BLZWJRZGJORUVpZkQ3Y2lHTjFXbmsyWTJGYmI5elZ3aTNEaXd0T0c3OWJiUjVreEhUdEVxbUYwSHlfZEQ5aXBpdGV5aXEtXzVEd1dJTDZqQ2k1akE?oc=5",
+      "published": "2026-11-16T13:20:30Z",
+      "added": "2026-11-16T13:44:32Z",
+      "orig": "Can GTA 6 make $2 billion in its opening weekend? One industry analyst has run the numbers, and seems to think so",
+      "news": 7,
+      "humor": 6
+    },
+    {
+      "id": "ps5-hacker-gezine-exe",
+      "title": "PS5 hacker claims Leonida executable dumped; Rockstar lawyers presumably stretching",
+      "source": "VideoCardz",
+      "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdjRTYlVGS1BxQmc3QzFmU2RYZ3RSd29PVm5vUXdBYVN1RjhZUDdKMGlVNmtSNmRTSm5KZEkwWHlCeTlDLXBwaUxhSkUyM1hWZ3hQSVk0RW40Wjk1Q1lxSzNJN1RHX1dPVWxQTG1iVU5Pb3hYd2VyWXF3MUp4SU13V3NuNUVTcDJyMnRXNkJlaHZhUFh5bF9kNFpuck5mS0lvRk1GeFNXTHprMDdMb2s1eE95Zy1yT0FaNUp3?oc=5",
+      "published": "2026-11-16T12:41:31Z",
+      "added": "2026-11-16T13:44:32Z",
+      "orig": "PS5 hacker Gezine claims to have dumped game executable on GTA VI-compatible firmware 14.22",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "second-day-one-patch",
       "title": "Second day-one patch lands for GTA VI on PS5 and Xbox; the first one needed backup",
@@ -22,6 +44,17 @@
       "orig": "GTA 6 Free Code Giveaway Officially Announced By Rockstar Games",
       "news": 7,
       "humor": 6
+    },
+    {
+      "id": "release-times-push-square",
+      "title": "Leonida opens at midnight local time on Nov. 19; New Zealand gets the keys first",
+      "source": "Push Square",
+      "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPc0l6RFdOVm5HYnVoV2N0Wm01MWdxLXVXdnp2RTltMnRESER5N3FNWG1Nc281dWdiMEJEc1l3U0paRll4UUs5ZWIwUVZrTk9PaHEyUk8yNkMzS2NULWlmMXRiNWtLY04zQThOSXRVUTVabXFad1doRXB1czlvME5xeXVzUnJPeWs?oc=5",
+      "published": "2026-11-16T10:31:49Z",
+      "added": "2026-11-16T13:44:32Z",
+      "orig": "GTA 6 Release Times: When Can You Start Playing?",
+      "news": 6,
+      "humor": 5
     },
     {
       "id": "computer-weekly-traffic-high",
@@ -475,17 +508,6 @@
       "humor": 6
     },
     {
-      "id": "youtube-40b-views",
-      "title": "YouTube logs 40 billion GTA VI video views before anyone has even played it",
-      "source": "PPC Land",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVlBRa0liSzVDckF6VnpmOFZPOUJ2TE9OamZaUWxsV0JuQjdyZFVVOHhwdTNXX0Myajg0NWxoLXd3VUdjc1VzMkhudUNxY25LVUplOHVmR2F3RlFYWjRKdy1ZdTV2VFQwVjBTVGV2N1drc3BTS1UweGZDOXVoREN6RlpfU2JvU3o2dllxOTlobw?oc=5",
-      "published": "2026-11-12T19:36:44Z",
-      "added": "2026-11-12T19:43:33Z",
-      "orig": "GTA VI videos gain 40 billion YouTube views before the game launches",
-      "news": 5,
-      "humor": 6
-    },
-    {
       "id": "best-buy-early-access",
       "title": "Best Buy offers early GTA VI access, a head start with a loyalty card attached",
       "source": "Media Play News",
@@ -517,28 +539,6 @@
       "orig": "Take-Two misses its own Q2 forecast and leaves GTA 6 to carry the year",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "gta6-mapping-project-discord",
-      "title": "Leonida cartographers served notice: Take-Two reportedly shuts fan map Discord",
-      "source": "Notebookcheck",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQRldBdjlmUjU3STRXMm1WNy0zeHZMYTNyZ3lraG50aUxOeUdRdThzQVJJQkgyY1pESDJpOE8xU0g1UlZFYTgyM2pjVWJ5N1E0TjFaNGdXY3FYWV83V0NHdmhSendXRFdvSzRsYkRxSVBqZThSaXphWk5iQ3dremtEWEg5RC1uYUpzZElqbWlLVnFxbkFSbHBGYW5kODFVcUVIYmlZVFY4QlpqZU9EdkZrcWI2NEFySTFFUlpOY2Y5ZjVDREgzQmdJ?oc=5",
-      "published": "2026-11-11T23:29:00Z",
-      "added": "2026-11-12T06:43:28Z",
-      "orig": "Take-Two reportedly targets GTA 6 Mapping Project, closing Discord that shared leaks",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "cable-free-gig",
-      "title": "Cable giants hand out free speed boosts so Leonida downloads before the weekend",
-      "source": "Cablefax",
-      "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTGktRmF6OWw3YlB2QmFXRHp2cFlKS2o5dVl1S19lMDluaWtNVVJEblJfSkdhbEpzc1dmdVFaTGkyaDBkZU8xY3RBSHNzQTZQT01zWjZ2b3ZONlM1UVpEYkprZHVQdjZJRnhYYURoVVlKV1BTRS1GRk8xQ2FmUEthaGx5WFRBUQ?oc=5",
-      "published": "2026-11-11T22:37:10Z",
-      "added": "2026-11-12T00:44:14Z",
-      "orig": "CFX Download: Cable Preps for ‘GTA VI’ Fever",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "ps5-100m",
