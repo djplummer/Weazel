@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-17T16:43:47Z",
+  "updatedAt": "2026-11-17T17:43:24Z",
   "items": [
+    {
+      "id": "game-awards-leads-noms",
+      "title": "Game Awards: Leonida leads the nominations before a single player has visited",
+      "source": "VGC",
+      "link": "https://www.videogameschronicle.com/news/gta-6-is-the-most-nominated-game-at-the-game-awards-2026/",
+      "published": "2026-11-17T17:25:00Z",
+      "added": "2026-11-17T17:43:24Z",
+      "orig": "GTA 6 is the most nominated game at The Game Awards 2026",
+      "news": 8,
+      "humor": 6
+    },
     {
       "id": "firaxis-layoffs",
       "title": "Take-Two lays off Firaxis staff on the eve of Leonida; not everyone gets an invite",
@@ -13,24 +24,13 @@
       "humor": 5
     },
     {
-      "id": "smoovplay-120fps",
-      "title": "Free SmoovPlay tool reportedly lifts Leonida past 30 fps, but controls still feel like 30",
-      "source": "Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QNk0xcFNlX2Ffc0lVbExySXhfcFY2SGFCOEl5Y05uRVFCZW5pTjlaQjJGN0dzbTNQRUYwNHN0dlFYUFY1dXU1bDFuOVc1V0FtRm03SkNORlYtMWN6T2FRR1JPYnEwSTFWcW4wNzlsY0p0aDJWeUstSmFhb9IBgAFBVV95cUxPblg0ZE9yOXduQl80Y2xtWmVLYWJuVFRHb1lpVUZNLXR1UGxkNlQ0NUZ4dEJaSURXTGowT0FSdFhOc1VNMUZZT3dhblVyazZfOHhpcG14NFpycmxTZEkxVnJjaXpncl9ESC12X2pLb2x5NlluamFRVGp4bnZvZGoyMQ?oc=5",
-      "published": "2026-11-17T16:10:26Z",
-      "added": "2026-11-17T16:43:47Z",
-      "orig": "Grand Theft Auto VI’s 30 FPS Console Cap Could Reach 120 FPS via Free SmoovPlay Tool, but Controls Still Respond Like 30 FPS",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "miami-police-chiefs",
-      "title": "Police chiefs call Miami's Leonida cash-in 'a bad look'; the fictional cops stay out of it",
-      "source": "The Times",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0NWN1pnZnhxQzNRQ2pyQ3hHUy1GVkEtTmQtMDA5OE1ybHBnNjdmTV9HWW55eWc2NkRMX01KZ0pZU0prRnliVWFFRWlJQV83OUdFWV9lbWRKOE1acVVWb29QTHg3VEtyUXZuZWVvM1YySU1rb0VwNzd3NktMVWNFdU9UVUx5Qmk4RnFCZW9WY1RPOHBPS1pPZnY0Wk14NkhiMVZkYWhWQQ?oc=5",
-      "published": "2026-11-17T15:54:11Z",
-      "added": "2026-11-17T16:43:47Z",
-      "orig": "‘It’s a bad look’: police chiefs’ fury as Miami cashes in on Grand Theft Auto VI",
+      "id": "twitch-advertiser-plan",
+      "title": "Twitch drafts a plan to keep advertisers calm when Leonida streams get spicy",
+      "source": "Gizmodo",
+      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlpFQkhNU0M4M2R5MWlZQ1hROUFkcU5pU0FuS0tmRGZUVUVSV0Y1YWNFYUVBc2xTNWZDZ3dlVS10TUlKSVlsUU9sQ3ZaSVEtRm5PZEEtcWdCMlNJU0NFdDJBUHRXcmlBY0drSkQ3ZWU2SERReXJ4b0VXd004Y0l6OEVyQUdEaE1hcHhVVzY1UEVybUZyMFZyUGFCcEoyaTdXeWFlMkhrM3RIOUR3UUplWUpVWkZNZ28?oc=5",
+      "published": "2026-11-17T16:15:11Z",
+      "added": "2026-11-17T17:43:24Z",
+      "orig": "Twitch Has a Plan to Keep Advertisers Happy When 'GTA VI' Streams Get to the Spicy Bits",
       "news": 5,
       "humor": 6
     },
