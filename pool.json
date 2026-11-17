@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-17T19:43:20Z",
+  "updatedAt": "2026-11-17T20:43:23Z",
   "items": [
+    {
+      "id": "digital-foundry-no-40fps",
+      "title": "Digital Foundry: Leonida's CPU appetite leaves PS5 Pro without a 40 FPS mode",
+      "source": "TweakTown",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYTg0S1hQOTlmZndwb1VRNEg0S1Z2QnhNcUk3XzBORVZUZE8yV1gtYzZLVkxhbnBma2RUV2hoQXlDNlBuRkpKRFJERWpmem10TlhkOEc3MHFaU25PX0tTQUkwaWFjU2RFYjIzN00wSlUzR2NhdVlqNVRCNHpkYWdJaEYyLUxaR0pZcVNoQ0hDT2lld1hTRWEzWkgteHlQRndRdlZuRnJVX3NIRHpBUzR2b0F6a2JudDkyVGVJdFA5TzR4RE9OajJvcndYaHFXQQ?oc=5",
+      "published": "2026-11-17T20:20:01Z",
+      "added": "2026-11-17T20:43:23Z",
+      "orig": "Digital Foundry says GTA VI's CPU demands make a 40 FPS mode on PS5 Pro too difficult",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "lucia-actor",
       "title": "Game Awards nod confirms Manni L. Perez as Lucia; the worst-kept secret in Leonida",
@@ -175,17 +186,6 @@
       "added": "2026-11-16T20:44:01Z",
       "orig": "Discord adds a Vice City theme, app icon and name style ahead of Grand Theft Auto VI",
       "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "nba-2k27-vice-city",
-      "title": "Vice City moves into NBA 2K27; Leonida's tourism board expands to hardwood",
-      "source": "Polygon",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1jSC1DNVB5cUZuc0xYa3JtckdHZHpZSXh1VzktVjRoMTNCemdJRHZNTG8yazh1blZqNlV0QkZpOFgwMUZ3Y1NYcC1RVFo1TERvUHFWb2dwWl94QmdRbmlaY2FPeG03REtjenIwenZBU0k5ZlFMWTJfcg?oc=5",
-      "published": "2026-11-16T17:28:11Z",
-      "added": "2026-11-16T23:43:31Z",
-      "orig": "GTA 6 Comes to NBA 2K27 With Complete Vice City Makeover",
-      "news": 5,
       "humor": 6
     },
     {
