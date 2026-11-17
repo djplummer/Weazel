@@ -1,6 +1,72 @@
 {
-  "updatedAt": "2026-11-17T01:43:26Z",
+  "updatedAt": "2026-11-17T04:43:34Z",
   "items": [
+    {
+      "id": "ps5-korea-shelves",
+      "title": "Korea runs out of PlayStation 5s as GTA VI fever grips the peninsula",
+      "source": "Korea JoongAng Daily",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOR2ZTOVZjLWszTVhtb09iaDNOVThlZ0xFcG5hQ0hnOEZIV0Y1aVhTejQwU2EtZTNDSFhEUTdMTjUtQlNWYTVpeWt4Z09icEdpcmVjWHRYWGJfUVJFLUNHNWJfS3hwTVJmWWx4dFVIMmFMZV9vdGFCbHhyc3oxMklibWRQUi1vV0t2UDJOLWQ4YnBhM3M4QjBNRE5qZzIxWllzdlU4UTdkYUxjVXlpdG1BdA?oc=5",
+      "published": "2026-11-17T04:11:36Z",
+      "added": "2026-11-17T04:43:34Z",
+      "orig": "PlayStation 5 shelves empty as GTA VI fever grips Korea",
+      "news": 5,
+      "humor": 5
+    },
+    {
+      "id": "preorders-15m",
+      "title": "Pre-orders reportedly near 15 million as Take-Two stock rallies; Leonida pays upfront",
+      "source": "BigGo Finance",
+      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSTJEdFV5MUZwdTJnMTdVcmFpNzVIZEpJSUxvbjF4YWlzUm84dDgzdWVETnFjNzZUa2hVelFyTzlwXzE2Ulc5bEM4RnlNSGk2cTlvcHREQ3ZBaVZNLWMwM3VmLVpqRDg2UFVQcDNZTnhfemp1T1E?oc=5",
+      "published": "2026-11-17T04:05:00Z",
+      "added": "2026-11-17T04:43:34Z",
+      "orig": "GTA 6 Preorders Near 15 Million Copies, Sales Value Hits NT$48 Billion as Take-Two Stock Rallies Ahead of Launch",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "vegas-graffiti-mansion",
+      "title": "Las Vegas Graffiti Mansion gets a Grand Theft Auto VI makeover; vandalism, now licensed",
+      "source": "FOX5 Vegas",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckNJREVMbjVLMzVoX3dUUVItUW5KMUJ5aGhrVWVEM0tJc3g2ZWFFbkE3bmZIMlFPTG4yWUp4dmdRSEE5eGs2VnlFUXVrUWxlYU5fbE5nWTZWdVJjYV9zZWlxTXZ1M3VoeGVwUEVxbWk0ZUpucEs3cnJkcWlfZkdYWm1jTEtJUW1BZkVmTG9uaUJidEVZVWNKRG43SERIRDQ?oc=5",
+      "published": "2026-11-17T03:32:00Z",
+      "added": "2026-11-17T04:43:34Z",
+      "orig": "Las Vegas Graffiti Mansion gets ‘Grand Theft Auto VI’ makeover",
+      "news": 3,
+      "humor": 6
+    },
+    {
+      "id": "lost-productivity-1b",
+      "title": "GTA 6 launch could cost US employers $1B in lost productivity; bosses brace",
+      "source": "FOX 2",
+      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVJTcE11aXd5S2J4S2w4OGpxZ1JYRkd1bFNhNWZtS3Y4cTBTbW5nWks4cDNCZlhUdzAtbk5iQzNrSDFpV2s2UnVCWU1IYm4wQk9yNUNvUGt6NHJfM0J0MDZETnl2MjNNZnBoR1RuNm01a0Voa2tvUm5Pd1pHeHo1MjI4V3ZvcUJab0HSAY8BQVVfeXFMTXZRa0dxMlk0NGt0bklzR3NsTGpmblRTSjBuVFUwcjAzelBsSjVjTzJQVDFPdnJ1T0UyUmxqTG44MzhfNEhzUE5NbG1oX3FOUkJSR0U3d0dQU2R5bEJoS2xWMW0tbWxoZlZjZnRzeU1qTjdoaDFVRGNybUIzOTFmYS1LbWxhWWF6UVhKR1oyU00?oc=5",
+      "published": "2026-11-17T02:49:09Z",
+      "added": "2026-11-17T04:43:34Z",
+      "orig": "GTA 6 release could cost US $1B in lost productivity",
+      "news": 4,
+      "humor": 5
+    },
+    {
+      "id": "michigan-sick-day",
+      "title": "28,000 Michiganders projected to skip work Thursday; study says Leonida calls",
+      "source": "CBS News",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkJsLUxrYUUyWVdJNWVIVXVfdW9hY0Z2dm93cV82dVNmSkQwZkk5NUVnRUFOVHpmeDR2VXRaXzZiX0RqTHNnSWZDeFUwU3BKSkItUFRmTnJIaXlUNTgtRUw0LV9DenBldi1yeUdaNDBVdF94c3JXTzNpVDEzNmtrbDZxMkNIaXhYR3g4MG1LblRKZGM2U0RDRllySQ?oc=5",
+      "published": "2026-11-17T02:44:02Z",
+      "added": "2026-11-17T04:43:34Z",
+      "orig": "More than 28,000 Michiganders projected to take off work Thursday for GTA VI release, study shows",
+      "news": 4,
+      "humor": 6
+    },
+    {
+      "id": "heat-vice-city-night",
+      "title": "Heat turn the arena into Vice City for Bucks showdown; hometown advantage is neon",
+      "source": "NBC 6 South Florida",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW5RdExmbzktaTYzaHFnWnhQUDRuZlZWZGxuTEI4MnlNVzFRaENweFFZeWhxRDVpVFdsb0pRQkx4c3p3aGNwd0N1U1hWYTZFdFl5ejlOb2FtRDQtMU56TXJQSUNFMWptQTlpWUgzb1pGYWdmYlJmRUt0NlpYdmxZcUJEVDHSAYwBQVVfeXFMTUxBQ21QMkk1eFFJSEEzaHo5eDctd09jazh6YTRoT0NTaFFGZ2dsQ29WZ1l6M0tPYUtFNENlRWFYNEpNamFvTXgzdElmWTdfd3BTcWhqRm9KMndlekdIclNmR3YxVjcxdDNvZWNnUXVQYVN1U2dqdXNQRldVX1ZiUHRNbEpuM09pYVE5RGo?oc=5",
+      "published": "2026-11-17T01:18:36Z",
+      "added": "2026-11-17T04:43:34Z",
+      "orig": "VICE CITY NIGHT: Miami Heat bring GTA 6 to life for epic showdown against the Bucks",
+      "news": 3,
+      "humor": 5
+    },
     {
       "id": "xcloud-1am-et",
       "title": "Xbox Cloud Gaming opens the doors to Vice City at 1am ET on Nov 19, not midnight",
@@ -24,6 +90,17 @@
       "humor": 6
     },
     {
+      "id": "prof-delays-exam",
+      "title": "College professor delays exam so students can survive GTA 6 launch; dean not consulted",
+      "source": "Men's Journal",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWExvczBFTlhUUURyUjRCU3dMXzlWUjJ0Sm1VWmJvZkY4X1R4OTJJOHUyTHJjWDZZUW5NOG5zTHBCZ3p6ZWpQczk3a0lxUmttdDJaaWJIWGMzYVE3dUZHb2lfN0hvM2hGdUNyOWtrbEF0cmxKdERjWUxfdFpsSmEweTFIT0o1UXFzUEN0N2ozZ05XemlYVUZud0ZudXZhN1o3T09fZnNWTTRvcUx3WWt4RC0xUGVLakVzblI1VjFn?oc=5",
+      "published": "2026-11-17T00:24:00Z",
+      "added": "2026-11-17T04:43:34Z",
+      "orig": "College Professor Gracefully Delays Exam and Assignments Ahead of ‘GTA 6’ Release",
+      "news": 3,
+      "humor": 6
+    },
+    {
       "id": "gta6-dynamic-weather-screens",
       "title": "Leonida forecast: unpredictable microclimates, with new screenshots to prove it",
       "source": "Push Square",
@@ -33,6 +110,17 @@
       "orig": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
       "news": 9,
       "humor": 7
+    },
+    {
+      "id": "abc11-merch",
+      "title": "New GTA VI merchandise drops ahead of launch; wallets brace for impact",
+      "source": "ABC11 News",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEE3UFJscGpRakhnVWZ5SkpjREMwNkk5Z2RlSVdmRzFSaU1QY1VVZEJSNGNFLUxOMDlsYkQwdko2ZHQ3OXppSE8teW1nT2tMYVBpQW5WVGFFNVZDaFJ1MG0ybzRXdzFrMHZpTnd6VE14ZFZVR1JyQ3Rpd2pvQ1hUR1hzUnJ5OG1tOGp1YTdodFRGMWxFMmhRddIBngFBVV95cUxQa1F4N09CeHFWU21FSlltNVRKYTBfWFAyc3RQaU1LOXhxbG1IT3lOZklTa2x5WVljeXhENjBpT29GUG1qOEJ4cWhPRnVkZFVHSjZucXc1WDVYZEpmUnhBUHRET25MdWxzSWdlQmwzYXFvc2JUaG9ucG5LdVVJdTRpSE51M3RGclFmM2tuRG03dklxSkxIV3FJbGphekNxZw?oc=5",
+      "published": "2026-11-16T22:40:34Z",
+      "added": "2026-11-17T04:43:34Z",
+      "orig": "Grand Theft Auto 6: New GTA VI merchandise drops ahead of launch",
+      "news": 3,
+      "humor": 5
     },
     {
       "id": "discord-vice-city-theme",
@@ -244,28 +332,6 @@
       "humor": 7
     },
     {
-      "id": "rockstar-empathy",
-      "title": "Rockstar: Leonida built to encourage empathy, but chaos still pays no fine",
-      "source": "Notebookcheck",
-      "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPV0txeGZuV1JzSDJ0YWlocGJzZWxRZE1KaHBqVFgwWlR0NnkwNVYzTnlheVM1Y1dzaEZ3RXc1Q1dtYU1kWk42WUlvN2Zwdk0wZ1JPbUZ3aXM2VXNvUTBCSkJfZHpDVGxHMG51RHVPTmR3aU13V1hPRndsalkxRm5nemhrN29hWmVLbUotM3g3aW8tSjd0cld6RlhPelA1R0lpRjJCQ1pUM1ZpOXdHSWVPTDZwV2RFdlEtWHRYZ3FhaGN2cUVWWnJ3ZGY2QjdOR3BFTUlZZnBCeENEV0QwYmpFaHNzQUJBNGdHZVlBMFVjZ2t2cWlvX0x5Zg?oc=5",
-      "published": "2026-11-15T17:04:00Z",
-      "added": "2026-11-16T04:44:05Z",
-      "orig": "GTA VI is the first Grand Theft Auto built to encourage empathy, says Rockstar, but it won't punish chaotic players either",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "story-50-hours-100-missions",
-      "title": "Leonida's story reportedly runs 50 hours over 100 missions; the platinum trophy, 200",
-      "source": "Men's Journal",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQYlhPZ09OWEN3aG5YZE1CWFBjQnlFYVdCcnppWHlGTmhCZ0kzREhRanBIc01qVnZJMUpPRm5uMlhsOGFISTc0TmNNaWkxT0RudGxYSkpQc3RnUW9UcnNGcDBSOXM4eVZKeUhmVlpJRW1UazQtRjIwaXB5dThpRlZ6Y0ZsazNKMHM2Z0tFLTZINGZ4WEZtd1M5ZncyZ01sUQ?oc=5",
-      "published": "2026-11-15T16:44:15Z",
-      "added": "2026-11-15T18:43:55Z",
-      "orig": "‘GTA 6’ Game Length and Mission Count Officially Revealed",
-      "news": 5,
-      "humor": 6
-    },
-    {
       "id": "rockstar-tove-lo-teaser",
       "title": "Rockstar drops a Tove Lo teaser as preloading begins; Leonida plays the hits early",
       "source": "Yahoo Tech",
@@ -274,28 +340,6 @@
       "added": "2026-11-15T18:43:55Z",
       "orig": "'GTA VI' Pre-Loading Begins, Rockstar Drops New Teaser f/ Tove Lo Track",
       "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "gta-vi-narrowly-avoids-ban",
-      "title": "Leonida nearly banned over nudity concerns; censors blinked, the Vice City lobby did not",
-      "source": "LevelUp",
-      "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPLVluS0wyTWkxTE12dUlCZzFtYXhWVUFtcHN2alpaRjdDVGtLWHNsZXgzb0dfb2JKSW1zel9sYkVfUExNdGFxdUNPQmg5UjVJaFotbENYYlMyTnlDd2pWZU1YNkQyYy1KLWFld182c0tMeHpQQS1UTWszYlFtU3NhYmp3blE2WnV6d3k1N0xPNXdGanc?oc=5",
-      "published": "2026-11-15T14:40:00Z",
-      "added": "2026-11-15T22:43:19Z",
-      "orig": "GTA VI Narrowly Avoids Ban Over Explicit Nudity Concerns",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "ms-series-s-panic",
-      "title": "Microsoft executives reportedly panicked over Series S performance as Leonida nears",
-      "source": "GameGPU",
-      "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQcWJVNHh6N01KdEduUlZWU0M0WllSRHdFUGYwZm04bnk1Y2x2b2pGbHFlLVgzVW10Y2NIOWlpaUpCOWRQbnFyczFLVWh1S3ZoeW9QRHI3Yzg1OFlKYU5tT3hTb0RlMmV4MDBWM1hDcWtBZXNlakZLMVRrNEQzQ2NnYUNQWXVaTHhIMHVuUUhtRUhlWWV3T3NKckxrR0JySGItMDZjbXJQMFVOMGtzdlMwTktUMGNrSk5ZZ2l3dlYtRVZnRmJRNUpCYi1scjlaLVNhVlE?oc=5",
-      "published": "2026-11-15T11:59:54Z",
-      "added": "2026-11-15T13:43:29Z",
-      "orig": "Microsoft executives panicked over Grand Theft Auto VI's performance on Xbox Series S ahead of release.",
-      "news": 5,
       "humor": 6
     },
     {
@@ -308,17 +352,6 @@
       "orig": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "game-awards-eligible",
-      "title": "Game Awards nominees due next week; Leonida eligible, rivals reportedly nervous",
-      "source": "Nintendo Life",
-      "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQWWt6TXRuX3FKVW9mZXNCLXhZN2JJWG5hNkN2S2c3UjJCbVZOZnFPbV9tcmNjOXJPNWpzN3BSWl9lcmNIRDRSZERBUDNMNnQzVTQtYnhwX3ZHUmtVM3JLZkotSmpxNWpVTERlNUNySnZQOVlYc2MxN1VlY29hc3B5S3Rkc0ZQXzBWUGo4S09CeWtwWTZkYlA3WmxDYmRQdDFPSzRBdDBzREM5Qjd3SndnZWpSOUIzSHhzNWpTN3Y1UQ?oc=5",
-      "published": "2026-11-15T08:26:05Z",
-      "added": "2026-11-15T13:43:29Z",
-      "orig": "The Game Awards 2026 Nominees To Be Announced Next Week, Zelda And GTA 6 Eligible",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "leaked-soundtrack-confirmed-real",
@@ -354,17 +387,6 @@
       "humor": 7
     },
     {
-      "id": "gta6-brand-spoofs",
-      "title": "Leonida spoofs Gucci and Chrome Hearts, because even crime has a dress code",
-      "source": "Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOazBMUlpHamI1ekE0U3h3bnhpcHJBOWRraWs1SFZZTHFfc1QtbjY5azJ2LUE0UEk5Sy1UNWZYR0EyNERveUZQci16LTUtWUNQbDR5WmhaUzJKNVY4b1JOOUJfSlJrbFoteUZUUVBVa2lySDFJZ08tQVhBaXV1NmV3NFJMdlhxbTJf?oc=5",
-      "published": "2026-11-14T21:17:44Z",
-      "added": "2026-11-15T03:43:27Z",
-      "orig": "‘GTA VI’ Appears to Spoof Brands Including Chrome Hearts, Gucci, and More",
-      "news": 5,
-      "humor": 6
-    },
-    {
       "id": "billboard-34-song-tracklist",
       "title": "Billboard prints all 34 songs for Leonida's playlist; your commute just got a deadline",
       "source": "Billboard",
@@ -385,28 +407,6 @@
       "orig": "Lana Del Rey, Dua Lipa, Zara Larsson Contribute New Music to ‘GTA VI: The Album’",
       "news": 7,
       "humor": 6
-    },
-    {
-      "id": "ai-cloning-take-two",
-      "title": "Take-Two chief: AI cloning no financial threat to Leonida; clones decline to comment",
-      "source": "Insider Gaming",
-      "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8xYXhFb1FIbXhNOEdsN0x6UEpYeTdqbk9ZaUExU2ZWR0YwV1ozUTZNVW00SlNtaXNZM0tieDNLc2dYV3E5UHVHWFJEei1ubTZidlJSdDdwWnZVV0xHcWxXdkhKb3RZSGpRMFduT0ktRnBVRTBpdlNrSQ?oc=5",
-      "published": "2026-11-14T18:22:05Z",
-      "added": "2026-11-15T13:43:29Z",
-      "orig": "GTA 6 AI Cloning Is Not a Financial Threat, Says Take-Two CEO",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "guardian-nelson-demo",
-      "title": "Rockstar demo: Jason eats donut, sips beer, robs jewelry store, all in one visit",
-      "source": "VICE",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zQmVONFE5cEdFM3Z0QWNhT283ZTh0cDJoQUdsWVpiUS1VMVBVYXNkREloa3VsXzJhaWFIcmRSZXQyUGJSbTlsMWQyUUM4eTZGNUNmSTRacWo5UlhCX3Q0LU9IdHM2MWJFSWxkUDBncXpHWFprU2NjQ1NydHlQcnM?oc=5",
-      "published": "2026-11-14T13:51:30Z",
-      "orig": "6 New GTA 6 Gameplay Details From The Guardian's Rockstar Interview",
-      "news": 5,
-      "humor": 6,
-      "added": "2026-11-14T14:43:33Z"
     },
     {
       "id": "gta-vi-gold",
