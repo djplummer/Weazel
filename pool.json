@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-17T22:43:41Z",
+  "updatedAt": "2026-11-17T23:43:33Z",
   "items": [
+    {
+      "id": "travis-nike-af1-two-drops",
+      "title": "Travis Scott's GTA sneakers get two chances to buy, zero chances to relax",
+      "source": "WWD",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1gzWHVWUzdidWQyY294dFh5MzJLWXY5QUlnc19kVkVSVWFZSVRFbV8zUzY0MHpXV0dkV0xWY3hqNktvVWdvM2hRVDNwaWU5b1B2SnNXV2hQQU8zNzdCYlZPTFhDaW50NnlHNTFQZUNtY1hHV3dJZDg4R1JYREJqRlJzQ2NjUUNvMVkyMkp4bnBVb2JIb2VGZ3FoNndUUktXdUpHYjZ4Yw?oc=5",
+      "published": "2026-11-17T22:24:03Z",
+      "added": "2026-11-17T23:43:33Z",
+      "orig": "Travis Scott’s ‘GTA 6’ x Nike Air Force 1s Will Release With Two Different Chances to Purchase",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "miami-heat-vice-city-court",
+      "title": "Heat swap hardwood for Vice City neon; Bucks asked to keep up",
+      "source": "Fox News",
+      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOZy1OdEpVZjlhZDFiZFBVVlJJRzVKcWwybWVtS3BKUEdrWEJsSEFyZzlkaXl1MS1iZklobFVsem9TaElJNDlGWV90dmVpRmFqcGN2eGs0QWhyV2lOR1piUjdmVjZ5dWpRNm5salhtVWJWaVJ2VmNGejJCTkVpTjZWV2xDbmhBUVlWZmNzeWRrQlc1SFVxeVR3ZWVHUWsxbUdJLWdQZk5yRGViNkt1cVlDeVg5MVE5d3RpWkRUYXZn?oc=5",
+      "published": "2026-11-17T22:20:44Z",
+      "added": "2026-11-17T23:43:33Z",
+      "orig": "Miami Heat unveil Vice City court for 'Grand Theft Auto VI'-themed clash with Milwaukee Bucks",
+      "news": 5,
+      "humor": 7
+    },
     {
       "id": "digital-foundry-no-40fps",
       "title": "Digital Foundry: Leonida's CPU appetite leaves PS5 Pro without a 40 FPS mode",
@@ -44,17 +66,6 @@
       "orig": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "twitch-advertiser-plan",
-      "title": "Twitch drafts a plan to keep advertisers calm when Leonida streams get spicy",
-      "source": "Gizmodo",
-      "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWlpFQkhNU0M4M2R5MWlZQ1hROUFkcU5pU0FuS0tmRGZUVUVSV0Y1YWNFYUVBc2xTNWZDZ3dlVS10TUlKSVlsUU9sQ3ZaSVEtRm5PZEEtcWdCMlNJU0NFdDJBUHRXcmlBY0drSkQ3ZWU2SERReXJ4b0VXd004Y0l6OEVyQUdEaE1hcHhVVzY1UEVybUZyMFZyUGFCcEoyaTdXeWFlMkhrM3RIOUR3UUplWUpVWkZNZ28?oc=5",
-      "published": "2026-11-17T16:15:11Z",
-      "added": "2026-11-17T17:43:24Z",
-      "orig": "Twitch Has a Plan to Keep Advertisers Happy When 'GTA VI' Streams Get to the Spicy Bits",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "preorders-near-16m",
@@ -649,17 +660,6 @@
       "orig": "GTA 6's 30 FPS Console Limit Officially Confirmed Alongside PS5 Pro Features",
       "news": 9,
       "humor": 4
-    },
-    {
-      "id": "xbox-one-cloud",
-      "title": "Xbox One owners get a cloud-shaped ticket to Leonida on November 19",
-      "source": "XBOX Wire",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPcHNkQ3h6dFZOTXM1Wk04SzN6dUtuTEZWZ3VRc1AzaHhWcUgybUR4TmZ0a2Q3TktGajhoSUZLZm9nVUwxQjQyeXQ1SGVDQ3hqaXB4Q1FaaFVBanpYTXZPSWFLNFRRR25fVmhFU3JOYWRVUzVBQlZxRE9kSGtQR2ZRSzVZb1NDN0pneUEzWEh3OEdjMkUweTdVRFlIUFBqQdIBowFBVV95cUxPcEoyQ19NMjF5Mkpra0NRVWg5SUUwWDE1QXh0Tllfbm8tU2RoeklfaE9jOFhOeU13VUNVcHJfckVpSVpfUzR2SUdJMWlGaGdlUEVXakNlUDVjMUtHT1FZMlA2T1NDYWt5QWJDVlZhTHhzd3E5VXNnV3dzUnNMcDVjYjE0WW1WNlY3bHdkSVVZWG5wQlBZSEVtWU83SVNhTFltbFhZ?oc=5",
-      "published": "2026-11-10T23:42:12Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
-      "news": 9,
-      "humor": 5
     }
   ]
 }
