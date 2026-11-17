@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-17T14:43:32Z",
+  "updatedAt": "2026-11-17T15:43:36Z",
   "items": [
+    {
+      "id": "preorders-near-16m",
+      "title": "Pre-orders reportedly near 16 million and $1.5bn; Leonida's tills sing",
+      "source": "TweakTown",
+      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmxVOEpsckkyalJPeTljQ0FLRzNHSzBEcFR5UExsS0M0d3Q4a1E0czdoLXhRZnBpdS1YbWtLZ3lybm5haW5aMzFaRXRYUEc3eXdzeldpcXVJS0xDWHktNVhmMjNiUzFRbngyQlJWWGJlbXNuX2dvZFlJTzN0N3N2TFVISFFjYzRHRXZHc0V3aThFa0IxS2M1SmpUdFhibW1sV1o0YnhKNXBVYkxKRHhZU1hVbDdoZUtackhFY3YycVBqbEg2MnNCTk9RelJuSmZLY2JHTFA4MVFqUlVEVDI5c1lWZmVNT3BjTVpJR1czd3BnMzJqdl9KR3lSbTAyN1JBM0I5cG1pSQ?oc=5",
+      "published": "2026-11-17T15:15:01Z",
+      "added": "2026-11-17T15:43:36Z",
+      "orig": "GTA 6 pre-orders almost hit 16 million - and exceed $1.5 billion revenue",
+      "news": 6,
+      "humor": 5
+    },
+    {
+      "id": "miami-blitz-rankles",
+      "title": "Real Miami residents sour on Vice City blitz; the fictional one is quieter",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXdQbnB0VGJOS0dKRmxsOWNVNWZFY2ZHTjl2cmxzU3hyM1ExYzZ1VVZsMmNWV3ZZYnhzQ3RIS0dCM2hZWGlsMlZxZEY4Ty1XY01NRTJ0VlgycG1EZ0IwSmNfeFBJcENZVjhIWW1MRWNKNTEwa25TbmJ2LVloRG1wb1lpcTVsaHNuXzBMWldSeGJ2ZzZITXVmR2hoQU9tTndpcHAtQXBrWlJRVXRndUpENE9LWmItN0hPSVE?oc=5",
+      "published": "2026-11-17T15:00:01Z",
+      "added": "2026-11-17T15:43:36Z",
+      "orig": "Grand Theft Auto's 'Vice City' Blitz Rankles Some Residents of the Real Miami",
+      "news": 5,
+      "humor": 6
+    },
     {
       "id": "gta-6-goty-eligible",
       "title": "Leonida can be nominated for Game of the Year before a single player gets in",
@@ -307,17 +329,6 @@
       "added": "2026-11-15T20:43:16Z",
       "orig": "GTA 6's Jason and Lucia Will Start as Small-Time Criminals Who Have to Work Up to High-Value Jobs",
       "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "benzinga-analysts-boost-tt",
-      "title": "Analysts raise Take-Two forecasts as Leonida opens; the stock rides shotgun",
-      "source": "Benzinga",
-      "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQXUtbE00NnNHM1E1QWVpUVFlbkpwbzFQYzIwckhjNkFyVjE1OU9ZM2hCTVBzb0QwMllGZTc2U3BrbzFFX20zNjJhSEd3OU5GU0RleG1pUTllcjl2U1BwcTAxYldiTzJfYW96WXlRd3pBbWRjcWwxRUo0OVlUaWdfcHEwZ3hVbTVwakIydUZ2M2lDZjdodWJpY3dIZTEtSmdSNm1Gb3lLaS1sbThFUVpRRktvd3ZqdTBDbnJjbUxzTFFMdzUzcTd1cGtKeEhVOHRudTg0NFRNakhPWmc?oc=5",
-      "published": "2026-11-15T18:15:05Z",
-      "added": "2026-11-15T18:43:55Z",
-      "orig": "Analysts Boost Take-Two Interactive Stock Forecasts Ahead of Grand Theft Auto VI Debut",
-      "news": 5,
       "humor": 6
     },
     {
@@ -649,17 +660,6 @@
       "orig": "Grand Theft Auto VI Comes to XBOX One and XBOX Series X|S Through XBOX Cloud Gaming on November 19",
       "news": 9,
       "humor": 5
-    },
-    {
-      "id": "logitech-day-off",
-      "title": "Logitech gives 7,000 workers a day off, productivity experts weep",
-      "source": "Fortune",
-      "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNTnl3U19VVF9tRFpkLVZTZDRCTFF2VW5GbG1UX1llNkc0R3laXzU5UnlTUnNucDljdzVfTGY4RDhsc0xPRkxnWWlsLTZUN1lxNUhKX0JDeG1XU0lUZ1UyZFQyM2U1RVpkZ3BMaXk3ZUt6dkNDUDVuMU91d3hXSDNJQ0F1aGxYcnROLS1sTGV3WURtbG1BUFN0ZGtzODhYdHpwVnVEdU5mUU5DcElNTXVJWjRUQU5aM0xES1pWSUNaUEF2bjFxX1dPeE13?oc=5",
-      "published": "2026-11-10T15:21:00Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "Ahead of GTA VI’s release, Logitech is giving 7,000 employees the day off to play video games",
-      "news": 5,
-      "humor": 7
     }
   ]
 }
