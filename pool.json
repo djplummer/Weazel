@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-17T17:43:24Z",
+  "updatedAt": "2026-11-17T18:43:50Z",
   "items": [
+    {
+      "id": "lucia-actor",
+      "title": "Game Awards nod confirms Manni L. Perez as Lucia; the worst-kept secret in Leonida",
+      "source": "GameSpot",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNQkRSdjFMSUZYMEFOVGxHaVdKVzhvS2dJMkRWU1ZnMEZRbEw0VDRSVmlKTmRfbjRsWFdxOGZObm1lQ2NIS0xHRFhOcGJMNUpPd3Vkb01weWZXenJCcXI0ZTJWQUJMdzZBNV9rRjd6RFlhZTJwd2l1Uy1UbndqQ3RuM0czbTQyalV2bVhXVnJpN0RuMS1WWW9KMFhxcm4wRXZpaVZRcFFIUy05QQ?oc=5",
+      "published": "2026-11-17T18:20:35Z",
+      "added": "2026-11-17T18:43:50Z",
+      "orig": "GTA 6’s Lucia Actor Revealed, And It’s The Person Everyone Already Guessed",
+      "news": 7,
+      "humor": 6
+    },
     {
       "id": "game-awards-leads-noms",
       "title": "Game Awards: Leonida leads the nominations before a single player has visited",
@@ -308,17 +319,6 @@
       "orig": "The base PlayStation 5 will experience drops below 30 FPS in Grand Theft Auto VI.",
       "news": 5,
       "humor": 7
-    },
-    {
-      "id": "svg-zelnick-faster-gta",
-      "title": "Take-Two chief hints at faster GTA cycles; Leonida isn't even open yet",
-      "source": "SVG",
-      "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOd01vNzhncnRZaE05S0UyWWo1dzgybzZUdkRYX1JoNkxubHlLZmFqX3B3Vk85WDZ2OUZ0QmNfVk9fUXVmUEpWeG8tTjI1ZDV4YXR6N0UyWW85WnJrSzN0QTR1SUVHQ2VoNGJqRnM5ZDRwZlI3SXJUYUd6ZUl0bzY4YUEwU3NnMllmZVpPc01JVQ?oc=5",
-      "published": "2026-11-15T21:00:00Z",
-      "added": "2026-11-15T21:43:24Z",
-      "orig": "GTA 6 Publisher Take-Two Makes Statement About GTA 7 And The Franchise's Future",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "jason-lucia-small-time",
