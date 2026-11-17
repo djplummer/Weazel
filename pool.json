@@ -1,16 +1,71 @@
 {
-  "updatedAt": "2026-11-17T05:43:51Z",
+  "updatedAt": "2026-11-17T07:43:28Z",
   "items": [
     {
-      "id": "miami-embraces-vice-city",
-      "title": "Miami embraces its Vice City alter ego; the neon never needed a permit",
-      "source": "AP News",
-      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTZNZjcxV3ZsNm5nVzF5alYyWlBXUzBZUFFkZDBodFNONl9mekE3TVB4RUV0aVQ0MGI4SWpXVTNfTll3Q0lTNnJSNUw2V3pnM0xYNXVjMXB3OUV5aVUwMzRNM25KWDRod2JyczljMV9IeDFNLTBoTXVWS0JvV3haYjFHTVd4U2tNYjRXeGxYbDBMc1NsdHhqQ3FWR3ZTeXlnQzk1NE5pRXlzUWp2djFzLWZIMTRNWGNFX0QzdWxVTlJpQTVwN2FCRnlRcw?oc=5",
-      "published": "2026-11-17T05:11:00Z",
-      "added": "2026-11-17T05:43:51Z",
-      "orig": "Miami embraces its Vice City alter ego, seizing buzz around ‘GTA VI’ release",
-      "news": 3,
-      "humor": 5
+      "id": "w-psupdate-1117",
+      "title": "PS5 gets system update 26.07-14.23 days before launch; the console is stretching",
+      "source": "MP1st",
+      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQN1l0WDYwUmRHRVJmcWp2SS0wMTlpdExyNjhJcmhic3VvZ1pnd0Zvdy01YXdIRk5xcXhldXc5UzlxTUJ3cHZrMVNKSzFOVWVuNFc0Y0U2ZXJpdDRRZVNoSzVld0lldHR6TjdzcHBxUFdUV3VmVVRZTHdPa0E4MnZmSm1uNDEyZEdTemk5MEJIR2pDeERpc09zT3NWcw?oc=5",
+      "published": "2026-11-17T07:40:03Z",
+      "added": "2026-11-17T07:43:28Z",
+      "orig": "PS5 Update 26.07-14.23 Pushed Out on November 17; Days Before GTA 6 Releases",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "w-af1-1117",
+      "title": "Travis Scott x Nike Leonida Air Force 1s get a close-up; Vice City has a footwear policy",
+      "source": "Hypebeast",
+      "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQbURkczNXdVp1NkFnaUFEbWpQeVZQZXZfTjNlUzVYaC01d3dxTU9EUGRaRGYyTDlPUWR5aEhoYVpyckRIZ240WEYzUGFEOVpORE9tU01GNFh0UHZRQ3ZYeGhaNEJCOUV1dzUzTlpDZTczWVROX0h6amQ4UEY2SkN2MEJ5bGlSUFZzNGdERjVfNWlYMXFhZ0hXWWw4VjIxaV9nVmNjek1TS1J3c3dqMnFGZzUwcW9FcHl0b3FHMkozeUozV1dQaHZra09zWnNzU0hLSDdQcg?oc=5",
+      "published": "2026-11-17T07:05:05Z",
+      "added": "2026-11-17T07:43:28Z",
+      "orig": "Closer Look at the Black and White Pairs of the Travis Scott x Nike Air Force 1 \"GTA 6\"",
+      "news": 4,
+      "humor": 6
+    },
+    {
+      "id": "w-newzoo-1117",
+      "title": "Newzoo: Leonida's pre-order crowd is classic console, heavily male, market-growing",
+      "source": "GamesIndustry.biz",
+      "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPOWZJclpXb2VVWlg2V0tTUVBzSVc3SFpTeHVubWpXeEdnbmxrVG91OVZVZGJST0lINktYQ1E5VEpPaHZNVmZyQkhVVFpoaHoxbDUtcU1Bajd1eG8tOVoyYzE0UGhpUWtIYV9IYXg5Ump0YjlmLWh1Z1pTbkpNMUZ0ZFNYSUx1ZGUyWV9LbktOMmJ1c2tfbUZuNlpYSTRMdm9LelBLd3ZIUFI2V1BSYjJiOTlKQU85MkYzck9sRjRaS1NXRnpPaTVxQVVWd3k1aWN0SldWQzFZT01uWnlLcGFBU1JiZnR1RC13Qng4TU92OHFENVlNWmY5Y09STW51UQ?oc=5",
+      "published": "2026-11-17T07:00:00Z",
+      "added": "2026-11-17T07:43:28Z",
+      "orig": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "w-vault-1117",
+      "title": "Miami's Club Space gets a first look as Leonida's 'The Vault'; the bass is in character",
+      "source": "EDMTunes",
+      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOMHhLNldjR0FjTWZxUDRHWkhFM0FncmlMTzhZNTJ3cWp3dm9aZFRZMWR4X1pmSDNFVWZOSzBUc0pLRHhfRkpKUEVBeHo5WTRKTzZOU201aGRSbDFHdFBQeUl0XzBlUkFnME51MVF1Q3VodThJaFpOVnhVN0ZnaXBqMmFXM1JJUXJCR0d2dkFsaTRGbzY1MTh5Mg?oc=5",
+      "published": "2026-11-17T06:24:13Z",
+      "added": "2026-11-17T07:43:28Z",
+      "orig": "Our First Look at Miami’s Club Space as GTA VI’s “The Vault”",
+      "news": 4,
+      "humor": 6
+    },
+    {
+      "id": "w-doctor-1117",
+      "title": "Xbox issues a doctor's note for an 'undefined gaming session'; Leonida goes unmentioned",
+      "source": "IGN",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzZqMjVCYXR5dDRDSkd3LUk2OUdIOE9HZjhCSmdWa0tobEVVX1NmZzlIS1FWeWpjUFk2Sk1qY1ZNaGFsSXAteG1sMk1vS2NBSElOOGJZZmdSZ3VoTGxMNmVJZF95dHZjLURheEd5OVRLajZYVXp4UGFIckVwYlZya1VCMThRRHd6Qnl4aEMxdGVBRDJQWUJGZXpZZktBbzZNdDRnVnlzWDA5NGFaV1ZKZzl2WGgyenh4ZmFhbGFvYWJ2N2NsZFRGQXBiYl9MUQ?oc=5",
+      "published": "2026-11-17T06:19:54Z",
+      "added": "2026-11-17T07:43:28Z",
+      "orig": "Xbox Offers Doctor’s Note for Undefined Gaming Session Definitely Not Linked to GTA 6",
+      "news": 4,
+      "humor": 7
+    },
+    {
+      "id": "w-speed-1117",
+      "title": "IShowSpeed to live-play Leonida before the U.S. gets it; viewers brace for screaming",
+      "source": "Complex",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdUQ1NTk3aEQzMnh0czN4Y1FLQ0Fra2FlRzMzdGMtc0JfYlA1WjBFaWtvOGpYbVpKLTY3NXBGWUVaS2U3SS1VMjhBdDRYQ01kVE1kdm1NV21zTmFCT2ZhXzJsTmhtb2tnalRUbV9BcWRaMVg3R2hjQ19fa253RndGNlRIX0h4Ni1ueUtydzJ2aDc3RzdfZDNUR0xDT1NyWFoz?oc=5",
+      "published": "2026-11-17T04:15:24Z",
+      "added": "2026-11-17T07:43:28Z",
+      "orig": "IShowSpeed Will Be Live-Playing 'GTA VI' Before Its U.S. Release",
+      "news": 4,
+      "humor": 6
     },
     {
       "id": "ps5-korea-shelves",
@@ -35,50 +90,6 @@
       "humor": 6
     },
     {
-      "id": "rob-run-steam-500k",
-      "title": "Free heist game Rob Run pulls 500,000 Steam players while Leonida Online stays shut",
-      "source": "iXBT.games",
-      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2RFcjlIM1ZqVEhGcUdqaE1Mc3EzcU1mdldlS19SY1JzRTMyMms2eGdLc1A0VmV2azh1RE5OMUVnelo5VUNScW9Jcll3dHR0VV9zc0pjNDFZbTNfZFB4S1M0UG9KWDdHRzZGOHpZSmxvejc4S0d0THRPQjRlN200bWdOdHdrS0o3NFpqLWtxMmJuQzZfQ0FfRmp2NVkyU0ZtRWxidGZzNGl5Y19FWUNaMEE0ZU1fNDZoSXV1SnljMzFqdExSUlFV0gHMAUFVX3lxTE05V2g4Z1k4aDdrY2tVR19Xd0FVV0RiZlVxcGdQOFNPakpVbTNMdk51Z18tTm1PTGFzLUF0b1hNRHU4ajRuLVcxM05YVmU2TllTYmZ0S1ExeENaSkZZUTZwNml6MnFMX0dfQ050eVpIcUFTa0R3TkFHRjE1eVVvWHRBWkpTR1dkOVJ3dGcwQVRVQ0ZjcDJKRlM5bGZLd2NNVG55NUJhLWNoYzA1MGxqUnBKMGkxWVE3VlJrajhBa2NlQlktZnJMSWpLdTFWMw?oc=5",
-      "published": "2026-11-17T04:04:00Z",
-      "added": "2026-11-17T05:43:51Z",
-      "orig": "While everyone is waiting for GTA VI Online, the free-to-play Rob Run has gathered over 500,000 players on Steam",
-      "news": 3,
-      "humor": 5
-    },
-    {
-      "id": "vegas-graffiti-mansion",
-      "title": "Las Vegas Graffiti Mansion gets a Grand Theft Auto VI makeover; vandalism, now licensed",
-      "source": "FOX5 Vegas",
-      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOckNJREVMbjVLMzVoX3dUUVItUW5KMUJ5aGhrVWVEM0tJc3g2ZWFFbkE3bmZIMlFPTG4yWUp4dmdRSEE5eGs2VnlFUXVrUWxlYU5fbE5nWTZWdVJjYV9zZWlxTXZ1M3VoeGVwUEVxbWk0ZUpucEs3cnJkcWlfZkdYWm1jTEtJUW1BZkVmTG9uaUJidEVZVWNKRG43SERIRDQ?oc=5",
-      "published": "2026-11-17T03:32:00Z",
-      "added": "2026-11-17T04:43:34Z",
-      "orig": "Las Vegas Graffiti Mansion gets ‘Grand Theft Auto VI’ makeover",
-      "news": 3,
-      "humor": 6
-    },
-    {
-      "id": "lost-productivity-1b",
-      "title": "GTA 6 launch could cost US employers $1B in lost productivity; bosses brace",
-      "source": "FOX 2",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOaVJTcE11aXd5S2J4S2w4OGpxZ1JYRkd1bFNhNWZtS3Y4cTBTbW5nWks4cDNCZlhUdzAtbk5iQzNrSDFpV2s2UnVCWU1IYm4wQk9yNUNvUGt6NHJfM0J0MDZETnl2MjNNZnBoR1RuNm01a0Voa2tvUm5Pd1pHeHo1MjI4V3ZvcUJab0HSAY8BQVVfeXFMTXZRa0dxMlk0NGt0bklzR3NsTGpmblRTSjBuVFUwcjAzelBsSjVjTzJQVDFPdnJ1T0UyUmxqTG44MzhfNEhzUE5NbG1oX3FOUkJSR0U3d0dQU2R5bEJoS2xWMW0tbWxoZlZjZnRzeU1qTjdoaDFVRGNybUIzOTFmYS1LbWxhWWF6UVhKR1oyU00?oc=5",
-      "published": "2026-11-17T02:49:09Z",
-      "added": "2026-11-17T04:43:34Z",
-      "orig": "GTA 6 release could cost US $1B in lost productivity",
-      "news": 4,
-      "humor": 5
-    },
-    {
-      "id": "michigan-sick-day",
-      "title": "28,000 Michiganders projected to skip work Thursday; study says Leonida calls",
-      "source": "CBS News",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNQkJsLUxrYUUyWVdJNWVIVXVfdW9hY0Z2dm93cV82dVNmSkQwZkk5NUVnRUFOVHpmeDR2VXRaXzZiX0RqTHNnSWZDeFUwU3BKSkItUFRmTnJIaXlUNTgtRUw0LV9DenBldi1yeUdaNDBVdF94c3JXTzNpVDEzNmtrbDZxMkNIaXhYR3g4MG1LblRKZGM2U0RDRllySQ?oc=5",
-      "published": "2026-11-17T02:44:02Z",
-      "added": "2026-11-17T04:43:34Z",
-      "orig": "More than 28,000 Michiganders projected to take off work Thursday for GTA VI release, study shows",
-      "news": 4,
-      "humor": 6
-    },
-    {
       "id": "xcloud-1am-et",
       "title": "Xbox Cloud Gaming opens the doors to Vice City at 1am ET on Nov 19, not midnight",
       "source": "Forbes",
@@ -98,17 +109,6 @@
       "added": "2026-11-17T01:43:26Z",
       "orig": "Sensor Tower: GTA 6 pre-orders exceed $1.4bn, with 87% for the Ultimate Edition",
       "news": 8,
-      "humor": 6
-    },
-    {
-      "id": "prof-delays-exam",
-      "title": "College professor delays exam so students can survive GTA 6 launch; dean not consulted",
-      "source": "Men's Journal",
-      "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWExvczBFTlhUUURyUjRCU3dMXzlWUjJ0Sm1VWmJvZkY4X1R4OTJJOHUyTHJjWDZZUW5NOG5zTHBCZ3p6ZWpQczk3a0lxUmttdDJaaWJIWGMzYVE3dUZHb2lfN0hvM2hGdUNyOWtrbEF0cmxKdERjWUxfdFpsSmEweTFIT0o1UXFzUEN0N2ozZ05XemlYVUZud0ZudXZhN1o3T09fZnNWTTRvcUx3WWt4RC0xUGVLakVzblI1VjFn?oc=5",
-      "published": "2026-11-17T00:24:00Z",
-      "added": "2026-11-17T04:43:34Z",
-      "orig": "College Professor Gracefully Delays Exam and Assignments Ahead of ‘GTA 6’ Release",
-      "news": 3,
       "humor": 6
     },
     {
