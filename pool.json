@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-17T12:43:37Z",
+  "updatedAt": "2026-11-17T13:43:47Z",
   "items": [
     {
       "id": "leonida-62-bird-types",
@@ -35,6 +35,17 @@
       "humor": 6
     },
     {
+      "id": "uk-ico-scam-warning",
+      "title": "UK data watchdog warns of fake GTA VI offers; Leonida's welcome mat has a trapdoor",
+      "source": "Infosecurity Magazine",
+      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZMDg5clFrQ096THBhSEZlaTJoR1BYanZ2U1hHM3ducmpkWS0walFkSHhHTmN4TzhGTW42TGZ5TTJ4bGFwcGdXa1g2WFJ0Mjlibm9WbVBqc0VQTmc5bDhRSnZkSUU2aVBfSHBNLUdBQWtPdF9WNVJONF9nR0h2U1U?oc=5",
+      "published": "2026-11-17T10:15:00Z",
+      "added": "2026-11-17T13:43:47Z",
+      "orig": "ICO Issues GTA 6 Scam Warning as Release Date Nears",
+      "news": 5,
+      "humor": 6
+    },
+    {
       "id": "zelnick-preorders-top",
       "title": "Zelnick: Leonida pre-orders beat expectations; the boss is allowed to smile now",
       "source": "NeoTeo",
@@ -66,17 +77,6 @@
       "orig": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
       "news": 5,
       "humor": 6
-    },
-    {
-      "id": "w-doctor-1117",
-      "title": "Xbox issues a doctor's note for an 'undefined gaming session'; Leonida goes unmentioned",
-      "source": "IGN",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQbzZqMjVCYXR5dDRDSkd3LUk2OUdIOE9HZjhCSmdWa0tobEVVX1NmZzlIS1FWeWpjUFk2Sk1qY1ZNaGFsSXAteG1sMk1vS2NBSElOOGJZZmdSZ3VoTGxMNmVJZF95dHZjLURheEd5OVRLajZYVXp4UGFIckVwYlZya1VCMThRRHd6Qnl4aEMxdGVBRDJQWUJGZXpZZktBbzZNdDRnVnlzWDA5NGFaV1ZKZzl2WGgyenh4ZmFhbGFvYWJ2N2NsZFRGQXBiYl9MUQ?oc=5",
-      "published": "2026-11-17T06:19:54Z",
-      "added": "2026-11-17T07:43:28Z",
-      "orig": "Xbox Offers Doctor’s Note for Undefined Gaming Session Definitely Not Linked to GTA 6",
-      "news": 4,
-      "humor": 7
     },
     {
       "id": "preorders-15m",
