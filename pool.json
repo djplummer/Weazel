@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-17T04:43:34Z",
+  "updatedAt": "2026-11-17T05:43:51Z",
   "items": [
+    {
+      "id": "miami-embraces-vice-city",
+      "title": "Miami embraces its Vice City alter ego; the neon never needed a permit",
+      "source": "AP News",
+      "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPZTZNZjcxV3ZsNm5nVzF5alYyWlBXUzBZUFFkZDBodFNONl9mekE3TVB4RUV0aVQ0MGI4SWpXVTNfTll3Q0lTNnJSNUw2V3pnM0xYNXVjMXB3OUV5aVUwMzRNM25KWDRod2JyczljMV9IeDFNLTBoTXVWS0JvV3haYjFHTVd4U2tNYjRXeGxYbDBMc1NsdHhqQ3FWR3ZTeXlnQzk1NE5pRXlzUWp2djFzLWZIMTRNWGNFX0QzdWxVTlJpQTVwN2FCRnlRcw?oc=5",
+      "published": "2026-11-17T05:11:00Z",
+      "added": "2026-11-17T05:43:51Z",
+      "orig": "Miami embraces its Vice City alter ego, seizing buzz around ‘GTA VI’ release",
+      "news": 3,
+      "humor": 5
+    },
     {
       "id": "ps5-korea-shelves",
       "title": "Korea runs out of PlayStation 5s as GTA VI fever grips the peninsula",
@@ -22,6 +33,17 @@
       "orig": "GTA 6 Preorders Near 15 Million Copies, Sales Value Hits NT$48 Billion as Take-Two Stock Rallies Ahead of Launch",
       "news": 5,
       "humor": 6
+    },
+    {
+      "id": "rob-run-steam-500k",
+      "title": "Free heist game Rob Run pulls 500,000 Steam players while Leonida Online stays shut",
+      "source": "iXBT.games",
+      "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNc2RFcjlIM1ZqVEhGcUdqaE1Mc3EzcU1mdldlS19SY1JzRTMyMms2eGdLc1A0VmV2azh1RE5OMUVnelo5VUNScW9Jcll3dHR0VV9zc0pjNDFZbTNfZFB4S1M0UG9KWDdHRzZGOHpZSmxvejc4S0d0THRPQjRlN200bWdOdHdrS0o3NFpqLWtxMmJuQzZfQ0FfRmp2NVkyU0ZtRWxidGZzNGl5Y19FWUNaMEE0ZU1fNDZoSXV1SnljMzFqdExSUlFV0gHMAUFVX3lxTE05V2g4Z1k4aDdrY2tVR19Xd0FVV0RiZlVxcGdQOFNPakpVbTNMdk51Z18tTm1PTGFzLUF0b1hNRHU4ajRuLVcxM05YVmU2TllTYmZ0S1ExeENaSkZZUTZwNml6MnFMX0dfQ050eVpIcUFTa0R3TkFHRjE1eVVvWHRBWkpTR1dkOVJ3dGcwQVRVQ0ZjcDJKRlM5bGZLd2NNVG55NUJhLWNoYzA1MGxqUnBKMGkxWVE3VlJrajhBa2NlQlktZnJMSWpLdTFWMw?oc=5",
+      "published": "2026-11-17T04:04:00Z",
+      "added": "2026-11-17T05:43:51Z",
+      "orig": "While everyone is waiting for GTA VI Online, the free-to-play Rob Run has gathered over 500,000 players on Steam",
+      "news": 3,
+      "humor": 5
     },
     {
       "id": "vegas-graffiti-mansion",
@@ -55,17 +77,6 @@
       "orig": "More than 28,000 Michiganders projected to take off work Thursday for GTA VI release, study shows",
       "news": 4,
       "humor": 6
-    },
-    {
-      "id": "heat-vice-city-night",
-      "title": "Heat turn the arena into Vice City for Bucks showdown; hometown advantage is neon",
-      "source": "NBC 6 South Florida",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNUW5RdExmbzktaTYzaHFnWnhQUDRuZlZWZGxuTEI4MnlNVzFRaENweFFZeWhxRDVpVFdsb0pRQkx4c3p3aGNwd0N1U1hWYTZFdFl5ejlOb2FtRDQtMU56TXJQSUNFMWptQTlpWUgzb1pGYWdmYlJmRUt0NlpYdmxZcUJEVDHSAYwBQVVfeXFMTUxBQ21QMkk1eFFJSEEzaHo5eDctd09jazh6YTRoT0NTaFFGZ2dsQ29WZ1l6M0tPYUtFNENlRWFYNEpNamFvTXgzdElmWTdfd3BTcWhqRm9KMndlekdIclNmR3YxVjcxdDNvZWNnUXVQYVN1U2dqdXNQRldVX1ZiUHRNbEpuM09pYVE5RGo?oc=5",
-      "published": "2026-11-17T01:18:36Z",
-      "added": "2026-11-17T04:43:34Z",
-      "orig": "VICE CITY NIGHT: Miami Heat bring GTA 6 to life for epic showdown against the Bucks",
-      "news": 3,
-      "humor": 5
     },
     {
       "id": "xcloud-1am-et",
@@ -110,17 +121,6 @@
       "orig": "GTA 6's 'Unpredictable' Microclimate Revealed by The Weather Channel, with New PS5 Screenshots",
       "news": 9,
       "humor": 7
-    },
-    {
-      "id": "abc11-merch",
-      "title": "New GTA VI merchandise drops ahead of launch; wallets brace for impact",
-      "source": "ABC11 News",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOdEE3UFJscGpRakhnVWZ5SkpjREMwNkk5Z2RlSVdmRzFSaU1QY1VVZEJSNGNFLUxOMDlsYkQwdko2ZHQ3OXppSE8teW1nT2tMYVBpQW5WVGFFNVZDaFJ1MG0ybzRXdzFrMHZpTnd6VE14ZFZVR1JyQ3Rpd2pvQ1hUR1hzUnJ5OG1tOGp1YTdodFRGMWxFMmhRddIBngFBVV95cUxQa1F4N09CeHFWU21FSlltNVRKYTBfWFAyc3RQaU1LOXhxbG1IT3lOZklTa2x5WVljeXhENjBpT29GUG1qOEJ4cWhPRnVkZFVHSjZucXc1WDVYZEpmUnhBUHRET25MdWxzSWdlQmwzYXFvc2JUaG9ucG5LdVVJdTRpSE51M3RGclFmM2tuRG03dklxSkxIV3FJbGphekNxZw?oc=5",
-      "published": "2026-11-16T22:40:34Z",
-      "added": "2026-11-17T04:43:34Z",
-      "orig": "Grand Theft Auto 6: New GTA VI merchandise drops ahead of launch",
-      "news": 3,
-      "humor": 5
     },
     {
       "id": "discord-vice-city-theme",
