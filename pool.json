@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-17T15:43:36Z",
+  "updatedAt": "2026-11-17T16:43:47Z",
   "items": [
+    {
+      "id": "firaxis-layoffs",
+      "title": "Take-Two lays off Firaxis staff on the eve of Leonida; not everyone gets an invite",
+      "source": "Game Developer",
+      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFRCbUVieWgxNFcwMzloNDdsNWI3a3AxRVNheWVQODhYM1RqUjFMeFVkSG9DRTJKc3hPT1ZTXzFFVWxQcGE1ZVhvQVY2Xy1NUDg1T0RSeUhQTGxtNUliY3FXZEZTVlJJd3BsNVY4ZVZhbm1PNDlnbjFTR2ZnRmxzU0JWSFBUR2xYdnpYSDZ1VElqMkt4cmx4d2hWVENFbTUzbDlMV0s2Y3RFakhtYlI0cQ?oc=5",
+      "published": "2026-11-17T16:21:41Z",
+      "added": "2026-11-17T16:43:47Z",
+      "orig": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch",
+      "news": 6,
+      "humor": 5
+    },
+    {
+      "id": "smoovplay-120fps",
+      "title": "Free SmoovPlay tool reportedly lifts Leonida past 30 fps, but controls still feel like 30",
+      "source": "Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9QNk0xcFNlX2Ffc0lVbExySXhfcFY2SGFCOEl5Y05uRVFCZW5pTjlaQjJGN0dzbTNQRUYwNHN0dlFYUFY1dXU1bDFuOVc1V0FtRm03SkNORlYtMWN6T2FRR1JPYnEwSTFWcW4wNzlsY0p0aDJWeUstSmFhb9IBgAFBVV95cUxPblg0ZE9yOXduQl80Y2xtWmVLYWJuVFRHb1lpVUZNLXR1UGxkNlQ0NUZ4dEJaSURXTGowT0FSdFhOc1VNMUZZT3dhblVyazZfOHhpcG14NFpycmxTZEkxVnJjaXpncl9ESC12X2pLb2x5NlluamFRVGp4bnZvZGoyMQ?oc=5",
+      "published": "2026-11-17T16:10:26Z",
+      "added": "2026-11-17T16:43:47Z",
+      "orig": "Grand Theft Auto VI’s 30 FPS Console Cap Could Reach 120 FPS via Free SmoovPlay Tool, but Controls Still Respond Like 30 FPS",
+      "news": 5,
+      "humor": 6
+    },
+    {
+      "id": "miami-police-chiefs",
+      "title": "Police chiefs call Miami's Leonida cash-in 'a bad look'; the fictional cops stay out of it",
+      "source": "The Times",
+      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNV0NWN1pnZnhxQzNRQ2pyQ3hHUy1GVkEtTmQtMDA5OE1ybHBnNjdmTV9HWW55eWc2NkRMX01KZ0pZU0prRnliVWFFRWlJQV83OUdFWV9lbWRKOE1acVVWb29QTHg3VEtyUXZuZWVvM1YySU1rb0VwNzd3NktMVWNFdU9UVUx5Qmk4RnFCZW9WY1RPOHBPS1pPZnY0Wk14NkhiMVZkYWhWQQ?oc=5",
+      "published": "2026-11-17T15:54:11Z",
+      "added": "2026-11-17T16:43:47Z",
+      "orig": "‘It’s a bad look’: police chiefs’ fury as Miami cashes in on Grand Theft Auto VI",
+      "news": 5,
+      "humor": 6
+    },
     {
       "id": "preorders-near-16m",
       "title": "Pre-orders reportedly near 16 million and $1.5bn; Leonida's tills sing",
@@ -11,39 +44,6 @@
       "orig": "GTA 6 pre-orders almost hit 16 million - and exceed $1.5 billion revenue",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "miami-blitz-rankles",
-      "title": "Real Miami residents sour on Vice City blitz; the fictional one is quieter",
-      "source": "Bloomberg",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXdQbnB0VGJOS0dKRmxsOWNVNWZFY2ZHTjl2cmxzU3hyM1ExYzZ1VVZsMmNWV3ZZYnhzQ3RIS0dCM2hZWGlsMlZxZEY4Ty1XY01NRTJ0VlgycG1EZ0IwSmNfeFBJcENZVjhIWW1MRWNKNTEwa25TbmJ2LVloRG1wb1lpcTVsaHNuXzBMWldSeGJ2ZzZITXVmR2hoQU9tTndpcHAtQXBrWlJRVXRndUpENE9LWmItN0hPSVE?oc=5",
-      "published": "2026-11-17T15:00:01Z",
-      "added": "2026-11-17T15:43:36Z",
-      "orig": "Grand Theft Auto's 'Vice City' Blitz Rankles Some Residents of the Real Miami",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "gta-6-goty-eligible",
-      "title": "Leonida can be nominated for Game of the Year before a single player gets in",
-      "source": "Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNYXNzcWhnZzdKMjFNUzV2SUpDSlo2U3hXcjRuV1J2VlFia01lYkMtaTRHQThFRzRPc29ZbGRhMVpGNHJWaEkyVEdiak5tNjUzY1llVXM2blFXQ3gzRUpRMFdweGVhVnROZ1RJeTNEdDdITmotUTBWNWo0cUFLUXNOc1dzMG4?oc=5",
-      "published": "2026-11-17T13:00:02Z",
-      "added": "2026-11-17T14:43:32Z",
-      "orig": "GTA 6 Can Be Nominated For Game Of The Year Two Days Before Anyone Is Allowed To Play It",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "leonida-62-bird-types",
-      "title": "Leonida confirmed with 62 bird types; ornithologists reach for binoculars",
-      "source": "Insider Gaming",
-      "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOblJDQktqdE1xQnpWekNsWU1hZTAtT2pKY3JkMVp2RHlRQms5al83M2IwTTM3akdWMmVJa2s0ZTRpRWdDUzVTNENYRlUwRTJlRkZMa0c4aWJ5dTBaN0paenVZR3ZORkc4QzcxRUlEMkdIXzBJUW5XakNHMndiZG5EUA?oc=5",
-      "published": "2026-11-17T12:29:15Z",
-      "added": "2026-11-17T12:43:37Z",
-      "orig": "GTA 6 Has 62 Bird Types, Confirms Rockstar Games",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "rivals-pause-launches",
