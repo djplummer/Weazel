@@ -1,15 +1,48 @@
 {
-  "updatedAt": "2026-11-18T10:43:12Z",
+  "updatedAt": "2026-11-18T11:43:13Z",
   "items": [
     {
-      "id": "age-check-spike",
-      "title": "GTA VI could trigger 'biggest age-check spike in history'; Leonida wants ID at the door",
-      "source": "Advanced Television",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPLU9rYVRGR1dMdGotSHVkUXdSUFJGV1hfMXhoUzVQY2dIdE5VM2JXS3JoemJMQmRnYVJVRjdvaEhmYkhIdlBIclppOVNPQ21iUlhvbDZQMkhuUVp0WHU1TjVhek93cXdXNlRkc2VBN2VxSUVTdHRlQ2k2aXJfS0JVeHlqRnYwNzg1WnkwTDg1WVBodndETUMxQ2Ryck0xNF83cEhpRg?oc=5",
-      "published": "2026-11-18T10:37:58Z",
-      "added": "2026-11-18T10:43:12Z",
-      "orig": "GTA 6 could trigger “biggest age-check spike in history”",
-      "news": 5,
+      "id": "gamingbible-highest-rated",
+      "title": "Critics' 10s pour in; GAMINGbible calls Leonida the highest rated game of all time",
+      "source": "GAMINGbible",
+      "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOczdvd3JMcFZFTl82X191SnVZZ1pVOVJITU5UeVdFV1NoMzBCYmcwaFFyOFg0VHhrX0R4NzRHekVVRng4aGt6RjNtaVN1Tl9IU3ZsdlBkQzZmY3psU1NHTlFJQjluaUdqMVlZQWhCN0MwSVI1YXUzZlVyb21HN3JzOThza3FrVGliWnZRaEFXZlNjVEFaWjdJS0ltX2FnUVk?oc=5",
+      "published": "2026-11-18T11:30:00Z",
+      "added": "2026-11-18T11:43:13Z",
+      "orig": "GTA 6 is the highest rated game of all-time, as endless 10/10 reviews pour in",
+      "news": 8,
+      "humor": 5
+    },
+    {
+      "id": "wccftech-series-s-fsr4",
+      "title": "Series S gets FSR 4 upscaling, 720p to 1080p; the little console sweats",
+      "source": "Wccftech",
+      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQi1BVEtydjBCRVRaNGZSdnFFNGZyUWhEa3ZicUxVcUlfRzVTNWVDckRyQWhGN3kxRFR1NnpKTnVLVEtNWjY3Q1pMX2lCTFZwSm96RmRLMjBaaHh5Q1pEYmVHQUNPaG9sNXpsU0tFUXhtei1fUFIta3IzZWJkZHFsTEpEd9IBiAFBVV95cUxPOG90UDNsMEJ0YUxKQ0VYMVF6eXNNcHduUE1VNnV3NWRxQkE1RU9nVFNZSFE3dkRhYW5RbVgzeGt0clF5Sl8yaGVGa0x6clhTY2plN2VqZDMwNWhkWUlZenNYOVBHajl1U2UzcjVlNHpHZ0JVYVZiSGVKR1AydXVCSGlMdFZWZVQ0?oc=5",
+      "published": "2026-11-18T11:20:19Z",
+      "added": "2026-11-18T11:43:13Z",
+      "orig": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
+      "news": 6,
+      "humor": 5
+    },
+    {
+      "id": "reuters-global-rollout",
+      "title": "Reuters: Vice City opens its doors as the global rollout begins",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcVVqRHRmV1VIanMwYjl6bHB4R0FTSWZOVFY5RXVYSmtaOVZQMVhXNkoxVjM1NF9ZUUZYa2hneUMxeTBzRC1WTFJQZVJBOTAweVhHOFhfZFJIVmt6cTdHMGxwYnFDUjZaYUZJVGlvV2dOVGFvVWVDY3FaX2VHQWZ4dlhlRGxQdDhETVN5aFA0OG9hOVVHMFBYbHFESkxEY0ZPeUV0a0U3LTFvZFRnWk9oQkhwdTVSbmdGQUZHSk02UzE?oc=5",
+      "published": "2026-11-18T11:11:04Z",
+      "added": "2026-11-18T11:43:13Z",
+      "orig": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
+      "news": 7,
+      "humor": 4
+    },
+    {
+      "id": "ign-review-most-impressive",
+      "title": "Leonida earns a rave from IGN: 'one of the most impressive games ever made'",
+      "source": "IGN",
+      "link": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5XNU1mSGtLTlgxeU5kcnRBMHRxUnRVRzZoVHhZbjVaTnE0QWRpald5bDI4LWE0M2hBQ090cFRKM0xhSTNrcWNBSXd4bEZYZU82NWg5bkZLUXZmX2VjQXlsWjVnY2dhUQ?oc=5",
+      "published": "2026-11-18T11:00:00Z",
+      "added": "2026-11-18T11:43:13Z",
+      "orig": "GTA 6 Review: One of The Most Impressive Games Ever Made",
+      "news": 8,
       "humor": 6
     },
     {
@@ -112,28 +145,6 @@
       "humor": 5
     },
     {
-      "id": "miami-residents-rankled",
-      "title": "Vice City blitz rankles some real Miami residents; fiction moves in uninvited",
-      "source": "Bloomberg.com",
-      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXdQbnB0VGJOS0dKRmxsOWNVNWZFY2ZHTjl2cmxzU3hyM1ExYzZ1VVZsMmNWV3ZZYnhzQ3RIS0dCM2hZWGlsMlZxZEY4Ty1XY01NRTJ0VlgycG1EZ0IwSmNfeFBJcENZVjhIWW1MRWNKNTEwa25TbmJ2LVloRG1wb1lpcTVsaHNuXzBMWldSeGJ2ZzZITXVmR2hoQU9tTndpcHAtQXBrWlJRVXRndUpENE9LWmItN0hPSVE?oc=5",
-      "published": "2026-11-17T15:00:01Z",
-      "added": "2026-11-18T02:44:23Z",
-      "orig": "Grand Theft Auto’s ‘Vice City’ Blitz Rankles Some Residents of the Real Miami",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "rivals-pause-launches",
-      "title": "Rival developers pause launches as GTA VI fever peaks; nobody wants to share the lot",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMnQ3dVJtZ3RJOWhnMzNyQlpJTVlmZ3VTc2VLOUVUcTh0WWRUVzVXbThGUVM4THEyNHdxS3ZkckZwM1B0ZktiQXFFRUhJbjBiN1BLSVBlMEVkR29taVJkdjNGSm9qamxVN2NlaThSZUhwQi1MNEphcDR4VHJ2ZWVlQUw5OVBMU2NrOGwybzhJY0Zmc3VHRy13?oc=5",
-      "published": "2026-11-17T11:33:38Z",
-      "added": "2026-11-17T12:43:37Z",
-      "orig": "As 'GTA VI' fever peaks, rival developers are pausing games launches",
-      "news": 5,
-      "humor": 6
-    },
-    {
       "id": "gta6-tops-every-ps-store",
       "title": "GTA VI tops every PlayStation Store chart two days out; Leonida needs no introduction",
       "source": "OpenCritic",
@@ -142,17 +153,6 @@
       "added": "2026-11-17T11:43:52Z",
       "orig": "With 2 Days To Go, GTA 6 Is Now The Best-Selling Game In Every PlayStation Store",
       "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "uk-ico-scam-warning",
-      "title": "UK data watchdog warns of fake GTA VI offers; Leonida's welcome mat has a trapdoor",
-      "source": "Infosecurity Magazine",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZMDg5clFrQ096THBhSEZlaTJoR1BYanZ2U1hHM3ducmpkWS0walFkSHhHTmN4TzhGTW42TGZ5TTJ4bGFwcGdXa1g2WFJ0Mjlibm9WbVBqc0VQTmc5bDhRSnZkSUU2aVBfSHBNLUdBQWtPdF9WNVJONF9nR0h2U1U?oc=5",
-      "published": "2026-11-17T10:15:00Z",
-      "added": "2026-11-17T13:43:47Z",
-      "orig": "ICO Issues GTA 6 Scam Warning as Release Date Nears",
-      "news": 5,
       "humor": 6
     },
     {
