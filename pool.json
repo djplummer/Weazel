@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T16:44:11Z",
+  "updatedAt": "2026-11-18T17:43:30Z",
   "items": [
     {
       "id": "forbes-17bn",
@@ -33,6 +33,17 @@
       "orig": "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
       "news": 6,
       "humor": 7
+    },
+    {
+      "id": "tt-ceo-screen",
+      "title": "Take-Two CEO addresses GTA screen adaptations; Hollywood waits by the phone",
+      "source": "Deadline",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUV4Y01KTDc3YUF3NDg1cUxJNGVCV0Z3TTRLZHNQVzUycElrQ3lvcGNNc2d4RElnSU1wUmdmamhmWk15dTJ4aklVRVZkZ3JzWEpYQkZxem42NV9ORHg5SGNhd05nLTB5c21EYko0ekh6LVhTbjhiSEhCSlZFOXFuRGFib0dHWE4y?oc=5",
+      "published": "2026-11-18T15:10:00Z",
+      "added": "2026-11-18T17:43:30Z",
+      "orig": "'Grand Theft Auto VI': Take Two CEO On TV & Film Adaptation Chances - Deadline",
+      "news": 5,
+      "humor": 5
     },
     {
       "id": "twitch-24m",
@@ -649,17 +660,6 @@
       "orig": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "selfridges-cheetah",
-      "title": "Selfridges sells a real Grotti Cheetah for GBP 1 million and goes full merch mad",
-      "source": "T3",
-      "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNbzJZQ2ttaXF6aExsZ2dhcXlhbUdRcGtiZWF0VlR3NUxOOGtzZktFYUxKMHJKSUFxN1Z4WWYzRllSM2d6NWhYNVpPLTRNdzFNTjJ2ZlhiREM4ZGt4VlpxOEZiQVFnR2Y2QTdodE9VWDRWS1ZHMFlLa09DbmIyc2tDYVEwckVodGpDdVdwbHl5bkFRSW9BYkRFWm1pWnZlV2kxTUJ6eXlHa0Q1X3QxaGRBdmVvdF9TWC1xc0ZEV0RIRjV1cnc?oc=5",
-      "published": "2026-11-11T17:00:00Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "Selfridges goes GTA 6 merch mad – even selling a real-life Grotti Cheetah supercar for £1 million",
-      "news": 6,
-      "humor": 6
     }
   ]
 }
