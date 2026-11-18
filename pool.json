@@ -1,16 +1,38 @@
 {
-  "updatedAt": "2026-11-18T19:43:21Z",
+  "updatedAt": "2026-11-18T20:45:00Z",
   "items": [
     {
-      "id": "subscription-perks",
-      "title": "Players worry over Leonida's subscription perks; Vice City meets the monthly bill",
-      "source": "Polygon.com",
-      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZ0Z6cTNjSy1BVmIxcmVLZDhNNGhzS0VNSjl4WTRtOTE4OC0wMldDMFRINEZiYXl6bldkOVBPVzJ6b3htWVJzdHJqWk40VVo5YnFaNGJmS1lPdkVqNHdkMERwbk1zSmxFQWN5eUR2ZE1kXzFhZ3dhczhLMUVIa1dLb1pR?oc=5",
-      "published": "2026-11-18T18:20:58Z",
-      "added": "2026-11-18T19:43:21Z",
-      "orig": "GTA 6's Subscription-based Perks are Worrying Players",
+      "id": "ps-outage-launch-eve",
+      "title": "PlayStation hit by outage hours before launch; Leonida's welcome mat needs a reboot",
+      "source": "Axios",
+      "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zb2xPNUJXUVhsZ3VnZk9zcDBUaXN2QlRIWHY5bldCMkJidjBRVDAwenRIekhkX1o5dHcxYmVnZ2RFVFU4clVMNXhoZFVBTzdtTE1rbFRGYnJ5cHZNeFgwUzJpclpwQjl3TGZ0c3lxWQ?oc=5",
+      "published": "2026-11-18T19:59:38Z",
+      "added": "2026-11-18T20:45:00Z",
+      "orig": "PlayStation suffers major outage hours before \"GTA VI\" launch",
+      "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "miami-takeover",
+      "title": "Vice City's $3.9 million Miami takeover: the real city gets the cosplay treatment",
+      "source": "The Miami Hurricane",
+      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTlp4WFpRWElMR0tBRFIySlRlQ1RZWWczUWt1U3dqdER4VXJMbTgxUzNfMENBaExzVTNYYWEtclVwOFVQY3RkTGlsZGNFZENZYmJUdFNjZ3hOdmVhSm04S0FMV2hxR2JWVTlpaFpFUU5xMmI0bnRTMXBqYndHd3BWVnNPRV8xYzdKUFJ3VFZtdjZ5eGxFMll6Z1BnZENDdw?oc=5",
+      "published": "2026-11-18T19:53:27Z",
+      "added": "2026-11-18T20:45:00Z",
+      "orig": "Welcome to Vice City: GTA VI’s $3.9 million Miami takeover",
       "news": 5,
-      "humor": 5
+      "humor": 6
+    },
+    {
+      "id": "ceo-nonplayer-bet",
+      "title": "Take-Two's boss doesn't play video games, and is betting $1B on Leonida anyway",
+      "source": "Fortune",
+      "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNY1U5U2x4Vm9fS2xrOVNxOGZHSUtXeUdNMzY5RzZoaWJUbktQYzZjVUZVLUd5b243aEl5ZDJjVC0xYUlaNTVzSXNRd19Nc2VZdjFhVTdHeGtpYjlIdUZxM3FmaTd1N21GcWFRTjdqYU9DNmF2TGs1UWRtalhrd01mVU1QZTdoQWFwUWxmVnAwVWJuMmhOQkRlWURvVms0WmpTbGZPU1dDTi1EVnl0bGc?oc=5",
+      "published": "2026-11-18T19:01:00Z",
+      "added": "2026-11-18T20:45:00Z",
+      "orig": "The CEO behind GTA VI doesn’t play video games. He’s betting $1B on the decade’s biggest game launch",
+      "news": 5,
+      "humor": 7
     },
     {
       "id": "no-prostitutes",
@@ -22,17 +44,6 @@
       "orig": "Rockstar Explains Why GTA 6 Doesn’t Have Prostitutes",
       "news": 5,
       "humor": 6
-    },
-    {
-      "id": "devs-union-call",
-      "title": "Leonida's devs ask for union recognition as launch arrives; the real boss fight is HR",
-      "source": "Polygon.com",
-      "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFAwdDdyM1ppMzgyc1pHbXV3NWZQUGhWeWZwRkpOQzY2MVhRS1FVcjF6b1NNeWZjRnlEeWlicF9DYS0zdEhWQS10U2NveXJkU251a29BdlFkdXRVRnd2ZWhMVUFxUEp0OGpqR2c?oc=5",
-      "published": "2026-11-18T17:18:29Z",
-      "added": "2026-11-18T19:43:21Z",
-      "orig": "GTA 6 devs call for union recognition ahead of record-breaking release",
-      "news": 5,
-      "humor": 5
     },
     {
       "id": "forbes-17bn",
@@ -66,17 +77,6 @@
       "orig": "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
       "news": 6,
       "humor": 7
-    },
-    {
-      "id": "tt-ceo-screen",
-      "title": "Take-Two CEO addresses GTA screen adaptations; Hollywood waits by the phone",
-      "source": "Deadline",
-      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOeUV4Y01KTDc3YUF3NDg1cUxJNGVCV0Z3TTRLZHNQVzUycElrQ3lvcGNNc2d4RElnSU1wUmdmamhmWk15dTJ4aklVRVZkZ3JzWEpYQkZxem42NV9ORHg5SGNhd05nLTB5c21EYko0ekh6LVhTbjhiSEhCSlZFOXFuRGFib0dHWE4y?oc=5",
-      "published": "2026-11-18T15:10:00Z",
-      "added": "2026-11-18T17:43:30Z",
-      "orig": "'Grand Theft Auto VI': Take Two CEO On TV & Film Adaptation Chances - Deadline",
-      "news": 5,
-      "humor": 5
     },
     {
       "id": "twitch-24m",
