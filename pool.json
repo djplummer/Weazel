@@ -1,17 +1,6 @@
 {
-  "updatedAt": "2026-11-18T01:43:19Z",
+  "updatedAt": "2026-11-18T02:44:23Z",
   "items": [
-    {
-      "id": "travis-nike-af1-two-drops",
-      "title": "Travis Scott's GTA sneakers get two chances to buy, zero chances to relax",
-      "source": "WWD",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPS1gzWHVWUzdidWQyY294dFh5MzJLWXY5QUlnc19kVkVSVWFZSVRFbV8zUzY0MHpXV0dkV0xWY3hqNktvVWdvM2hRVDNwaWU5b1B2SnNXV2hQQU8zNzdCYlZPTFhDaW50NnlHNTFQZUNtY1hHV3dJZDg4R1JYREJqRlJzQ2NjUUNvMVkyMkp4bnBVb2JIb2VGZ3FoNndUUktXdUpHYjZ4Yw?oc=5",
-      "published": "2026-11-17T22:24:03Z",
-      "added": "2026-11-17T23:43:33Z",
-      "orig": "Travis Scott’s ‘GTA 6’ x Nike Air Force 1s Will Release With Two Different Chances to Purchase",
-      "news": 5,
-      "humor": 6
-    },
     {
       "id": "miami-heat-vice-city-court",
       "title": "Heat swap hardwood for Vice City neon; Bucks asked to keep up",
@@ -77,6 +66,17 @@
       "orig": "GTA 6 pre-orders almost hit 16 million - and exceed $1.5 billion revenue",
       "news": 6,
       "humor": 5
+    },
+    {
+      "id": "miami-residents-rankled",
+      "title": "Vice City blitz rankles some real Miami residents; fiction moves in uninvited",
+      "source": "Bloomberg.com",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNTXdQbnB0VGJOS0dKRmxsOWNVNWZFY2ZHTjl2cmxzU3hyM1ExYzZ1VVZsMmNWV3ZZYnhzQ3RIS0dCM2hZWGlsMlZxZEY4Ty1XY01NRTJ0VlgycG1EZ0IwSmNfeFBJcENZVjhIWW1MRWNKNTEwa25TbmJ2LVloRG1wb1lpcTVsaHNuXzBMWldSeGJ2ZzZITXVmR2hoQU9tTndpcHAtQXBrWlJRVXRndUpENE9LWmItN0hPSVE?oc=5",
+      "published": "2026-11-17T15:00:01Z",
+      "added": "2026-11-18T02:44:23Z",
+      "orig": "Grand Theft Auto’s ‘Vice City’ Blitz Rankles Some Residents of the Real Miami",
+      "news": 5,
+      "humor": 6
     },
     {
       "id": "rivals-pause-launches",
