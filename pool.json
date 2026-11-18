@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-18T21:44:07Z",
+  "updatedAt": "2026-11-18T22:43:14Z",
   "items": [
+    {
+      "id": "fed-telework-warning",
+      "title": "Feds warned: no teleworking for Leonida; the memo says what the water cooler won't",
+      "source": "Bloomberg",
+      "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQMV82aXkyNnJNRm54ZFdNR0k2NlFfZ3BaVWxVbUFHUzlXQ0VqaUp5YXhDTnpVdFpFVkl3R21RVlpfa0xJR0I3RkdEby1HaG1lcWg1UHVoRlg2TEM3bVN3eGlvYjBwd05GTWdQWlZ2eERXLWJkd0g0a1M5QklnYkJWV2U4ZGM3d2R6aDFNQjRqbVdCWF9pZVdKU0ZaeUVZNWRQZGN0cnlOVklxSGhLVWlHTUlqaw?oc=5",
+      "published": "2026-11-18T22:08:38Z",
+      "added": "2026-11-18T22:43:14Z",
+      "orig": "Federal Workers Warned Not to Telework for ‘Grand Theft Auto VI’",
+      "news": 5,
+      "humor": 7
+    },
+    {
+      "id": "weird-al-radio",
+      "title": "Weird Al is hosting a Leonida radio station; the airwaves get weirder",
+      "source": "Kotaku",
+      "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQcEtSM0t5dmxZRlhGUGxVOThVLXJMZkRYeF9uY2k2TmVncm1YY0Nod0NUSTFSYlBxUC1CTFVzVkxBRFFOMmJKXzE5aVUtdllRZWx0V2M1ei1lMUtWU20tTVhwNzFtaVlmby1hVERLb3R1RFhSMHBzOVV5SFo1UWRhY1RKRVpvU2RW?oc=5",
+      "published": "2026-11-18T22:00:01Z",
+      "added": "2026-11-18T22:43:14Z",
+      "orig": "Yes, That’s Weird Al Hosting A Radio Station In GTA 6",
+      "news": 5,
+      "humor": 7
+    },
     {
       "id": "wells-fargo-65m",
       "title": "Wells Fargo sees 65 million Leonida sales by March; analysts open the vault",
@@ -21,17 +43,6 @@
       "added": "2026-11-18T20:45:00Z",
       "orig": "PlayStation suffers major outage hours before \"GTA VI\" launch",
       "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "guardian-review",
-      "title": "Guardian: Leonida is gaming's most depraved world and also its greatest love story",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdk5OamxCekF2czVtazk5M2ZKYy1Bamg3TG9JOEU0YmdCRDdCUHVDdTlhWW9PZlVkUjg1SmY1T29jZnpIdk1qcnQ4RlN3bktfa1lBbENYMWNCaVhFbnhudnpVa09kSkRZdGFadnduQnFXM19zd0Y4VU9ZN2dVbVJBY2Q5b2JJUUhYUW1ZUEF0U2lSYUNQOU9vRUdXeFF3RHVX?oc=5",
-      "published": "2026-11-18T19:33:00Z",
-      "added": "2026-11-18T21:44:07Z",
-      "orig": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story - The Guardian",
-      "news": 5,
       "humor": 6
     },
     {
@@ -649,17 +660,6 @@
       "orig": "Rockstar workers vote on union recognition as GTA VI launch looms",
       "news": 7,
       "humor": 4
-    },
-    {
-      "id": "take-two-q2-miss",
-      "title": "Take-Two misses its own Q2 forecast, leaves Leonida to carry the year",
-      "source": "The Escapist",
-      "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQaUFUUEEtSlkxbld3S05aNXFIYXFWT1BSOHJYVEtoTE5haVJfMVUtRVJRYzlaWUcyWGdWUklHaEhCWjRod0QyS01BanFTSVA5TmlhR1dHNkRjN29FRUo2MHZwN2lZMkF6Z1NXZURObUpkMDFlWUh5aktPRzRlZlBDZHNoXzJFbzFoQWxRd1BSUGpqNXV0OG5OQmlSZ1ZZRVg2UHBzN3ZUbw?oc=5",
-      "published": "2026-11-12T08:33:00Z",
-      "added": "2026-11-12T10:44:17Z",
-      "orig": "Take-Two misses its own Q2 forecast and leaves GTA 6 to carry the year",
-      "news": 6,
-      "humor": 5
     }
   ]
 }
