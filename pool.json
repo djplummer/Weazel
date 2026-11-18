@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-18T20:45:00Z",
+  "updatedAt": "2026-11-18T21:44:07Z",
   "items": [
+    {
+      "id": "wells-fargo-65m",
+      "title": "Wells Fargo sees 65 million Leonida sales by March; analysts open the vault",
+      "source": "Benzinga",
+      "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQemNMOGpYNzZOMTNybmhmaUxvbUkwNWd6RlNKMWlJdWdhdVRVaC1Ka1g3UEQ1LXdpT0g0bml2a0R4WGp3QW1hU3NsdDJzUWpyS3V2VjFfaHd0Q3VfbVhIX1dnLXpydERKYml4THdsODhCX1ZlX1NJdy1PeHV5bEY5WVhjek4?oc=5",
+      "published": "2026-11-18T20:34:07Z",
+      "added": "2026-11-18T21:44:07Z",
+      "orig": "GTA 6 Is Out: Wells Fargo Sees 65M Sales By March - Take-Two Interactive (NASDAQ:TTWO) - Benzinga",
+      "news": 6,
+      "humor": 6
+    },
     {
       "id": "ps-outage-launch-eve",
       "title": "PlayStation hit by outage hours before launch; Leonida's welcome mat needs a reboot",
@@ -13,13 +24,13 @@
       "humor": 6
     },
     {
-      "id": "miami-takeover",
-      "title": "Vice City's $3.9 million Miami takeover: the real city gets the cosplay treatment",
-      "source": "The Miami Hurricane",
-      "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTlp4WFpRWElMR0tBRFIySlRlQ1RZWWczUWt1U3dqdER4VXJMbTgxUzNfMENBaExzVTNYYWEtclVwOFVQY3RkTGlsZGNFZENZYmJUdFNjZ3hOdmVhSm04S0FMV2hxR2JWVTlpaFpFUU5xMmI0bnRTMXBqYndHd3BWVnNPRV8xYzdKUFJ3VFZtdjZ5eGxFMll6Z1BnZENDdw?oc=5",
-      "published": "2026-11-18T19:53:27Z",
-      "added": "2026-11-18T20:45:00Z",
-      "orig": "Welcome to Vice City: GTA VI’s $3.9 million Miami takeover",
+      "id": "guardian-review",
+      "title": "Guardian: Leonida is gaming's most depraved world and also its greatest love story",
+      "source": "The Guardian",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQdk5OamxCekF2czVtazk5M2ZKYy1Bamg3TG9JOEU0YmdCRDdCUHVDdTlhWW9PZlVkUjg1SmY1T29jZnpIdk1qcnQ4RlN3bktfa1lBbENYMWNCaVhFbnhudnpVa09kSkRZdGFadnduQnFXM19zd0Y4VU9ZN2dVbVJBY2Q5b2JJUUhYUW1ZUEF0U2lSYUNQOU9vRUdXeFF3RHVX?oc=5",
+      "published": "2026-11-18T19:33:00Z",
+      "added": "2026-11-18T21:44:07Z",
+      "orig": "Grand Theft Auto VI review – gaming’s most depraved world is now also its greatest love story - The Guardian",
       "news": 5,
       "humor": 6
     },
@@ -33,17 +44,6 @@
       "orig": "The CEO behind GTA VI doesn’t play video games. He’s betting $1B on the decade’s biggest game launch",
       "news": 5,
       "humor": 7
-    },
-    {
-      "id": "no-prostitutes",
-      "title": "Rockstar explains why Leonida has no prostitutes; even Vice City has standards",
-      "source": "VICE",
-      "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XV3g1bVRiSGhyY3o3RmM1R2RBMG5BOGViRWtSRHppZ2o2N2U3ZHBCNlRFc3ExbTZxQlYxOXBETWNHOTh3c2Q0MW1yVlgxOVh3Q21ra095SjFZdzdQOGNHeDl4WWFjdE9ILW9YZ2VjcWxrT3l3ZHhr?oc=5",
-      "published": "2026-11-18T17:25:09Z",
-      "added": "2026-11-18T19:43:21Z",
-      "orig": "Rockstar Explains Why GTA 6 Doesn’t Have Prostitutes",
-      "news": 5,
-      "humor": 6
     },
     {
       "id": "forbes-17bn",
@@ -77,6 +77,17 @@
       "orig": "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
       "news": 6,
       "humor": 7
+    },
+    {
+      "id": "hackers-prison",
+      "title": "British hackers face prison over GTA 6 data breach and crypto thefts",
+      "source": "TechCrunch",
+      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTWo5REZBZlZsZjNhREs3WVN6TUlHRmgyZlpvMHVJcHBSYWVjV043dzNreHlPSG9VM2NManhWWmlTZmdqMFJRcHRJVFM0eHJCb1owYWhrMXZ5SmhJVVRaTlc0MnM3OEFqQldfdjhtZHdhdzF0bE9VLXh2R1JXQ1hBVlVNNVJpVlljM2FjOXl1c0I4amVKWUlIeUZGLWQwSVNXbUp0TQ?oc=5",
+      "published": "2026-11-18T14:55:13Z",
+      "added": "2026-11-18T21:44:07Z",
+      "orig": "British hackers face prison for GTA 6 data breach and crypto thefts - TechCrunch",
+      "news": 6,
+      "humor": 6
     },
     {
       "id": "twitch-24m",
@@ -142,17 +153,6 @@
       "added": "2026-11-18T11:43:13Z",
       "orig": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
       "news": 7,
-      "humor": 4
-    },
-    {
-      "id": "no-60fps-mode",
-      "title": "Leonida gets no 60 FPS mode, even on PS5 Pro: 'not powerful enough'",
-      "source": "Kotaku",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDM4WXU5eFRXaEpTMm0yRjAxNkxBUU9XTHRRVHVMdElnZURCcm5tRXo5ZmxFNEVnZEZfXzZiSV9xSk5HZFhqMjE2c1BETmtzX05qbURoWklpTjk4QjUwdUprUU5CUzlWYnV5cmRyN0swbVQwVHZEYkhEeXJ4WXBMV2NFTlpEc2djMDYyeDhXRTdGelNEWnZMNmQwRkktMHczeG1KeFV0cUJLZw?oc=5",
-      "published": "2026-11-18T11:10:48Z",
-      "added": "2026-11-18T18:43:14Z",
-      "orig": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’ - Kotaku",
-      "news": 6,
       "humor": 4
     },
     {
