@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-18T13:43:34Z",
+  "updatedAt": "2026-11-18T14:43:33Z",
   "items": [
+    {
+      "id": "twitch-24m",
+      "title": "Leonida draws 2.4 million Twitch viewers; everyone watching someone else steal cars",
+      "source": "Yahoo Finance",
+      "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOWDAyT3h4a3lCRU1JRmk1VmZpcThZTmZIT2lTOWJ6cnBsTEU4WW9qMWFjSnI2LTVLT1cwN2dHekdSdFRCZ08zd2ZMaEk5RFJXb0pHdWhVRUVwblluRVNqNXdRU2RabzI4ZER0VnNqcGE2MGxaOWhOdENRSDhHVVR4bFhmZy1EX0x5cjFv?oc=5",
+      "published": "2026-11-18T13:38:47Z",
+      "added": "2026-11-18T14:43:33Z",
+      "orig": "GTA 6 Draws Over 2.4M Twitch Viewers – TTWO Stock Jumps Pre-Market As Early Posts Indicate Rave Reviews",
+      "news": 6,
+      "humor": 6
+    },
     {
       "id": "take-two-stock-reviews",
       "title": "Take-Two stock jumps on rave reviews; Leonida's landlord finally gets a raise",
@@ -614,17 +625,6 @@
       "published": "2026-11-11T17:48:23Z",
       "added": "2026-11-11T18:43:33Z",
       "orig": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records",
-      "news": 6,
-      "humor": 5
-    },
-    {
-      "id": "festival-tickets",
-      "title": "Miami festival tickets on sale from $214, because fiction needs a venue",
-      "source": "El Paso Times",
-      "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOTnp3d09QR0NBN0lXYTFXLUFaMF82dzF3d293djFWaGw1al9Hb0t4MXVGajFhUk8tbUdCMUJ3UEtqRjBkRmdyLUtBeWVyOEIxaVJhd2ZORmRxRFJXS2o1Tm1uSlRSanFxM254NkpDWHhhS1lNQ3c5NVkyeUNONzBjSlBtVThBZXVlSUVZcXZ4SldTc1RJOGlpc2VIS0JLOEpfZm5IcU04MzNONU9XdzQ4UGFwelkzN2lYSEpKdk41SWN0MHFLZWFENE5TdGl6UHprQ2hiV01TUi13aG0yS19tRnVvaHpfQ0ZVNnNLRW4tUVk1UQ?oc=5",
-      "published": "2026-11-11T17:08:00Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA VI Festival tickets go on sale today, celebrate in Miami starting at $214",
       "news": 6,
       "humor": 5
     },
