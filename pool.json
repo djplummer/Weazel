@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-18T15:44:41Z",
+  "updatedAt": "2026-11-18T16:44:11Z",
   "items": [
+    {
+      "id": "forbes-17bn",
+      "title": "Vice City's pre-order tab nears $1.7 billion with one day to go",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQdW16Z2NzdVhEZG5FYk5BUmpPcWZ2bnFEYUJ1RHdWeE1XUzRoV3dpODVHZTROelBRdzRRUF9ONUlDb0ppelNMV2ViMDdjWlRmeUtnaHNlUm5ZZ1FKbEk2TURra3ZnMzV0WUFIeXhXajBhZGRqM0oxOG8zSk10R0ROekwxd0JGcC1KSzVpYWNsSWtFc2x6LU1GNWhCdFA1b0dPby1oOUNBUFUxSXlkOWtHcUYtZlRVelRjTm9ZTmRGbkFvd3JtMXNRMC1JZThJUQ?oc=5",
+      "published": "2026-11-18T16:26:00Z",
+      "added": "2026-11-18T16:44:11Z",
+      "orig": "‘GTA VI’ Nears $1.7 Billion In Pre-Order Sales—One Day Before Launch - Forbes",
+      "news": 7,
+      "humor": 5
+    },
+    {
+      "id": "comcast-record",
+      "title": "Comcast braces for record internet traffic as Leonida comes online",
+      "source": "Inc.com",
+      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalhzZTBsR2toekhaVlhwOXJjQXRHc3ROVW0xVzVFT25tRjAxX2FaR3VfRHFQemtBQnJJOWhIbkM3OTBhX2xvTHdlelY0QzlEQ2VWcUxMMk5leC1LMlA1N3RUdC1leDhCajMwZjJ2RDI1aDRnLWdoQkdTVDRJWWpIT0xHckZLRzV2QlZzVUR4TTl3YTlSTFNyS1JCazAyczdBRWN3c1RsVkR6LUY3dzVJZ3dn?oc=5",
+      "published": "2026-11-18T15:31:56Z",
+      "added": "2026-11-18T16:44:11Z",
+      "orig": "Grand Theft Auto 6 Is About to Test the Internet Like Never Before. Comcast Expects a New Record - Inc.com",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "sam-houser-statement",
       "title": "Sam Houser breaks his silence for launch; Rockstar boss speaks, universe checks calendar",
@@ -636,28 +658,6 @@
       "published": "2026-11-11T17:00:00Z",
       "added": "2026-11-11T18:43:33Z",
       "orig": "Selfridges goes GTA 6 merch mad – even selling a real-life Grotti Cheetah supercar for £1 million",
-      "news": 6,
-      "humor": 6
-    },
-    {
-      "id": "most-preordered",
-      "title": "Most pre-ordered game ever on PlayStation and Xbox stores, tills reportedly on fire",
-      "source": "WSVN",
-      "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB4SkZESUdGS2Nnbm1mZFMzZUpLMUxGSG5iMXo4VUJ3RnFIMDdaeHppUElkQUtfNlo2YXUyN2NOZWFJODg1aWpQclJ2QnpjUld6V2RBdWN0TjNwODBlbXRFeW8wOXhTUXM?oc=5",
-      "published": "2026-11-11T16:00:36Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "‘Grand Theft Auto VI’ becomes most pre-ordered game in PlayStation and Microsoft Store history",
-      "news": 8,
-      "humor": 5
-    },
-    {
-      "id": "zelnick-demand",
-      "title": "Demand 'extraordinary,' Take-Two boss declines to pop the champagne just yet",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPR3JKTVc5UXpVY0gzMHk0bW9POVRXV1lyOFdPcHhhWF8zUkJkc2FNMDU2Q2RUd3RWdUd1QXBueHc5Vm5yWU9IeW85WDZieFRpdVcwOFZseV9MaTZYTXl6YXRYZkhBaUxicF8ycDdzV0ZUZXlWbnlYQ29ucU5JRzZNc0lKUHdIdTMtZDRXVW5HZlBPV1dfNFNFQkhhbw?oc=5",
-      "published": "2026-11-11T16:00:06Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6 Demand Is 'Extraordinary,' but Take-Two CEO Isn't Ready to Declare Victory",
       "news": 6,
       "humor": 6
     }
