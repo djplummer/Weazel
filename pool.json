@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-18T14:43:33Z",
+  "updatedAt": "2026-11-18T15:44:41Z",
   "items": [
+    {
+      "id": "sam-houser-statement",
+      "title": "Sam Houser breaks his silence for launch; Rockstar boss speaks, universe checks calendar",
+      "source": "IGN Nordic",
+      "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOSnlHQldKdUhxTkdZMlhGRkY2TzlieU05eUtRWFp0cFpVQU1nR3VIYnhsVFI0LXNvVzFFbWhCYTdLeVlQRkpkRWR3aVhZNnFOaFVQeTdrczJ0TUJpRTQyZ3RlOHNOd3E0cHpqQjc5c3ozTVNyS3M5ODA4YlFQaXdRdUx3eTk3NjNEMGFUSUUtZnBBcFlSTUdlZ1ZPX2VEcGx3dThrZHlHMFdqVVhKYTdxeGRmdlpLZW8zSlVTbjlDSUJpRlp5bnc?oc=5",
+      "published": "2026-11-18T15:25:44Z",
+      "added": "2026-11-18T15:44:41Z",
+      "orig": "Rockstar President Sam Houser Issues Rare Statement to Celebrate GTA 6 Launch",
+      "news": 6,
+      "humor": 7
+    },
     {
       "id": "twitch-24m",
       "title": "Leonida draws 2.4 million Twitch viewers; everyone watching someone else steal cars",
@@ -22,17 +33,6 @@
       "orig": "GTA 6 Owner Take-Two's Stock Explodes After High Review Scores, But It's Still Down Massively This Year",
       "news": 7,
       "humor": 6
-    },
-    {
-      "id": "gta-plus-supercar",
-      "title": "GTA+ members get a free supercar and discounts; Leonida finally has a loyalty scheme",
-      "source": "GameSpot",
-      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTN0aGNxYm9EWklSV0lxNW5PUVNac014cEQtcGs2bjZSekNyM01MY3phQWFVbFp6TThnT3NvTHRqWUQxc1g1T211Vm1Gc3RVcVFHRWlETmJaMGNWVW8zVzE1VFBYYzdKVmd6X3REZnY5RE5rQTNJUXBBUTVzeW0yOTJ5b241cUFHWWU4b3FXUE1USGh6SFZRT0Y2VmRvZzJqVVY0?oc=5",
-      "published": "2026-11-18T12:28:40Z",
-      "added": "2026-11-18T13:43:34Z",
-      "orig": "GTA 6’s GTA+ Subscription Includes A Free Supercar, Discounts, And More",
-      "news": 6,
-      "humor": 5
     },
     {
       "id": "gamingbible-highest-rated",
