@@ -1,6 +1,39 @@
 {
-  "updatedAt": "2026-11-18T12:43:32Z",
+  "updatedAt": "2026-11-18T13:43:34Z",
   "items": [
+    {
+      "id": "take-two-stock-reviews",
+      "title": "Take-Two stock jumps on rave reviews; Leonida's landlord finally gets a raise",
+      "source": "GameSpot",
+      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdXdwb3hhWU9GYk5PZ2NJYlktazJwa1czMmk5Nm5VV0hHYW0zNUhUc202dmx5cDZHV091VzJpMGQzRkJtalFqYlJPaXBnV0ZVcGc1MmJXQVgtalJ4OXlZa1ZyWHY3WXdXSldxd3h4ck1pZWstUDRUZ2QxTnh5Zl9NNXV1MzlaRjVtamxxaFBETTRkRi1DXzNuY29oOGpXUVNTM2pwNm9Hdmxkb3hMSHNOR2tJTncxQnY2QWJUTkRMZml0d0E3elNEM1pGRTM2d3lR?oc=5",
+      "published": "2026-11-18T13:20:21Z",
+      "added": "2026-11-18T13:43:34Z",
+      "orig": "GTA 6 Owner Take-Two's Stock Explodes After High Review Scores, But It's Still Down Massively This Year",
+      "news": 7,
+      "humor": 6
+    },
+    {
+      "id": "nz-trick-xbox",
+      "title": "New Zealand clock trick works on Xbox; PS5 owners warned of a catch",
+      "source": "VICE",
+      "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE4yb2hrVll4TTNsaVBkZTEyUVBxc25QazJDVzZQMURWQXA5SG0wb0pmOFdLcnZGZEJKQ3JRZE8yQVgzNUo3ZWhZSl9iZmpibEsyMTBTaURhVGxVRWZpSzVTOV9McDVrRnJwNkFGeGhnYXZSRkk?oc=5",
+      "published": "2026-11-18T12:59:19Z",
+      "added": "2026-11-18T13:43:34Z",
+      "orig": "GTA 6 New Zealand Trick Works on Xbox – But There May Be a Catch On PS5",
+      "news": 6,
+      "humor": 5
+    },
+    {
+      "id": "gta-plus-supercar",
+      "title": "GTA+ members get a free supercar and discounts; Leonida finally has a loyalty scheme",
+      "source": "GameSpot",
+      "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQTTN0aGNxYm9EWklSV0lxNW5PUVNac014cEQtcGs2bjZSekNyM01MY3phQWFVbFp6TThnT3NvTHRqWUQxc1g1T211Vm1Gc3RVcVFHRWlETmJaMGNWVW8zVzE1VFBYYzdKVmd6X3REZnY5RE5rQTNJUXBBUTVzeW0yOTJ5b241cUFHWWU4b3FXUE1USGh6SFZRT0Y2VmRvZzJqVVY0?oc=5",
+      "published": "2026-11-18T12:28:40Z",
+      "added": "2026-11-18T13:43:34Z",
+      "orig": "GTA 6’s GTA+ Subscription Includes A Free Supercar, Discounts, And More",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "gamingbible-highest-rated",
       "title": "Critics' 10s pour in; GAMINGbible calls Leonida the highest rated game of all time",
@@ -22,17 +55,6 @@
       "orig": "The ‘GTA 6’ Metacritic Review Score Is In And Ties The All-Time Record",
       "news": 7,
       "humor": 6
-    },
-    {
-      "id": "wccftech-series-s-fsr4",
-      "title": "Series S gets FSR 4 upscaling, 720p to 1080p; the little console sweats",
-      "source": "Wccftech",
-      "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQi1BVEtydjBCRVRaNGZSdnFFNGZyUWhEa3ZicUxVcUlfRzVTNWVDckRyQWhGN3kxRFR1NnpKTnVLVEtNWjY3Q1pMX2lCTFZwSm96RmRLMjBaaHh5Q1pEYmVHQUNPaG9sNXpsU0tFUXhtei1fUFIta3IzZWJkZHFsTEpEd9IBiAFBVV95cUxPOG90UDNsMEJ0YUxKQ0VYMVF6eXNNcHduUE1VNnV3NWRxQkE1RU9nVFNZSFE3dkRhYW5RbVgzeGt0clF5Sl8yaGVGa0x6clhTY2plN2VqZDMwNWhkWUlZenNYOVBHajl1U2UzcjVlNHpHZ0JVYVZiSGVKR1AydXVCSGlMdFZWZVQ0?oc=5",
-      "published": "2026-11-18T11:20:19Z",
-      "added": "2026-11-18T11:43:13Z",
-      "orig": "Grand Theft Auto VI Uses AMD FSR 4 On Xbox Series S, Upscaling 720p To 1080p While Still Running Ray Traced Global Illumination",
-      "news": 6,
-      "humor": 5
     },
     {
       "id": "reuters-global-rollout",
@@ -99,17 +121,6 @@
       "orig": "Miami Heat unveil Vice City court for 'Grand Theft Auto VI'-themed clash with Milwaukee Bucks",
       "news": 5,
       "humor": 7
-    },
-    {
-      "id": "digital-foundry-no-40fps",
-      "title": "Digital Foundry: Leonida's CPU appetite leaves PS5 Pro without a 40 FPS mode",
-      "source": "TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQYTg0S1hQOTlmZndwb1VRNEg0S1Z2QnhNcUk3XzBORVZUZE8yV1gtYzZLVkxhbnBma2RUV2hoQXlDNlBuRkpKRFJERWpmem10TlhkOEc3MHFaU25PX0tTQUkwaWFjU2RFYjIzN00wSlUzR2NhdVlqNVRCNHpkYWdJaEYyLUxaR0pZcVNoQ0hDT2lld1hTRWEzWkgteHlQRndRdlZuRnJVX3NIRHpBUzR2b0F6a2JudDkyVGVJdFA5TzR4RE9OajJvcndYaHFXQQ?oc=5",
-      "published": "2026-11-17T20:20:01Z",
-      "added": "2026-11-17T20:43:23Z",
-      "orig": "Digital Foundry says GTA VI's CPU demands make a 40 FPS mode on PS5 Pro too difficult",
-      "news": 6,
-      "humor": 5
     },
     {
       "id": "lucia-actor",
@@ -649,17 +660,6 @@
       "orig": "GTA 6 Demand Is 'Extraordinary,' but Take-Two CEO Isn't Ready to Declare Victory",
       "news": 6,
       "humor": 6
-    },
-    {
-      "id": "thirty-fps",
-      "title": "Rockstar confirms 30 FPS on consoles; Pro owners told to enjoy the extras",
-      "source": "SVG",
-      "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeGptdDBYbXpJQ1FMd0ZrLXNiZWVFdFhINDdhdThjWWp2Q3RHNW5sVmlxTjVHdU13cnhNaFNwQjdzM1Z4MmM0MTI0OHF3WVdESndxVThuMHhGekltQ2hQQ1ZRX0JZVFBtNjBXb1lDT3JqYnNnWm9yWklkcThwc09md0Y1YXNNbkZrWVE?oc=5",
-      "published": "2026-11-11T13:37:57Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6's 30 FPS Console Limit Officially Confirmed Alongside PS5 Pro Features",
-      "news": 9,
-      "humor": 4
     }
   ]
 }
