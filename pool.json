@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-18T17:43:30Z",
+  "updatedAt": "2026-11-18T18:43:14Z",
   "items": [
+    {
+      "id": "nz-time-trick",
+      "title": "Kiwi time zone trick lets Xbox and PS5 players start Leonida hours early",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9TYmlTM0pyNXdQRVFQR1dzXzdDZV9DS0ozalBvbU5vcnpDQnVhN3pVaTR4aWNjUG1CclZiQzlBTTVZekxJeXgwNzY3djl0TTNzYTlhUVBvcnFRZEhKQ2ZOSzhmTGJPTkpGUE9CVU9LU2xPZmNCVVNoaUZXelY?oc=5",
+      "published": "2026-11-18T17:36:00Z",
+      "added": "2026-11-18T18:43:14Z",
+      "orig": "GTA 6 New Zealand time trick for Xbox, PS5: How to play hours early - Mashable",
+      "news": 4,
+      "humor": 5
+    },
     {
       "id": "forbes-17bn",
       "title": "Vice City's pre-order tab nears $1.7 billion with one day to go",
@@ -13,6 +24,17 @@
       "humor": 5
     },
     {
+      "id": "ps-blog-tomorrow",
+      "title": "PlayStation Blog confirms Vice City opens tomorrow, November 19",
+      "source": "PlayStation Blog",
+      "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNTFc4c2VNaGx3Q1dvbVRQazRRSEZJM3dpNUhobHJXMi1nZUtYcDE4UEVGcFIwRkdmTXdBaVZ0bGxDbDhSSkpwbWVzYWdfNWpYT3NIeG1LY1pqdG5MMEJUci13M2V2Q010LVhfNmZ4NW9fcDU0T3prQVJGRjU1b3VPcUJaS2lvYjVQcHkyRkF6eWNSS29Y?oc=5",
+      "published": "2026-11-18T16:00:23Z",
+      "added": "2026-11-18T18:43:14Z",
+      "orig": "Grand Theft Auto VI launches tomorrow, November 19 - PlayStation.Blog",
+      "news": 6,
+      "humor": 3
+    },
+    {
       "id": "comcast-record",
       "title": "Comcast braces for record internet traffic as Leonida comes online",
       "source": "Inc.com",
@@ -22,6 +44,17 @@
       "orig": "Grand Theft Auto 6 Is About to Test the Internet Like Never Before. Comcast Expects a New Record - Inc.com",
       "news": 6,
       "humor": 5
+    },
+    {
+      "id": "kotaku-campaign-length",
+      "title": "Kotaku times Leonida's main story; clear your calendar accordingly",
+      "source": "Kotaku",
+      "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9kMXZQQkY2VnZfbmc4MkltcmgtWnRva0x3aXFpNE1ZTGVHYzVXV2tybnpUYmw3VmhUNW01a25OU0xkaDUzcUdyU0hZb01CTmhfdTFLWTJoZHJDZDg?oc=5",
+      "published": "2026-11-18T15:30:26Z",
+      "added": "2026-11-18T18:43:14Z",
+      "orig": "How Long To Finish GTA 6's Main Story Campaign - Kotaku",
+      "news": 5,
+      "humor": 4
     },
     {
       "id": "sam-houser-statement",
@@ -109,6 +142,17 @@
       "added": "2026-11-18T11:43:13Z",
       "orig": "Gamers get ready to enter Vice City as Grand Theft Auto VI begins global rollout",
       "news": 7,
+      "humor": 4
+    },
+    {
+      "id": "no-60fps-mode",
+      "title": "Leonida gets no 60 FPS mode, even on PS5 Pro: 'not powerful enough'",
+      "source": "Kotaku",
+      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONDM4WXU5eFRXaEpTMm0yRjAxNkxBUU9XTHRRVHVMdElnZURCcm5tRXo5ZmxFNEVnZEZfXzZiSV9xSk5HZFhqMjE2c1BETmtzX05qbURoWklpTjk4QjUwdUprUU5CUzlWYnV5cmRyN0swbVQwVHZEYkhEeXJ4WXBMV2NFTlpEc2djMDYyeDhXRTdGelNEWnZMNmQwRkktMHczeG1KeFV0cUJLZw?oc=5",
+      "published": "2026-11-18T11:10:48Z",
+      "added": "2026-11-18T18:43:14Z",
+      "orig": "GTA 6 Won’t Get A 60 FPS Mode, Even On PS5 Pro, Because It’s ‘Not Powerful Enough’ - Kotaku",
+      "news": 6,
       "humor": 4
     },
     {
@@ -614,50 +658,6 @@
       "published": "2026-11-12T08:33:00Z",
       "added": "2026-11-12T10:44:17Z",
       "orig": "Take-Two misses its own Q2 forecast and leaves GTA 6 to carry the year",
-      "news": 6,
-      "humor": 5
-    },
-    {
-      "id": "ps5-100m",
-      "title": "PS5 clears 100 million shipments just as Leonida prepares to open",
-      "source": "Yahoo Finance",
-      "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNOGQ4eGhUdnF2VW9rQXRlUGVremxBaTRHTEc4bk4yR254RXZ4WG9BUnBOSWRmV29iSEFMa3p1bERwcTFrUGRhZ3NiZzJ5MTVZNG4yOXlEMjdHTHZDTkdFNUlLRnVpZFZXYzE5YWdzS2R6MGt0anBkSE11UmdVTHVxaW1vWjlUZThSSGFGanZmeUZYdUhYNXBBSQ?oc=5",
-      "published": "2026-11-11T18:21:31Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "PS5 Passes 100 Million Shipments as GTA VI Prepares to Launch",
-      "news": 7,
-      "humor": 6
-    },
-    {
-      "id": "wapo-1b-presales",
-      "title": "Insiders say Leonida's cash register has already rung past $1 billion",
-      "source": "Washington Post",
-      "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbGpKbTJwaHF3VnRPMzh2SWx4dm1jNk1tckF0bUo1RF9RTGtsdkdNUE12M2J4Wjh3eEdvekwwamNSYlU5T3N3RS0tb2t3clFoYXA3eTlFSk1kcXYwX25QWkZkaloxMWdaaExKYk51WkhVR1FQTEdjOEFwT0pWN2ctYzMtNUdra1d5X3VjT3RUdlRzdTlJSUUydFQyM0RGV0d0Q3I3NTJnN2dxMXZnczNzTzRmLVNsTE9hUHhObXdmRmdIVjhGalBqTHgteWZSVzlF?oc=5",
-      "published": "2026-11-11T18:12:50Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "‘Grand Theft Auto VI′ reportedly passes $1B in sales a week before release",
-      "news": 8,
-      "humor": 6
-    },
-    {
-      "id": "preload-forbes",
-      "title": "GTA VI preloads slow the internet; ISP asks nation to please stop downloading Vice City",
-      "source": "Forbes",
-      "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZDE0aGMxRk9vR2Rwa1o3NV9vendjenZRX1I2X1B2dkU5VVNqcDhnaFpiTERMMUZTODZSdzNBMUJIUlVCb29DZTNRS21oZUI3SXNLc01ZR3h5VGZwYmNTcXgzdzhlX0NpejlhN0IyOGtFekdWclkzU0syWnNPVkc0TmtvY0YyNmxuZEFUUGVheDhKYWh3TWROei1jd0w1emNkVWFaU0ktNFB6QQ?oc=5",
-      "published": "2026-11-11T18:07:58Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "‘GTA 6’ Pre-Loads Are Slowing Down The Internet, Warns ISP",
-      "news": 6,
-      "humor": 7
-    },
-    {
-      "id": "vmo2-records",
-      "title": "212 GB preload congests Yorkshire, sets Virgin Media O2 traffic records",
-      "source": "Yahoo Tech",
-      "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBqSWN2N09ycWE1TXJZQms1Q1o0VXJBV1M3eWFFQTBnSlAxNGRONVpJd2pHQUFZNHktNTI3V1c1cjl6VFE1UVJKRGtCOUhBSFZwRWhscjRsbFRFaHpYQlJEaVV6dEo1eUhKQjNBT3R6UUtqelRNUzFmTDVJRFh1bjQ?oc=5",
-      "published": "2026-11-11T17:48:23Z",
-      "added": "2026-11-11T18:43:33Z",
-      "orig": "GTA 6’s 212 GB Preload Caused Yorkshire Congestion and Set Virgin Media O2 Records",
       "news": 6,
       "humor": 5
     }
