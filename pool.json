@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-11-18T11:43:13Z",
+  "updatedAt": "2026-11-18T12:43:32Z",
   "items": [
     {
       "id": "gamingbible-highest-rated",
@@ -11,6 +11,17 @@
       "orig": "GTA 6 is the highest rated game of all-time, as endless 10/10 reviews pour in",
       "news": 8,
       "humor": 5
+    },
+    {
+      "id": "metacritic-ties-record",
+      "title": "Metacritic score ties the all-time record; Leonida joins the hall of fame early",
+      "source": "Forbes",
+      "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPT0ZQdnpTNUI2ZGNCNDd6U0ViLXB4TGxNdU5fTnIyTTJlenQwZF9JdVZiS0NlSXF2TEdENTVwUFlJNTVIWjlDMDhmaGMxd3lELVljT1RrcnVZWEVFS185TXJpM2JuazlMUVpXZXBVa2t6d0FXeGlxN19ZVGZ4OTNSYkZtRTFxNGJNRzlLSmRnTEwxZzBzVi1EY1VxQnZWTWJXM3hXX1VvTVluMGNndEZzUEQyT3dua2I0NHc?oc=5",
+      "published": "2026-11-18T11:25:00Z",
+      "added": "2026-11-18T12:43:32Z",
+      "orig": "The ‘GTA 6’ Metacritic Review Score Is In And Ties The All-Time Record",
+      "news": 7,
+      "humor": 6
     },
     {
       "id": "wccftech-series-s-fsr4",
@@ -308,17 +319,6 @@
       "orig": "Internet exchange sees all-time network traffic high as ‘Grand Theft Auto VI’ downloads begin",
       "news": 6,
       "humor": 5
-    },
-    {
-      "id": "kfc-fake-funeral-alibi",
-      "title": "KFC stages fake funeral so Leonida fans have an alibi; HR not invited",
-      "source": "TweakTown",
-      "link": "https://www.tweaktown.com/news/114693/kfc-is-hosting-a-fake-funeral-in-australia-so-people-can-take-the-day-off-for-gta-6/index.html",
-      "published": "2026-11-16T01:57:02Z",
-      "orig": "KFC is hosting a fake funeral in Australia so people can take the day off for GTA 6",
-      "news": 4,
-      "humor": 8,
-      "added": "2026-11-16T07:43:39Z"
     },
     {
       "id": "base-ps5-below-30",
