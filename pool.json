@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-18T22:43:14Z",
+  "updatedAt": "2026-11-18T23:43:35Z",
   "items": [
+    {
+      "id": "map-room-future",
+      "title": "Leonida has vacancies: Rockstar hints map saved room for future content",
+      "source": "Mashable",
+      "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQd2VRMGhHMzg1OTZBN2hRYkstdmR0c2ZFN21KZkVzVExVZ1M4bzRSTFZ1bmxfOG5xaW9OUXhVa244dkJrbVctM19UYXh3ZW1INmJySHN0OXdGRFRBR2pERXpjYWpOdzlqc2NNQUZoamlFSkJqcHROVlJ6N3ZSQXVJZ0Zn?oc=5",
+      "published": "2026-11-18T22:44:20Z",
+      "added": "2026-11-18T23:43:35Z",
+      "orig": "Rockstar hints massive 'GTA 6' map saved room for future content",
+      "news": 6,
+      "humor": 6
+    },
     {
       "id": "fed-telework-warning",
       "title": "Feds warned: no teleworking for Leonida; the memo says what the water cooler won't",
@@ -46,6 +57,17 @@
       "humor": 6
     },
     {
+      "id": "polygon-mountains",
+      "title": "Rockstar: Leonida's absurd mountains stay, realism can take a hike",
+      "source": "Polygon",
+      "link": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE5kRnBfUHdnY2NrNDhTWHRlZ1pwdktCTHhIY1FtaGF2NmlTSnRPakQ5S19LanotUXl3ZDVSamdhSURBMVR6Unp4SjcxWTV2cm9WSjgzb2lyWmxaSXdZQUZVTFUtQQ?oc=5",
+      "published": "2026-11-18T19:28:46Z",
+      "added": "2026-11-18T23:43:35Z",
+      "orig": "GTA 6's Completely Unrealistic Mountains Had to Be in the Game, Rockstar Says",
+      "news": 5,
+      "humor": 7
+    },
+    {
       "id": "ceo-nonplayer-bet",
       "title": "Take-Two's boss doesn't play video games, and is betting $1B on Leonida anyway",
       "source": "Fortune",
@@ -65,17 +87,6 @@
       "added": "2026-11-18T16:44:11Z",
       "orig": "‘GTA VI’ Nears $1.7 Billion In Pre-Order Sales—One Day Before Launch - Forbes",
       "news": 7,
-      "humor": 5
-    },
-    {
-      "id": "comcast-record",
-      "title": "Comcast braces for record internet traffic as Leonida comes online",
-      "source": "Inc.com",
-      "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOalhzZTBsR2toekhaVlhwOXJjQXRHc3ROVW0xVzVFT25tRjAxX2FaR3VfRHFQemtBQnJJOWhIbkM3OTBhX2xvTHdlelY0QzlEQ2VWcUxMMk5leC1LMlA1N3RUdC1leDhCajMwZjJ2RDI1aDRnLWdoQkdTVDRJWWpIT0xHckZLRzV2QlZzVUR4TTl3YTlSTFNyS1JCazAyczdBRWN3c1RsVkR6LUY3dzVJZ3dn?oc=5",
-      "published": "2026-11-18T15:31:56Z",
-      "added": "2026-11-18T16:44:11Z",
-      "orig": "Grand Theft Auto 6 Is About to Test the Internet Like Never Before. Comcast Expects a New Record - Inc.com",
-      "news": 6,
       "humor": 5
     },
     {
@@ -242,17 +253,6 @@
       "orig": "GTA 6 is the most nominated game at The Game Awards 2026",
       "news": 8,
       "humor": 6
-    },
-    {
-      "id": "firaxis-layoffs",
-      "title": "Take-Two lays off Firaxis staff on the eve of Leonida; not everyone gets an invite",
-      "source": "Game Developer",
-      "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeFRCbUVieWgxNFcwMzloNDdsNWI3a3AxRVNheWVQODhYM1RqUjFMeFVkSG9DRTJKc3hPT1ZTXzFFVWxQcGE1ZVhvQVY2Xy1NUDg1T0RSeUhQTGxtNUliY3FXZEZTVlJJd3BsNVY4ZVZhbm1PNDlnbjFTR2ZnRmxzU0JWSFBUR2xYdnpYSDZ1VElqMkt4cmx4d2hWVENFbTUzbDlMV0s2Y3RFakhtYlI0cQ?oc=5",
-      "published": "2026-11-17T16:21:41Z",
-      "added": "2026-11-17T16:43:47Z",
-      "orig": "Take-Two lays off Firaxis employees on eve of Grand Theft Auto VI launch",
-      "news": 6,
-      "humor": 5
     },
     {
       "id": "preorders-near-16m",
