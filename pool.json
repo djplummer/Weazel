@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-18T03:44:19Z",
+  "updatedAt": "2026-11-18T05:43:20Z",
   "items": [
+    {
+      "id": "fake-rockstar-delay-letter",
+      "title": "Fake Rockstar letter claims a 2027 delay",
+      "source": "Yahoo Tech",
+      "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOb2ZTRjdGejRXaWZTNWRJUlI0STBYc2RqTWNmZ0hNemtpcE9aNVpfdjEwcVpCTXJPcVBEVTZ0dW1QYTZkaXJKelVYUTdPTGt1c0EzZ3BHRE8yeXRZOFZIUDRaT1dPMVlTeTdlNmhUREVVdTBQczBVSnZtRldRaHlYcVZmck93YnBLUGtRUw?oc=5",
+      "published": "2026-11-18T03:26:00Z",
+      "added": "2026-11-18T05:43:20Z",
+      "orig": "Fact Check: FAKE Rockstar Games Letter Claims GTA VI Release Date Pushed Back To 2027",
+      "news": 6,
+      "humor": 6
+    },
     {
       "id": "miami-heat-vice-city-court",
       "title": "Heat swap hardwood for Vice City neon; Bucks asked to keep up",
@@ -141,17 +152,6 @@
       "published": "2026-11-17T07:00:00Z",
       "added": "2026-11-17T07:43:28Z",
       "orig": "Newzoo: GTA 6 pre-orders are archetypal console players but overwhelmingly male; game will \"grow the market rather than simply redistribute it\"",
-      "news": 5,
-      "humor": 6
-    },
-    {
-      "id": "preorders-15m",
-      "title": "Pre-orders reportedly near 15 million as Take-Two stock rallies; Leonida pays upfront",
-      "source": "BigGo Finance",
-      "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9RSTJEdFV5MUZwdTJnMTdVcmFpNzVIZEpJSUxvbjF4YWlzUm84dDgzdWVETnFjNzZUa2hVelFyTzlwXzE2Ulc5bEM4RnlNSGk2cTlvcHREQ3ZBaVZNLWMwM3VmLVpqRDg2UFVQcDNZTnhfemp1T1E?oc=5",
-      "published": "2026-11-17T04:05:00Z",
-      "added": "2026-11-17T04:43:34Z",
-      "orig": "GTA 6 Preorders Near 15 Million Copies, Sales Value Hits NT$48 Billion as Take-Two Stock Rallies Ahead of Launch",
       "news": 5,
       "humor": 6
     },
