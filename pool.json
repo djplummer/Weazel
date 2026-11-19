@@ -1,6 +1,17 @@
 {
-  "updatedAt": "2026-11-19T05:43:22Z",
+  "updatedAt": "2026-11-19T06:43:30Z",
   "items": [
+    {
+      "id": "investinglive",
+      "title": "PlayStation reportedly takes three-quarters of 17 million Leonida sales; Sony shares rise",
+      "source": "investingLive",
+      "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQVQ3QWp2bWE4dFhZS0ppUW8zQ3dsVVdqVUw1SFBzMzhaX2NJQ2hMWldoaXJ0ZC1pb0JIM3NQMWJma1RhV1E4Zlo2RTE5aGo1a2xYMi1ZUzBGRkdJTFZKSWRveHU5ZzRYUDNCRlJ3dml2Z3RyMTZlNEtFZTlHWDJFakJka0NSZFhZVTcwTWgzN3V5NlNibzZtaDV5X2I5MDAzWHc3Wmdtd1VEaXI0NWhFWDM5RnQ?oc=5",
+      "published": "2026-11-19T04:38:39Z",
+      "added": "2026-11-19T06:43:30Z",
+      "orig": "GTA VI lifts Sony shares as PlayStation takes three-quarters of 17 million sales",
+      "news": 7,
+      "humor": 5
+    },
     {
       "id": "sony-supercharge-not-japan",
       "title": "Sony to ride Vice City to the bank, Japan not invited",
@@ -506,17 +517,6 @@
       "orig": "'GTA VI' Pre-Loading Begins, Rockstar Drops New Teaser f/ Tove Lo Track",
       "news": 6,
       "humor": 6
-    },
-    {
-      "id": "guardian-inside-story",
-      "title": "Guardian tours Leonida's building site: ten years, thousands of staff, $1 billion",
-      "source": "The Guardian",
-      "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd1o3QjBQeUxxMXBSWFBUZ3pGaTJxMFZiN1JBdmh4bEV5NjVGeFpsTGFHaDZMTXlrNkZqUGdSSUVWTXh6NEhjb1lNV2xDWkU4Um53RkI2QjBVQVJvRW80ZjVCVHhzbXloaE00RDJJYzN5SmRJN2FfRTFiNm96V3hsSlFXdzJmUVpDYTVhZVRjMU1wTVNaM0ViNjhLMk51U0I1NzVMZQ?oc=5",
-      "published": "2026-11-15T11:26:00Z",
-      "added": "2026-11-15T12:44:11Z",
-      "orig": "Ten years, thousands of staff and a billion dollars: the exclusive inside story of Grand Theft Auto VI - The Guardian",
-      "news": 6,
-      "humor": 5
     },
     {
       "id": "leaked-soundtrack-confirmed-real",
