@@ -1,6 +1,28 @@
 {
-  "updatedAt": "2026-11-19T02:43:20Z",
+  "updatedAt": "2026-11-19T03:43:32Z",
   "items": [
+    {
+      "id": "sony-supercharge-not-japan",
+      "title": "Sony to ride Vice City to the bank, Japan not invited",
+      "source": "Reuters",
+      "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNR1pwcXVKYWNHblYzQU9xMGMwd0dWWkhQQmxDcEV3OU9ubXZZNC1USElINmVhX1IyMkFqSXNZTTRCT0VSX0pmcTYxR3RuaVVVb3Bsa1RuTmV4YWJNQXVrdXlxVHJhRVYtVVVGWndsSmJNM2NoaThhQXFSSlA0TENya3I4bFo3SXVKbkVGQUxxRHRIN0lQVS1kSFdaMEpLNzBu?oc=5",
+      "published": "2026-11-19T03:05:00Z",
+      "added": "2026-11-19T03:43:32Z",
+      "orig": "'GTA VI' to supercharge Sony — just not in Japan",
+      "news": 6,
+      "humor": 6
+    },
+    {
+      "id": "variety-no-adaptation",
+      "title": "Take-Two CEO to Hollywood: we prefer to control our own destiny",
+      "source": "Variety",
+      "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMTBmOVJWR0pzcjVRMTNjOFdLcG1TWnpGdGdtVTA0XzdCUFJsZDJqSFp2aUFlUXY4ODZSLXd3RmRLSHUwa0dmMEd3U1NfNHpPdWFPYnZ1eFJmZ1h0Wl9HcXdHRDZTX09VMHJDdWtIVVFfbEVodUZheXhJUFdETE9JcEdMMDdUcE9tVjg1SWVMUWRUNE11OGc?oc=5",
+      "published": "2026-11-19T00:29:00Z",
+      "added": "2026-11-19T03:43:32Z",
+      "orig": "Why ‘GTA’ Has Never Been Adapted for Film or TV: ‘We Prefer to Control Our Own Destiny,’ Take-Two CEO Says",
+      "news": 6,
+      "humor": 5
+    },
     {
       "id": "album-vinyl-cd",
       "title": "Leonida's album is headed to vinyl and CD; radio-free, but still stuck in traffic",
@@ -288,17 +310,6 @@
       "humor": 6
     },
     {
-      "id": "preorders-near-16m",
-      "title": "Pre-orders reportedly near 16 million and $1.5bn; Leonida's tills sing",
-      "source": "TweakTown",
-      "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPMmxVOEpsckkyalJPeTljQ0FLRzNHSzBEcFR5UExsS0M0d3Q4a1E0czdoLXhRZnBpdS1YbWtLZ3lybm5haW5aMzFaRXRYUEc3eXdzeldpcXVJS0xDWHktNVhmMjNiUzFRbngyQlJWWGJlbXNuX2dvZFlJTzN0N3N2TFVISFFjYzRHRXZHc0V3aThFa0IxS2M1SmpUdFhibW1sV1o0YnhKNXBVYkxKRHhZU1hVbDdoZUtackhFY3YycVBqbEg2MnNCTk9RelJuSmZLY2JHTFA4MVFqUlVEVDI5c1lWZmVNT3BjTVpJR1czd3BnMzJqdl9KR3lSbTAyN1JBM0I5cG1pSQ?oc=5",
-      "published": "2026-11-17T15:15:01Z",
-      "added": "2026-11-17T15:43:36Z",
-      "orig": "GTA 6 pre-orders almost hit 16 million - and exceed $1.5 billion revenue",
-      "news": 6,
-      "humor": 5
-    },
-    {
       "id": "gta6-tops-every-ps-store",
       "title": "GTA VI tops every PlayStation Store chart two days out; Leonida needs no introduction",
       "source": "OpenCritic",
@@ -352,17 +363,6 @@
       "orig": "Discord adds a Vice City theme, app icon and name style ahead of Grand Theft Auto VI",
       "news": 6,
       "humor": 6
-    },
-    {
-      "id": "festival-lineup",
-      "title": "GTA VI Festival lineup lands: Travis Scott, Cardi B and Justice on the bill",
-      "source": "RouteNote",
-      "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOR0YxMmdUalJ6UzlUOTNYTXlFbmJZQk1CT0FJOGhvRVJhY3I3c3JZYllIVEIxUUVPMmRHQlBzTGRnNzNPYTdRSFBzYVg2MHM5Sk1YTG5RdHhyTjVobVUzVzRKSGdWSzhWUEVUTUV2bFlaeVFraHVrSUFQZjJ3b3JyMVVlOHpuMFgzaTJ6Z05KT2NhTFYzaWdQNDB3?oc=5",
-      "published": "2026-11-16T14:54:00Z",
-      "added": "2026-11-16T15:44:07Z",
-      "orig": "GTA VI Festival 2026 Lineup: Travis Scott, Cardi B, Justice and More",
-      "news": 6,
-      "humor": 5
     },
     {
       "id": "motor1-118b",
